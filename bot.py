@@ -6,7 +6,6 @@ import requests
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-# ساعات فعالیت ربات
 TIMEZONE = "Europe/Berlin"
 START_HOUR = 8
 END_HOUR = 20
@@ -18,7 +17,6 @@ CHANNEL_ID = os.environ.get("CHANNEL_ID")
 def main():
     now = datetime.now(ZoneInfo(TIMEZONE))
 
-    # در ساعات شب هیچ پیامی ارسال نشود
     if not (START_HOUR <= now.hour < END_HOUR):
         print("Outside active hours. No message sent.")
         return
@@ -26,7 +24,6 @@ def main():
     if not BOT_TOKEN or not CHANNEL_ID:
         raise RuntimeError("BOT_TOKEN or CHANNEL_ID is missing.")
 
-    # خواندن فهرست لغات
     with open("words.json", "r", encoding="utf-8") as file:
         words = json.load(file)
 
@@ -36,26 +33,18 @@ def main():
 
     word = random.choice(words)
 
-    message = f"🇪🇸 {word['spanish']}\n"
-    message += f"🇮🇷 {word['persian']}"
-
-    if word.get("pronunciation"):
-        message += f"\n🔊 {word['pronunciation']}"
-
-    if word.get("example"):
-        message += f"\n\n💬 {word['example']}"
-
-    if word.get("example_persian"):
-        message += f"\n{word['example_persian']}"
+    message = (
+        f"🇪🇸 {word['spanish']}\n"
+        f"🇮🇷 {word['persian']}\n\n"
+        f"💬 {word['example']}\n"
+        f"{word['example_persian']}"
+    )
 
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
 
     response = requests.post(
         url,
-        data={
-            "chat_id": CHANNEL_ID,
-            "text": message
-        },
+        data={"chat_id": CHANNEL_ID, "text": message},
         timeout=20
     )
     response.raise_for_status()
