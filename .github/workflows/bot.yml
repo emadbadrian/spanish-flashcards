@@ -6,12 +6,23 @@ on:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
+# Allow the workflow to save its progress to the repository
+permissions:
+  contents: write
+
+# Prevent two runs from updating the word list at the same time
+concurrency:
+  group: spanish-flashcards-bot
+  cancel-in-progress: false
+
 jobs:
   send-vocabulary:
     runs-on: ubuntu-latest
+
     env:
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
       CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+
     steps:
       - name: Get repository files
         uses: actions/checkout@v4
@@ -32,3 +43,15 @@ jobs:
 
       - name: Run vocabulary bot
         run: python bot.py
+
+      - name: Save vocabulary progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add word_state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update vocabulary progress"
+            git push
+          else
+            echo "No vocabulary progress changes to save."
+          fi
