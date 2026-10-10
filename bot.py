@@ -7,7 +7,7 @@ import requests
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-TIMEZONE = "Europe/Berlin"
+TIMEZONE = "Asia/Tehran"
 START_HOUR = 8
 END_HOUR = 20
 
