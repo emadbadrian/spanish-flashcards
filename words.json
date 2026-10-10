@@ -1,24 +1,2372 @@
-
 [
   {
-    "spanish": "la ventana",
-    "persian": "پنجره",
-    "pronunciation": "لا بِن‌تانا",
-    "example": "Abro la ventana.",
-    "example_persian": "پنجره را باز می‌کنم."
+    "spanish": "el teatro",
+    "persian": "تئاتر",
+    "example": "Me gusta el teatro.",
+    "example_persian": "من تئاتر را دوست دارم."
+  },
+  {
+    "spanish": "el hotel",
+    "persian": "هتل",
+    "example": "El hotel está en el centro.",
+    "example_persian": "هتل در مرکز شهر است."
+  },
+  {
+    "spanish": "el hospital",
+    "persian": "بیمارستان",
+    "example": "El hospital está cerca.",
+    "example_persian": "بیمارستان نزدیک است."
+  },
+  {
+    "spanish": "la palabra",
+    "persian": "کلمه",
+    "example": "Esta palabra es nueva.",
+    "example_persian": "این کلمه جدید است."
+  },
+  {
+    "spanish": "la universidad",
+    "persian": "دانشگاه",
+    "example": "Estudio en la universidad.",
+    "example_persian": "من در دانشگاه درس می‌خوانم."
+  },
+  {
+    "spanish": "la biblioteca",
+    "persian": "کتابخانه",
+    "example": "Leo en la biblioteca.",
+    "example_persian": "در کتابخانه مطالعه می‌کنم."
+  },
+  {
+    "spanish": "la guitarra",
+    "persian": "گیتار",
+    "example": "Toco la guitarra.",
+    "example_persian": "گیتار می‌زنم."
+  },
+  {
+    "spanish": "completar",
+    "persian": "کامل کردن",
+    "example": "Tengo que completar la tarea.",
+    "example_persian": "باید تکلیف را کامل کنم."
+  },
+  {
+    "spanish": "añadir",
+    "persian": "اضافه کردن",
+    "example": "Voy a añadir una palabra.",
+    "example_persian": "می‌خواهم یک کلمه اضافه کنم."
+  },
+  {
+    "spanish": "el ejemplo",
+    "persian": "مثال",
+    "example": "Es un ejemplo fácil.",
+    "example_persian": "این یک مثال آسان است."
+  },
+  {
+    "spanish": "el género",
+    "persian": "جنس دستوری",
+    "example": "¿Cuál es el género de esta palabra?",
+    "example_persian": "جنس دستوری این کلمه چیست؟"
+  },
+  {
+    "spanish": "el número",
+    "persian": "عدد؛ شمار",
+    "example": "Escribe el número correcto.",
+    "example_persian": "عدد درست را بنویس."
+  },
+  {
+    "spanish": "la terminación",
+    "persian": "پسوند پایانی؛ پایان واژه",
+    "example": "La terminación es -s.",
+    "example_persian": "پایان واژه s است."
+  },
+  {
+    "spanish": "la vocal",
+    "persian": "حرف صدادار",
+    "example": "La a es una vocal.",
+    "example_persian": "حرف a یک حرف صدادار است."
+  },
+  {
+    "spanish": "la consonante",
+    "persian": "حرف بی‌صدا",
+    "example": "La m es una consonante.",
+    "example_persian": "حرف m یک حرف بی‌صدا است."
+  },
+  {
+    "spanish": "practicar",
+    "persian": "تمرین کردن",
+    "example": "Quiero practicar español.",
+    "example_persian": "می‌خواهم اسپانیایی تمرین کنم."
+  },
+  {
+    "spanish": "decir",
+    "persian": "گفتن",
+    "example": "¿Cómo se dice en español?",
+    "example_persian": "به اسپانیایی چطور گفته می‌شود؟"
+  },
+  {
+    "spanish": "jugar",
+    "persian": "بازی کردن",
+    "example": "Me gusta jugar al fútbol.",
+    "example_persian": "دوست دارم فوتبال بازی کنم."
+  },
+  {
+    "spanish": "la página",
+    "persian": "صفحه",
+    "example": "Abre la página sesenta.",
+    "example_persian": "صفحهٔ شصت را باز کن."
+  },
+  {
+    "spanish": "el compañero",
+    "persian": "هم‌کلاسی؛ همکار مذکر",
+    "example": "Mi compañero habla español.",
+    "example_persian": "هم‌کلاسی من اسپانیایی صحبت می‌کند."
+  },
+  {
+    "spanish": "la compañera",
+    "persian": "هم‌کلاسی؛ همکار مؤنث",
+    "example": "Mi compañera es simpática.",
+    "example_persian": "هم‌کلاسی من خوش‌برخورد است."
+  },
+  {
+    "spanish": "el saludo",
+    "persian": "سلام و احوال‌پرسی",
+    "example": "El saludo es importante.",
+    "example_persian": "سلام و احوال‌پرسی مهم است."
+  },
+  {
+    "spanish": "el nombre",
+    "persian": "نام",
+    "example": "Mi nombre es Emad.",
+    "example_persian": "اسم من عماد است."
+  },
+  {
+    "spanish": "el apellido",
+    "persian": "نام خانوادگی",
+    "example": "Mi apellido es Badrian.",
+    "example_persian": "نام خانوادگی من بدریان است."
+  },
+  {
+    "spanish": "la despedida",
+    "persian": "خداحافظی",
+    "example": "La despedida es corta.",
+    "example_persian": "خداحافظی کوتاه است."
+  },
+  {
+    "spanish": "la lengua",
+    "persian": "زبان",
+    "example": "El español es una lengua bonita.",
+    "example_persian": "اسپانیایی زبان زیبایی است."
+  },
+  {
+    "spanish": "el país",
+    "persian": "کشور",
+    "example": "España es un país europeo.",
+    "example_persian": "اسپانیا کشوری اروپایی است."
+  },
+  {
+    "spanish": "el motivo",
+    "persian": "دلیل؛ انگیزه",
+    "example": "¿Cuál es el motivo del viaje?",
+    "example_persian": "دلیل سفر چیست؟"
+  },
+  {
+    "spanish": "estudiar",
+    "persian": "درس خواندن؛ مطالعه کردن",
+    "example": "Estudio español cada día.",
+    "example_persian": "هر روز اسپانیایی می‌خوانم."
+  },
+  {
+    "spanish": "comparar",
+    "persian": "مقایسه کردن",
+    "example": "Vamos a comparar las respuestas.",
+    "example_persian": "بیایید پاسخ‌ها را مقایسه کنیم."
+  },
+  {
+    "spanish": "detectar",
+    "persian": "تشخیص دادن",
+    "example": "Es fácil detectar el error.",
+    "example_persian": "تشخیص اشتباه آسان است."
+  },
+  {
+    "spanish": "el intruso",
+    "persian": "مورد نامرتبط",
+    "example": "Busca el intruso en la fila.",
+    "example_persian": "مورد نامرتبط را در ردیف پیدا کن."
+  },
+  {
+    "spanish": "la fila",
+    "persian": "ردیف؛ صف",
+    "example": "Lee las palabras de la fila.",
+    "example_persian": "کلمه‌های ردیف را بخوان."
+  },
+  {
+    "spanish": "la tarea",
+    "persian": "تکلیف",
+    "example": "La tarea es fácil.",
+    "example_persian": "تکلیف آسان است."
+  },
+  {
+    "spanish": "crear",
+    "persian": "ایجاد کردن",
+    "example": "Quiero crear una lista.",
+    "example_persian": "می‌خواهم یک فهرست ایجاد کنم."
+  },
+  {
+    "spanish": "la rutina",
+    "persian": "روال روزانه",
+    "example": "Esta es mi rutina diaria.",
+    "example_persian": "این روال روزانهٔ من است."
+  },
+  {
+    "spanish": "el estudiante",
+    "persian": "دانش‌آموز؛ دانشجو مذکر",
+    "example": "El estudiante aprende rápido.",
+    "example_persian": "دانش‌آموز سریع یاد می‌گیرد."
+  },
+  {
+    "spanish": "la estudiante",
+    "persian": "دانش‌آموز؛ دانشجو مؤنث",
+    "example": "La estudiante habla con la profesora.",
+    "example_persian": "دانش‌آموز با معلم صحبت می‌کند."
+  },
+  {
+    "spanish": "al final",
+    "persian": "در پایان",
+    "example": "Al final, compartimos las respuestas.",
+    "example_persian": "در پایان پاسخ‌ها را به اشتراک می‌گذاریم."
+  },
+  {
+    "spanish": "responder",
+    "persian": "پاسخ دادن",
+    "example": "Necesito responder a la pregunta.",
+    "example_persian": "باید به سؤال پاسخ بدهم."
+  },
+  {
+    "spanish": "la pregunta",
+    "persian": "سؤال",
+    "example": "Tengo una pregunta.",
+    "example_persian": "یک سؤال دارم."
+  },
+  {
+    "spanish": "primero",
+    "persian": "اول؛ ابتدا",
+    "example": "Primero, lee el texto.",
+    "example_persian": "اول متن را بخوان."
+  },
+  {
+    "spanish": "pensar",
+    "persian": "فکر کردن",
+    "example": "Tengo que pensar un poco.",
+    "example_persian": "باید کمی فکر کنم."
+  },
+  {
+    "spanish": "dónde",
+    "persian": "کجا",
+    "example": "¿Dónde vives?",
+    "example_persian": "کجا زندگی می‌کنی؟"
+  },
+  {
+    "spanish": "hacerlo",
+    "persian": "آن را انجام دادن",
+    "example": "Puedo hacerlo hoy.",
+    "example_persian": "می‌توانم امروز آن را انجام بدهم."
+  },
+  {
+    "spanish": "la libreta",
+    "persian": "دفترچه",
+    "example": "Escribo las palabras en la libreta.",
+    "example_persian": "کلمه‌ها را در دفترچه می‌نویسم."
+  },
+  {
+    "spanish": "el teléfono",
+    "persian": "تلفن",
+    "example": "Mi teléfono está aquí.",
+    "example_persian": "تلفن من اینجاست."
+  },
+  {
+    "spanish": "la tableta",
+    "persian": "تبلت",
+    "example": "Uso la tableta para estudiar.",
+    "example_persian": "برای درس خواندن از تبلت استفاده می‌کنم."
+  },
+  {
+    "spanish": "el ordenador",
+    "persian": "رایانه",
+    "example": "El ordenador es nuevo.",
+    "example_persian": "رایانه جدید است."
+  },
+  {
+    "spanish": "estar relacionado con",
+    "persian": "مرتبط بودن با",
+    "example": "El tema está relacionado con la cultura.",
+    "example_persian": "موضوع با فرهنگ مرتبط است."
+  },
+  {
+    "spanish": "la realidad",
+    "persian": "واقعیت",
+    "example": "La realidad es diferente.",
+    "example_persian": "واقعیت متفاوت است."
+  },
+  {
+    "spanish": "especialmente",
+    "persian": "به‌خصوص",
+    "example": "Me gusta especialmente este libro.",
+    "example_persian": "من به‌خصوص این کتاب را دوست دارم."
+  },
+  {
+    "spanish": "interesante",
+    "persian": "جالب",
+    "example": "El texto es interesante.",
+    "example_persian": "متن جالب است."
+  },
+  {
+    "spanish": "el tema",
+    "persian": "موضوع",
+    "example": "¿Cuál es el tema de hoy?",
+    "example_persian": "موضوع امروز چیست؟"
+  },
+  {
+    "spanish": "la gramática",
+    "persian": "دستور زبان",
+    "example": "La gramática española es interesante.",
+    "example_persian": "دستور زبان اسپانیایی جالب است."
+  },
+  {
+    "spanish": "el léxico",
+    "persian": "واژگان",
+    "example": "Aprendo léxico nuevo.",
+    "example_persian": "واژگان جدید یاد می‌گیرم."
+  },
+  {
+    "spanish": "ayudar",
+    "persian": "کمک کردن",
+    "example": "Este libro me ayuda mucho.",
+    "example_persian": "این کتاب خیلی به من کمک می‌کند."
+  },
+  {
+    "spanish": "entender",
+    "persian": "فهمیدن",
+    "example": "No entiendo la pregunta.",
+    "example_persian": "سؤال را نمی‌فهمم."
+  },
+  {
+    "spanish": "mejor",
+    "persian": "بهتر",
+    "example": "Quiero hablar mejor español.",
+    "example_persian": "می‌خواهم اسپانیایی را بهتر صحبت کنم."
+  },
+  {
+    "spanish": "recordar",
+    "persian": "به خاطر آوردن",
+    "example": "Necesito recordar esta palabra.",
+    "example_persian": "باید این کلمه را به خاطر بسپارم."
+  },
+  {
+    "spanish": "el contenido",
+    "persian": "محتوا",
+    "example": "El contenido del texto es claro.",
+    "example_persian": "محتوای متن روشن است."
+  },
+  {
+    "spanish": "necesitar",
+    "persian": "نیاز داشتن؛ لازم داشتن",
+    "example": "Necesito más tiempo.",
+    "example_persian": "به زمان بیشتری نیاز دارم."
+  },
+  {
+    "spanish": "reforzar",
+    "persian": "تقویت کردن",
+    "example": "Necesito reforzar mi español.",
+    "example_persian": "باید اسپانیایی‌ام را تقویت کنم."
+  },
+  {
+    "spanish": "la estrategia",
+    "persian": "راهبرد؛ روش",
+    "example": "Esta estrategia funciona bien.",
+    "example_persian": "این روش خوب جواب می‌دهد."
   },
   {
     "spanish": "aprender",
     "persian": "یاد گرفتن",
-    "pronunciation": "اَپرِندِر",
     "example": "Quiero aprender español.",
     "example_persian": "می‌خواهم اسپانیایی یاد بگیرم."
   },
   {
+    "spanish": "compartir",
+    "persian": "به اشتراک گذاشتن",
+    "example": "Comparto mis respuestas.",
+    "example_persian": "پاسخ‌هایم را به اشتراک می‌گذارم."
+  },
+  {
+    "spanish": "el resto",
+    "persian": "بقیه",
+    "example": "El resto de la clase escucha.",
+    "example_persian": "بقیهٔ کلاس گوش می‌دهند."
+  },
+  {
+    "spanish": "la clase",
+    "persian": "کلاس",
+    "example": "La clase empieza a las diez.",
+    "example_persian": "کلاس ساعت ده شروع می‌شود."
+  },
+  {
+    "spanish": "servir",
+    "persian": "به درد خوردن؛ سرو کردن",
+    "example": "Este ejemplo sirve para practicar.",
+    "example_persian": "این مثال برای تمرین مفید است."
+  },
+  {
+    "spanish": "el repaso",
+    "persian": "مرور",
+    "example": "Hago un repaso por la noche.",
+    "example_persian": "شب مرور می‌کنم."
+  },
+  {
+    "spanish": "el origen",
+    "persian": "خاستگاه؛ مبدأ",
+    "example": "¿Cuál es tu lugar de origen?",
+    "example_persian": "محل اصلی تو کجاست؟"
+  },
+  {
+    "spanish": "antiguo/a",
+    "persian": "قدیمی؛ باستانی",
+    "example": "Visitamos unas ruinas antiguas.",
+    "example_persian": "از چند ویرانهٔ باستانی دیدن می‌کنیم."
+  },
+  {
+    "spanish": "las ruinas",
+    "persian": "ویرانه‌ها",
+    "example": "Las ruinas mayas son famosas.",
+    "example_persian": "ویرانه‌های مایا مشهورند."
+  },
+  {
+    "spanish": "el monumento",
+    "persian": "بنای یادبود؛ اثر تاریخی",
+    "example": "El monumento es impresionante.",
+    "example_persian": "این اثر تاریخی چشمگیر است."
+  },
+  {
+    "spanish": "viajar",
+    "persian": "سفر کردن",
+    "example": "Quiero viajar a España.",
+    "example_persian": "می‌خواهم به اسپانیا سفر کنم."
+  },
+  {
+    "spanish": "visitar",
+    "persian": "بازدید کردن",
+    "example": "Visito Barcelona en verano.",
+    "example_persian": "تابستان از بارسلونا دیدن می‌کنم."
+  },
+  {
+    "spanish": "comprar",
+    "persian": "خریدن",
+    "example": "Compro una guitarra.",
+    "example_persian": "یک گیتار می‌خرم."
+  },
+  {
+    "spanish": "pasar",
+    "persian": "گذراندن؛ عبور کردن",
+    "example": "Paso las vacaciones en Mallorca.",
+    "example_persian": "تعطیلات را در مایورکا می‌گذرانم."
+  },
+  {
+    "spanish": "hablar",
+    "persian": "صحبت کردن",
+    "example": "Hablo un poco de español.",
+    "example_persian": "کمی اسپانیایی صحبت می‌کنم."
+  },
+  {
+    "spanish": "fascinante",
+    "persian": "شگفت‌انگیز؛ fascinante",
+    "example": "España es fascinante.",
+    "example_persian": "اسپانیا شگفت‌انگیز است."
+  },
+  {
+    "spanish": "el continente",
+    "persian": "قاره",
+    "example": "América es un continente.",
+    "example_persian": "آمریکا یک قاره است."
+  },
+  {
+    "spanish": "casi",
+    "persian": "تقریباً",
+    "example": "La ruta mide casi mil kilómetros.",
+    "example_persian": "این مسیر تقریباً هزار کیلومتر است."
+  },
+  {
+    "spanish": "el kilómetro",
+    "persian": "کیلومتر",
+    "example": "La ciudad está a diez kilómetros.",
+    "example_persian": "شهر ده کیلومتر فاصله دارد."
+  },
+  {
+    "spanish": "de largo",
+    "persian": "به طول",
+    "example": "La carretera tiene mil kilómetros de largo.",
+    "example_persian": "این جاده هزار کیلومتر طول دارد."
+  },
+  {
+    "spanish": "unir",
+    "persian": "وصل کردن؛ پیوند دادن",
+    "example": "Esta carretera une dos ciudades.",
+    "example_persian": "این جاده دو شهر را به هم وصل می‌کند."
+  },
+  {
+    "spanish": "de norte a sur",
+    "persian": "از شمال به جنوب",
+    "example": "La ruta cruza el país de norte a sur.",
+    "example_persian": "مسیر کشور را از شمال به جنوب طی می‌کند."
+  },
+  {
+    "spanish": "desde… hasta…",
+    "persian": "از… تا…",
+    "example": "Trabajo desde las nueve hasta las cinco.",
+    "example_persian": "از ساعت نه تا پنج کار می‌کنم."
+  },
+  {
+    "spanish": "pasar por",
+    "persian": "از جایی عبور کردن",
+    "example": "El tren pasa por Madrid.",
+    "example_persian": "قطار از مادرید عبور می‌کند."
+  },
+  {
+    "spanish": "la zona climática",
+    "persian": "منطقهٔ اقلیمی",
+    "example": "La ruta atraviesa varias zonas climáticas.",
+    "example_persian": "مسیر از چند منطقهٔ اقلیمی عبور می‌کند."
+  },
+  {
+    "spanish": "el sistema ecológico",
+    "persian": "سامانهٔ بوم‌شناختی",
+    "example": "El sistema ecológico es muy diverso.",
+    "example_persian": "سامانهٔ بوم‌شناختی بسیار متنوع است."
+  },
+  {
+    "spanish": "diverso/a",
+    "persian": "متنوع",
+    "example": "España tiene paisajes diversos.",
+    "example_persian": "اسپانیا چشم‌اندازهای متنوعی دارد."
+  },
+  {
+    "spanish": "la selva",
+    "persian": "جنگل انبوه استوایی",
+    "example": "Hay muchos animales en la selva.",
+    "example_persian": "در جنگل انبوه استوایی حیوانات زیادی وجود دارد."
+  },
+  {
+    "spanish": "el glaciar",
+    "persian": "یخچال طبیعی",
+    "example": "El glaciar está en la montaña.",
+    "example_persian": "یخچال طبیعی در کوهستان است."
+  },
+  {
+    "spanish": "la música",
+    "persian": "موسیقی",
+    "example": "Me gusta la música española.",
+    "example_persian": "موسیقی اسپانیایی را دوست دارم."
+  },
+  {
+    "spanish": "la gastronomía",
+    "persian": "آشپزی؛ خوراک‌شناسی",
+    "example": "Me gusta la gastronomía española.",
+    "example_persian": "آشپزی اسپانیایی را دوست دارم."
+  },
+  {
+    "spanish": "el paisaje",
+    "persian": "چشم‌انداز",
+    "example": "El paisaje es impresionante.",
+    "example_persian": "چشم‌انداز چشمگیر است."
+  },
+  {
+    "spanish": "impresionante",
+    "persian": "چشمگیر؛ تأثیرگذار",
+    "example": "La vista es impresionante.",
+    "example_persian": "منظره چشمگیر است."
+  },
+  {
+    "spanish": "cada",
+    "persian": "هر؛ هر یک",
+    "example": "Cada país tiene una cultura diferente.",
+    "example_persian": "هر کشور فرهنگ متفاوتی دارد."
+  },
+  {
+    "spanish": "conocer",
+    "persian": "شناختن؛ آشنا شدن با",
+    "example": "Quiero conocer Argentina.",
+    "example_persian": "می‌خواهم آرژانتین را بشناسم/از آن دیدن کنم."
+  },
+  {
+    "spanish": "la etapa",
+    "persian": "مرحله",
+    "example": "Esta es la primera etapa.",
+    "example_persian": "این مرحلهٔ اول است."
+  },
+  {
+    "spanish": "leer",
+    "persian": "خواندن",
+    "example": "Leo un texto en español.",
+    "example_persian": "یک متن اسپانیایی می‌خوانم."
+  },
+  {
+    "spanish": "la conversación",
+    "persian": "گفت‌وگو",
+    "example": "La conversación es corta.",
+    "example_persian": "گفت‌وگو کوتاه است."
+  },
+  {
+    "spanish": "la persona",
+    "persian": "شخص",
+    "example": "Es una persona interesante.",
+    "example_persian": "او شخص جالبی است."
+  },
+  {
+    "spanish": "el congreso",
+    "persian": "همایش؛ کنگره",
+    "example": "Trabajo en un congreso.",
+    "example_persian": "در یک همایش کار می‌کنم."
+  },
+  {
+    "spanish": "la digitalización",
+    "persian": "دیجیتالی‌سازی",
+    "example": "La digitalización es importante.",
+    "example_persian": "دیجیتالی‌سازی مهم است."
+  },
+  {
+    "spanish": "el trabajo",
+    "persian": "کار",
+    "example": "Mi trabajo es interesante.",
+    "example_persian": "کار من جالب است."
+  },
+  {
+    "spanish": "por primera vez",
+    "persian": "برای اولین بار",
+    "example": "Visito Madrid por primera vez.",
+    "example_persian": "برای اولین بار از مادرید دیدن می‌کنم."
+  },
+  {
+    "spanish": "¿Cómo estás?",
+    "persian": "حالت چطور است؟",
+    "example": "Hola, ¿cómo estás?",
+    "example_persian": "سلام، حالت چطور است؟"
+  },
+  {
+    "spanish": "¿Qué tal?",
+    "persian": "چطوری؟؛ اوضاع چطور است؟",
+    "example": "Hola, ¿qué tal?",
+    "example_persian": "سلام، چطوری؟"
+  },
+  {
+    "spanish": "bien",
+    "persian": "خوب",
+    "example": "Estoy bien, gracias.",
+    "example_persian": "خوبم، ممنون."
+  },
+  {
+    "spanish": "gracias",
+    "persian": "ممنون",
+    "example": "Muchas gracias.",
+    "example_persian": "خیلی ممنون."
+  },
+  {
+    "spanish": "buenas tardes",
+    "persian": "عصر بخیر",
+    "example": "Buenas tardes, señora.",
+    "example_persian": "عصر بخیر، خانم."
+  },
+  {
+    "spanish": "soy",
+    "persian": "هستم؛ صرف اول مفرد ser",
+    "example": "Soy Emad.",
+    "example_persian": "من عماد هستم."
+  },
+  {
+    "spanish": "la organizadora",
+    "persian": "برگزارکنندهٔ مؤنث",
+    "example": "Ella es la organizadora del evento.",
+    "example_persian": "او برگزارکنندهٔ رویداد است."
+  },
+  {
+    "spanish": "mucho gusto",
+    "persian": "از آشنایی خوشوقتم",
+    "example": "Hola, mucho gusto.",
+    "example_persian": "سلام، از آشنایی خوشوقتم."
+  },
+  {
+    "spanish": "encantado/a",
+    "persian": "خوشوقتم",
+    "example": "Encantado, soy Emad.",
+    "example_persian": "خوشوقتم، من عماد هستم."
+  },
+  {
+    "spanish": "la señora",
+    "persian": "خانم",
+    "example": "La señora vive en Sevilla.",
+    "example_persian": "آن خانم در سویا زندگی می‌کند."
+  },
+  {
+    "spanish": "también",
+    "persian": "هم؛ همچنین",
+    "example": "Yo también estudio español.",
+    "example_persian": "من هم اسپانیایی می‌خوانم."
+  },
+  {
+    "spanish": "¿De dónde?",
+    "persian": "اهل کجا؟",
+    "example": "¿De dónde eres?",
+    "example_persian": "اهل کجا هستی؟"
+  },
+  {
+    "spanish": "pues",
+    "persian": "خب؛ پس",
+    "example": "Pues, vamos a empezar.",
+    "example_persian": "خب، شروع کنیم."
+  },
+  {
+    "spanish": "nosotros/nosotras",
+    "persian": "ما",
+    "example": "Nosotros somos estudiantes.",
+    "example_persian": "ما دانشجو هستیم."
+  },
+  {
+    "spanish": "vosotros/vosotras",
+    "persian": "شماها؛ در اسپانیا",
+    "example": "¿Vosotros habláis español?",
+    "example_persian": "شماها اسپانیایی صحبت می‌کنید؟"
+  },
+  {
+    "spanish": "el lugar de origen",
+    "persian": "محل اصلی؛ خاستگاه",
+    "example": "Madrid es mi lugar de origen.",
+    "example_persian": "مادرید محل اصلی من است."
+  },
+  {
+    "spanish": "fijarse en",
+    "persian": "دقت کردن به",
+    "example": "Fíjate en la palabra.",
+    "example_persian": "به کلمه دقت کن."
+  },
+  {
+    "spanish": "en negrita",
+    "persian": "به‌صورت پررنگ",
+    "example": "La palabra está en negrita.",
+    "example_persian": "کلمه به‌صورت پررنگ نوشته شده است."
+  },
+  {
+    "spanish": "expresar",
+    "persian": "بیان کردن",
+    "example": "Quiero expresar mi opinión.",
+    "example_persian": "می‌خواهم نظرم را بیان کنم."
+  },
+  {
+    "spanish": "de nuevo",
+    "persian": "دوباره",
+    "example": "Escucha de nuevo.",
+    "example_persian": "دوباره گوش کن."
+  },
+  {
+    "spanish": "la tabla",
+    "persian": "جدول",
+    "example": "Completa la tabla.",
+    "example_persian": "جدول را کامل کن."
+  },
+  {
+    "spanish": "escuchar",
+    "persian": "گوش دادن",
+    "example": "Escucho la conversación.",
+    "example_persian": "به گفت‌وگو گوش می‌دهم."
+  },
+  {
+    "spanish": "representar",
+    "persian": "نمایندگی کردن؛ اجرا کردن",
+    "example": "Ella representa a la empresa.",
+    "example_persian": "او نمایندهٔ شرکت است."
+  },
+  {
+    "spanish": "cambiar",
+    "persian": "عوض کردن",
+    "example": "Voy a cambiar la frase.",
+    "example_persian": "می‌خواهم جمله را عوض کنم."
+  },
+  {
+    "spanish": "preguntar",
+    "persian": "پرسیدن",
+    "example": "Quiero preguntar algo.",
+    "example_persian": "می‌خواهم چیزی بپرسم."
+  },
+  {
+    "spanish": "lejos",
+    "persian": "دور",
+    "example": "La estación está lejos.",
+    "example_persian": "ایستگاه دور است."
+  },
+  {
+    "spanish": "más lejos",
+    "persian": "دورتر",
+    "example": "Mi casa está más lejos.",
+    "example_persian": "خانهٔ من دورتر است."
+  },
+  {
+    "spanish": "la forma",
+    "persian": "شکل؛ فرم",
+    "example": "Esta es la forma correcta.",
+    "example_persian": "این شکل درست است."
+  },
+  {
+    "spanish": "el verbo",
+    "persian": "فعل",
+    "example": "Ser es un verbo.",
+    "example_persian": "Ser یک فعل است."
+  },
+  {
+    "spanish": "la frase",
+    "persian": "جمله",
+    "example": "Escribe una frase.",
+    "example_persian": "یک جمله بنویس."
+  },
+  {
+    "spanish": "¿verdad?",
+    "persian": "درسته؟؛ مگر نه؟",
+    "example": "Eres de Madrid, ¿verdad?",
+    "example_persian": "اهل مادریدی، درسته؟"
+  },
+  {
+    "spanish": "aquí",
+    "persian": "اینجا",
+    "example": "Estoy aquí.",
+    "example_persian": "من اینجا هستم."
+  },
+  {
+    "spanish": "alguien",
+    "persian": "کسی",
+    "example": "Quiero conocer a alguien.",
+    "example_persian": "می‌خواهم با کسی آشنا شوم."
+  },
+  {
+    "spanish": "tener cosas en común",
+    "persian": "وجه اشتراک داشتن",
+    "example": "Tenemos muchas cosas en común.",
+    "example_persian": "ما وجه اشتراک زیادی داریم."
+  },
+  {
+    "spanish": "el dato",
+    "persian": "اطلاعات؛ داده",
+    "example": "Completa los datos personales.",
+    "example_persian": "اطلاعات شخصی را کامل کن."
+  },
+  {
+    "spanish": "la empresa",
+    "persian": "شرکت",
+    "example": "Trabajo en una empresa pequeña.",
+    "example_persian": "در یک شرکت کوچک کار می‌کنم."
+  },
+  {
+    "spanish": "el sector musical",
+    "persian": "بخش موسیقی",
+    "example": "Trabaja en el sector musical.",
+    "example_persian": "او در بخش موسیقی کار می‌کند."
+  },
+  {
+    "spanish": "nuevo/a",
+    "persian": "جدید",
+    "example": "Aprendo palabras nuevas.",
+    "example_persian": "کلمه‌های جدید یاد می‌گیرم."
+  },
+  {
+    "spanish": "principalmente",
+    "persian": "عمدتاً",
+    "example": "Trabajo principalmente por la mañana.",
+    "example_persian": "عمدتاً صبح‌ها کار می‌کنم."
+  },
+  {
+    "spanish": "organizar",
+    "persian": "سازمان‌دهی کردن",
+    "example": "Ella organiza conciertos.",
+    "example_persian": "او کنسرت‌ها را سازمان‌دهی می‌کند."
+  },
+  {
+    "spanish": "el concierto",
+    "persian": "کنسرت",
+    "example": "El concierto empieza a las ocho.",
+    "example_persian": "کنسرت ساعت هشت شروع می‌شود."
+  },
+  {
+    "spanish": "reservar",
+    "persian": "رزرو کردن",
+    "example": "Necesito reservar un hotel.",
+    "example_persian": "باید یک هتل رزرو کنم."
+  },
+  {
+    "spanish": "buscar",
+    "persian": "جست‌وجو کردن؛ دنبال گشتن",
+    "example": "Busco una fecha libre.",
+    "example_persian": "دنبال یک تاریخ خالی می‌گردم."
+  },
+  {
+    "spanish": "la fecha",
+    "persian": "تاریخ",
+    "example": "¿Cuál es la fecha del concierto?",
+    "example_persian": "تاریخ کنسرت چیست؟"
+  },
+  {
+    "spanish": "el músico/la música",
+    "persian": "موسیقی‌دان مرد/زن",
+    "example": "El músico toca la guitarra.",
+    "example_persian": "آن موسیقی‌دان گیتار می‌زند."
+  },
+  {
+    "spanish": "importante",
+    "persian": "مهم",
+    "example": "Es una reunión importante.",
+    "example_persian": "این جلسه مهمی است."
+  },
+  {
+    "spanish": "además",
+    "persian": "علاوه بر این",
+    "example": "Además, hablo inglés.",
+    "example_persian": "علاوه بر این، انگلیسی صحبت می‌کنم."
+  },
+  {
+    "spanish": "el representante/la representante",
+    "persian": "نمایندهٔ مرد/زن",
+    "example": "Es representante de la empresa.",
+    "example_persian": "او نمایندهٔ شرکت است."
+  },
+  {
+    "spanish": "mañana",
+    "persian": "فردا؛ صبح",
+    "example": "Mañana viajo a Bilbao.",
+    "example_persian": "فردا به بیلبائو سفر می‌کنم."
+  },
+  {
+    "spanish": "la tecnología",
+    "persian": "فناوری",
+    "example": "La tecnología cambia rápido.",
+    "example_persian": "فناوری سریع تغییر می‌کند."
+  },
+  {
+    "spanish": "por supuesto",
+    "persian": "البته؛ حتماً",
+    "example": "Por supuesto, te ayudo.",
+    "example_persian": "البته، به تو کمک می‌کنم."
+  },
+  {
+    "spanish": "escribir",
+    "persian": "نوشتن",
+    "example": "Escribo un correo electrónico.",
+    "example_persian": "یک ایمیل می‌نویسم."
+  },
+  {
+    "spanish": "el correo electrónico",
+    "persian": "ایمیل",
+    "example": "Leo el correo electrónico.",
+    "example_persian": "ایمیل را می‌خوانم."
+  },
+  {
+    "spanish": "usar",
+    "persian": "استفاده کردن",
+    "example": "Uso una aplicación para estudiar.",
+    "example_persian": "برای درس خواندن از یک اپلیکیشن استفاده می‌کنم."
+  },
+  {
+    "spanish": "la aplicación",
+    "persian": "اپلیکیشن؛ برنامه",
+    "example": "Esta aplicación es útil.",
+    "example_persian": "این اپلیکیشن مفید است."
+  },
+  {
+    "spanish": "programar",
+    "persian": "برنامه‌ریزی کردن",
+    "example": "Programa las actividades.",
+    "example_persian": "فعالیت‌ها را برنامه‌ریزی کن."
+  },
+  {
+    "spanish": "la actividad",
+    "persian": "فعالیت",
+    "example": "La actividad es divertida.",
+    "example_persian": "فعالیت سرگرم‌کننده است."
+  },
+  {
+    "spanish": "vender",
+    "persian": "فروختن",
+    "example": "Venden entradas para el concierto.",
+    "example_persian": "برای کنسرت بلیت می‌فروشند."
+  },
+  {
+    "spanish": "la entrada",
+    "persian": "بلیت؛ ورودی",
+    "example": "Compro dos entradas.",
+    "example_persian": "دو بلیت می‌خرم."
+  },
+  {
+    "spanish": "verdadero/a",
+    "persian": "درست؛ واقعی",
+    "example": "La frase es verdadera.",
+    "example_persian": "جمله درست است."
+  },
+  {
+    "spanish": "falso/a",
+    "persian": "غلط؛ غیرواقعی",
+    "example": "La respuesta es falsa.",
+    "example_persian": "پاسخ غلط است."
+  },
+  {
+    "spanish": "la negación",
+    "persian": "منفی‌سازی",
+    "example": "La negación lleva no.",
+    "example_persian": "منفی‌سازی با no انجام می‌شود."
+  },
+  {
+    "spanish": "delante de",
+    "persian": "جلوی؛ قبل از",
+    "example": "Pon el libro delante de la tableta.",
+    "example_persian": "کتاب را جلوی تبلت بگذار."
+  },
+  {
+    "spanish": "corregir",
+    "persian": "اصلاح کردن",
+    "example": "Voy a corregir el ejercicio.",
+    "example_persian": "می‌خواهم تمرین را اصلاح کنم."
+  },
+  {
+    "spanish": "la información",
+    "persian": "اطلاعات",
+    "example": "La información es correcta.",
+    "example_persian": "اطلاعات درست است."
+  },
+  {
+    "spanish": "mexicano/a",
+    "persian": "مکزیکی",
+    "example": "Víctor es mexicano.",
+    "example_persian": "ویکتور مکزیکی است."
+  },
+  {
+    "spanish": "la capital",
+    "persian": "پایتخت",
+    "example": "Madrid es la capital de España.",
+    "example_persian": "مادرید پایتخت اسپانیاست."
+  },
+  {
+    "spanish": "vivir",
+    "persian": "زندگی کردن",
+    "example": "Vivo en Alemania.",
+    "example_persian": "در آلمان زندگی می‌کنم."
+  },
+  {
+    "spanish": "el profesor/la profesora",
+    "persian": "معلم مرد/زن",
+    "example": "Es profesora de español.",
+    "example_persian": "او معلم اسپانیایی است."
+  },
+  {
+    "spanish": "extranjero/a",
+    "persian": "خارجی",
+    "example": "En la clase hay estudiantes extranjeros.",
+    "example_persian": "در کلاس دانشجویان خارجی هستند."
+  },
+  {
+    "spanish": "limitar con",
+    "persian": "هم‌مرز بودن با",
+    "example": "México limita con Estados Unidos.",
+    "example_persian": "مکزیک با ایالات متحده هم‌مرز است."
+  },
+  {
+    "spanish": "al norte",
+    "persian": "در شمال",
+    "example": "Estados Unidos está al norte de México.",
+    "example_persian": "ایالات متحده در شمال مکزیک است."
+  },
+  {
+    "spanish": "al sur",
+    "persian": "در جنوب",
+    "example": "Guatemala está al sur de México.",
+    "example_persian": "گواتمالا در جنوب مکزیک است."
+  },
+  {
+    "spanish": "los Estados Unidos",
+    "persian": "ایالات متحده",
+    "example": "Los Estados Unidos están al norte de México.",
+    "example_persian": "ایالات متحده در شمال مکزیک است."
+  },
+  {
+    "spanish": "más de",
+    "persian": "بیش از",
+    "example": "Hay más de cien estudiantes.",
+    "example_persian": "بیش از صد دانشجو وجود دارد."
+  },
+  {
+    "spanish": "el millón",
+    "persian": "میلیون",
+    "example": "La ciudad tiene un millón de habitantes.",
+    "example_persian": "این شهر یک میلیون نفر جمعیت دارد."
+  },
+  {
+    "spanish": "existir",
+    "persian": "وجود داشتن",
+    "example": "Existen muchas lenguas indígenas.",
+    "example_persian": "زبان‌های بومی زیادی وجود دارند."
+  },
+  {
+    "spanish": "indígena",
+    "persian": "بومی",
+    "example": "México tiene lenguas indígenas.",
+    "example_persian": "مکزیک زبان‌های بومی دارد."
+  },
+  {
+    "spanish": "venir de",
+    "persian": "آمدن از؛ ریشه داشتن از",
+    "example": "La palabra viene del náhuatl.",
+    "example_persian": "این کلمه از زبان ناهواتل آمده است."
+  },
+  {
+    "spanish": "la cultura",
+    "persian": "فرهنگ",
+    "example": "La cultura mexicana es muy rica.",
+    "example_persian": "فرهنگ مکزیکی بسیار غنی است."
+  },
+  {
+    "spanish": "la mayúscula",
+    "persian": "حرف بزرگ",
+    "example": "Escribe el nombre con mayúscula.",
+    "example_persian": "اسم را با حرف بزرگ بنویس."
+  },
+  {
+    "spanish": "el grupo",
+    "persian": "گروه",
+    "example": "El grupo escucha música.",
+    "example_persian": "گروه به موسیقی گوش می‌دهد."
+  },
+  {
+    "spanish": "la música tradicional",
+    "persian": "موسیقی سنتی",
+    "example": "Me gusta la música tradicional.",
+    "example_persian": "موسیقی سنتی را دوست دارم."
+  },
+  {
+    "spanish": "el mariachi",
+    "persian": "مارییاچی؛ موسیقی/نوازندهٔ سنتی مکزیک",
+    "example": "El mariachi es típico de México.",
+    "example_persian": "مارییاچی از ویژگی‌های مکزیک است."
+  },
+  {
+    "spanish": "el cantante/la cantante",
+    "persian": "خوانندهٔ مرد/زن",
+    "example": "Es un cantante famoso.",
+    "example_persian": "او خوانندهٔ مشهوری است."
+  },
+  {
+    "spanish": "famoso/a",
+    "persian": "مشهور",
+    "example": "Es una actriz famosa.",
+    "example_persian": "او بازیگر مشهوری است."
+  },
+  {
+    "spanish": "el cine",
+    "persian": "سینما",
+    "example": "Me gusta el cine español.",
+    "example_persian": "سینمای اسپانیا را دوست دارم."
+  },
+  {
+    "spanish": "la tradición",
+    "persian": "سنت",
+    "example": "Es una tradición antigua.",
+    "example_persian": "این یک سنت قدیمی است."
+  },
+  {
+    "spanish": "la comida",
+    "persian": "غذا",
+    "example": "La comida mexicana es deliciosa.",
+    "example_persian": "غذای مکزیکی خوشمزه است."
+  },
+  {
+    "spanish": "el taco",
+    "persian": "تاکو",
+    "example": "Quiero comer un taco.",
+    "example_persian": "می‌خواهم یک تاکو بخورم."
+  },
+  {
+    "spanish": "el guacamole",
+    "persian": "گواکاموله",
+    "example": "El guacamole lleva aguacate.",
+    "example_persian": "گواکاموله آووکادو دارد."
+  },
+  {
+    "spanish": "la tortilla de maíz",
+    "persian": "نان/تورتیای ذرت",
+    "example": "La tortilla de maíz es típica de México.",
+    "example_persian": "تورتیای ذرت از غذاهای رایج مکزیک است."
+  },
+  {
+    "spanish": "el chile",
+    "persian": "فلفل تند",
+    "example": "El chile es picante.",
+    "example_persian": "فلفل تند است."
+  },
+  {
+    "spanish": "el queso",
+    "persian": "پنیر",
+    "example": "Me gusta el queso.",
+    "example_persian": "پنیر را دوست دارم."
+  },
+  {
+    "spanish": "el patrimonio cultural inmaterial",
+    "persian": "میراث فرهنگی ناملموس",
+    "example": "La gastronomía es patrimonio cultural inmaterial.",
+    "example_persian": "خوراک‌شناسی میراث فرهنگی ناملموس است."
+  },
+  {
+    "spanish": "la humanidad",
+    "persian": "بشریت",
+    "example": "Es importante para la humanidad.",
+    "example_persian": "برای بشریت مهم است."
+  },
+  {
+    "spanish": "destacar",
+    "persian": "برجسته کردن؛ شهرت داشتن",
+    "example": "El texto destaca la cultura mexicana.",
+    "example_persian": "متن فرهنگ مکزیک را برجسته می‌کند."
+  },
+  {
+    "spanish": "el director/la directora",
+    "persian": "کارگردان مرد/زن",
+    "example": "Es una directora de cine famosa.",
+    "example_persian": "او کارگردان مشهور سینماست."
+  },
+  {
+    "spanish": "el premio",
+    "persian": "جایزه",
+    "example": "La película gana un premio.",
+    "example_persian": "فیلم یک جایزه می‌برد."
+  },
+  {
+    "spanish": "anotar",
+    "persian": "یادداشت کردن",
+    "example": "Anota el orden correcto.",
+    "example_persian": "ترتیب درست را یادداشت کن."
+  },
+  {
+    "spanish": "el orden",
+    "persian": "ترتیب",
+    "example": "El orden es importante.",
+    "example_persian": "ترتیب مهم است."
+  },
+  {
+    "spanish": "mencionar",
+    "persian": "ذکر کردن",
+    "example": "Menciona tres personas.",
+    "example_persian": "سه نفر را نام ببر."
+  },
+  {
+    "spanish": "la fotografía",
+    "persian": "عکس",
+    "example": "Mira la fotografía.",
+    "example_persian": "به عکس نگاه کن."
+  },
+  {
+    "spanish": "otra vez",
+    "persian": "یک بار دیگر",
+    "example": "Dilo otra vez, por favor.",
+    "example_persian": "لطفاً یک بار دیگر بگو."
+  },
+  {
+    "spanish": "marcar",
+    "persian": "علامت زدن",
+    "example": "Marca la respuesta correcta.",
+    "example_persian": "پاسخ درست را علامت بزن."
+  },
+  {
+    "spanish": "la relación",
+    "persian": "رابطه",
+    "example": "¿Cuál es la relación entre ellos?",
+    "example_persian": "رابطهٔ آن‌ها چیست؟"
+  },
+  {
+    "spanish": "el hermano/la hermana",
+    "persian": "برادر/خواهر",
+    "example": "Tengo un hermano.",
+    "example_persian": "یک برادر دارم."
+  },
+  {
+    "spanish": "la madre",
+    "persian": "مادر",
+    "example": "Mi madre se llama Mahbouba.",
+    "example_persian": "اسم مادرم محبوبه است."
+  },
+  {
+    "spanish": "el padre",
+    "persian": "پدر",
+    "example": "Mi padre es abogado.",
+    "example_persian": "پدرم وکیل است."
+  },
+  {
+    "spanish": "el hijo/la hija",
+    "persian": "پسر/دختر؛ فرزند",
+    "example": "Tienen dos hijos.",
+    "example_persian": "آن‌ها دو فرزند دارند."
+  },
+  {
+    "spanish": "el abuelo/la abuela",
+    "persian": "پدربزرگ/مادربزرگ",
+    "example": "Mi abuelo es mayor.",
+    "example_persian": "پدربزرگم سن بالایی دارد."
+  },
+  {
+    "spanish": "el tío/la tía",
+    "persian": "عمو/دایی/عمه/خاله",
+    "example": "Tengo diez tíos.",
+    "example_persian": "ده عمو/دایی/عمه/خاله دارم."
+  },
+  {
+    "spanish": "el sobrino/la sobrina",
+    "persian": "برادرزاده/خواهرزاده؛ خواهرزاده/برادرزاده",
+    "example": "Mi sobrino es joven.",
+    "example_persian": "خواهرزاده/برادرزاده‌ام جوان است."
+  },
+  {
+    "spanish": "el compañero de trabajo/la compañera de trabajo",
+    "persian": "همکار مرد/زن",
+    "example": "Mi compañero de trabajo es simpático.",
+    "example_persian": "همکارم خوش‌برخورد است."
+  },
+  {
+    "spanish": "el viaje",
+    "persian": "سفر",
+    "example": "El viaje es largo.",
+    "example_persian": "سفر طولانی است."
+  },
+  {
+    "spanish": "la actriz",
+    "persian": "بازیگر زن",
+    "example": "Penélope Cruz es actriz.",
+    "example_persian": "پنه‌لوپه کروز بازیگر است."
+  },
+  {
+    "spanish": "el actor",
+    "persian": "بازیگر مرد",
+    "example": "Javier Bardem es actor.",
+    "example_persian": "خاویر باردم بازیگر است."
+  },
+  {
+    "spanish": "conocido/a",
+    "persian": "شناخته‌شده",
+    "example": "Es conocido internacionalmente.",
+    "example_persian": "او در سطح بین‌المللی شناخته‌شده است."
+  },
+  {
+    "spanish": "internacionalmente",
+    "persian": "در سطح بین‌المللی",
+    "example": "Trabaja internacionalmente.",
+    "example_persian": "او در سطح بین‌المللی کار می‌کند."
+  },
+  {
+    "spanish": "el único/la única",
+    "persian": "تنها؛ یگانه",
+    "example": "Es la única hermana.",
+    "example_persian": "او تنها خواهر است."
+  },
+  {
+    "spanish": "la bailarina",
+    "persian": "رقصندهٔ زن",
+    "example": "Su hermana es bailarina.",
+    "example_persian": "خواهرش رقصنده است."
+  },
+  {
+    "spanish": "el compositor",
+    "persian": "آهنگساز",
+    "example": "Su hermano es compositor.",
+    "example_persian": "برادرش آهنگساز است."
+  },
+  {
+    "spanish": "el nieto/la nieta",
+    "persian": "نوهٔ پسر/دختر",
+    "example": "Javier es nieto de artistas.",
+    "example_persian": "خاویر نوهٔ هنرمندان است."
+  },
+  {
+    "spanish": "el primo/la prima",
+    "persian": "پسرعمو/دخترعمو و دیگر نسبت‌های پسر/دخترعمه، پسر/دخترخاله، پسر/دختردایی",
+    "example": "Su primo es director de cine.",
+    "example_persian": "پسرعمویش کارگردان سینماست."
+  },
+  {
+    "spanish": "el futuro/la futura",
+    "persian": "آینده؛ آیندهٔ احتمالی",
+    "example": "¿Futuros artistas?",
+    "example_persian": "هنرمندان آینده؟"
+  },
+  {
+    "spanish": "la fábrica",
+    "persian": "کارخانه",
+    "example": "La fábrica está en Alicante.",
+    "example_persian": "کارخانه در آلیکانته است."
+  },
+  {
+    "spanish": "la provincia",
+    "persian": "استان",
+    "example": "Alicante es una provincia española.",
+    "example_persian": "آلیکانته یک استان اسپانیایی است."
+  },
+  {
+    "spanish": "el gusto",
+    "persian": "سلیقه؛ مزه",
+    "example": "Cada persona tiene gustos diferentes.",
+    "example_persian": "هر شخص سلیقهٔ متفاوتی دارد."
+  },
+  {
+    "spanish": "negro/a",
+    "persian": "سیاه",
+    "example": "Me gusta el chocolate negro.",
+    "example_persian": "شکلات تلخ را دوست دارم."
+  },
+  {
+    "spanish": "blanco/a",
+    "persian": "سفید",
+    "example": "Prefiero el chocolate blanco.",
+    "example_persian": "شکلات سفید را ترجیح می‌دهم."
+  },
+  {
+    "spanish": "con leche",
+    "persian": "با شیر",
+    "example": "Quiero un café con leche.",
+    "example_persian": "یک قهوه با شیر می‌خواهم."
+  },
+  {
+    "spanish": "el producto",
+    "persian": "محصول",
+    "example": "Este producto es popular.",
+    "example_persian": "این محصول محبوب است."
+  },
+  {
+    "spanish": "estrella",
+    "persian": "ستاره؛ محصول شاخص",
+    "example": "Es el producto estrella.",
+    "example_persian": "این محصول شاخص است."
+  },
+  {
+    "spanish": "la almendra",
+    "persian": "بادام",
+    "example": "El chocolate lleva almendras.",
+    "example_persian": "شکلات بادام دارد."
+  },
+  {
+    "spanish": "la chocolatería",
+    "persian": "شکلات‌فروشی؛ کافهٔ شکلات",
+    "example": "Hay una chocolatería en Madrid.",
+    "example_persian": "در مادرید یک شکلات‌فروشی/کافهٔ شکلات هست."
+  },
+  {
+    "spanish": "exportar",
+    "persian": "صادر کردن",
+    "example": "La empresa exporta chocolate.",
+    "example_persian": "شرکت شکلات صادر می‌کند."
+  },
+  {
+    "spanish": "el empleado/la empleada",
+    "persian": "کارمند مرد/زن",
+    "example": "La empresa tiene muchos empleados.",
+    "example_persian": "شرکت کارمندان زیادی دارد."
+  },
+  {
+    "spanish": "la cifra",
+    "persian": "رقم",
+    "example": "Escribe la cifra en letras.",
+    "example_persian": "عدد را با حروف بنویس."
+  },
+  {
+    "spanish": "la cantidad",
+    "persian": "مقدار",
+    "example": "La cantidad es correcta.",
+    "example_persian": "مقدار درست است."
+  },
+  {
+    "spanish": "la edad",
+    "persian": "سن",
+    "example": "¿Qué edad tienes?",
+    "example_persian": "چند سال داری؟"
+  },
+  {
+    "spanish": "convertirse en",
+    "persian": "تبدیل شدن به",
+    "example": "Quiere convertirse en profesor.",
+    "example_persian": "می‌خواهد معلم شود."
+  },
+  {
+    "spanish": "sucesivamente",
+    "persian": "به‌ترتیب؛ پی‌درپی",
+    "example": "Escribe los números sucesivamente.",
+    "example_persian": "عددها را به‌ترتیب بنویس."
+  },
+  {
+    "spanish": "la generación",
+    "persian": "نسل",
+    "example": "Es una empresa de varias generaciones.",
+    "example_persian": "این شرکتی متعلق به چند نسل است."
+  },
+  {
+    "spanish": "joven",
+    "persian": "جوان",
+    "example": "Mi hermano es joven.",
+    "example_persian": "برادرم جوان است."
+  },
+  {
+    "spanish": "mayor",
+    "persian": "مسن‌تر؛ بزرگ‌تر",
+    "example": "Mi padre es mayor que mi tío.",
+    "example_persian": "پدرم از عمویم بزرگ‌تر است."
+  },
+  {
+    "spanish": "alto/a",
+    "persian": "قدبلند",
+    "example": "Es alto y delgado.",
+    "example_persian": "او قدبلند و لاغر است."
+  },
+  {
+    "spanish": "bajito/a",
+    "persian": "قدکوتاه؛ کوتاه‌قد (با لحن ملایم‌تر)",
+    "example": "Mi amigo es bajito.",
+    "example_persian": "دوستم کوتاه‌قد است."
+  },
+  {
+    "spanish": "moreno/a",
+    "persian": "مو تیره؛ سبزه",
+    "example": "Tiene el pelo moreno.",
+    "example_persian": "موهای تیره دارد."
+  },
+  {
+    "spanish": "rubio/a",
+    "persian": "مو بور",
+    "example": "Es rubia y tiene ojos azules.",
+    "example_persian": "موهایش بور است و چشم‌های آبی دارد."
+  },
+  {
+    "spanish": "delgado/a",
+    "persian": "لاغر",
+    "example": "Es delgado y alto.",
+    "example_persian": "او لاغر و قدبلند است."
+  },
+  {
+    "spanish": "gordito/a",
+    "persian": "تپل؛ کمی چاق با لحن ملایم",
+    "example": "El gato está gordito.",
+    "example_persian": "گربه تپل است."
+  },
+  {
+    "spanish": "guapo/a",
+    "persian": "خوش‌قیافه",
+    "example": "Es muy guapo.",
+    "example_persian": "او خیلی خوش‌قیافه است."
+  },
+  {
+    "spanish": "feo/a",
+    "persian": "زشت",
+    "example": "No es feo; es normal.",
+    "example_persian": "زشت نیست؛ معمولی است."
+  },
+  {
+    "spanish": "abierto/a",
+    "persian": "برون‌گرا؛ خوش‌برخورد",
+    "example": "Es una persona abierta.",
+    "example_persian": "او فردی برون‌گراست."
+  },
+  {
+    "spanish": "tímido/a",
+    "persian": "خجالتی",
+    "example": "Soy un poco tímido.",
+    "example_persian": "کمی خجالتی هستم."
+  },
+  {
+    "spanish": "simpático/a",
+    "persian": "خوش‌برخورد؛ دوست‌داشتنی",
+    "example": "La profesora es simpática.",
+    "example_persian": "معلم خوش‌برخورد است."
+  },
+  {
+    "spanish": "antipático/a",
+    "persian": "ناخوش‌برخورد",
+    "example": "Ese hombre parece antipático.",
+    "example_persian": "آن مرد ناخوش‌برخورد به نظر می‌رسد."
+  },
+  {
+    "spanish": "optimista",
+    "persian": "خوش‌بین",
+    "example": "Soy optimista.",
+    "example_persian": "من خوش‌بین هستم."
+  },
+  {
+    "spanish": "pesimista",
+    "persian": "بدبین",
+    "example": "No me gustan las personas pesimistas.",
+    "example_persian": "آدم‌های بدبین را دوست ندارم."
+  },
+  {
+    "spanish": "alegre",
+    "persian": "شاد",
+    "example": "Es una persona alegre.",
+    "example_persian": "او آدم شادی است."
+  },
+  {
+    "spanish": "triste",
+    "persian": "غمگین",
+    "example": "Hoy estoy triste.",
+    "example_persian": "امروز غمگینم."
+  },
+  {
+    "spanish": "simple",
+    "persian": "ساده",
+    "example": "La pregunta es simple.",
+    "example_persian": "سؤال ساده است."
+  },
+  {
+    "spanish": "el café",
+    "persian": "قهوه",
+    "example": "Bebo café por la mañana.",
+    "example_persian": "صبح قهوه می‌نوشم."
+  },
+  {
+    "spanish": "el vino",
+    "persian": "شراب",
+    "example": "El vino tinto es popular en España.",
+    "example_persian": "شراب قرمز در اسپانیا محبوب است."
+  },
+  {
+    "spanish": "las fiestas de cumpleaños",
+    "persian": "جشن‌های تولد",
+    "example": "Me gustan las fiestas de cumpleaños.",
+    "example_persian": "جشن‌های تولد را دوست دارم."
+  },
+  {
+    "spanish": "el rock",
+    "persian": "موسیقی راک",
+    "example": "Escucho rock.",
+    "example_persian": "راک گوش می‌دهم."
+  },
+  {
+    "spanish": "la ópera",
+    "persian": "اپرا",
+    "example": "No me gusta mucho la ópera.",
+    "example_persian": "اپرا را خیلی دوست ندارم."
+  },
+  {
+    "spanish": "el color amarillo",
+    "persian": "رنگ زرد",
+    "example": "Mi color favorito es el amarillo.",
+    "example_persian": "رنگ موردعلاقه‌ام زرد است."
+  },
+  {
+    "spanish": "el jefe/la jefa",
+    "persian": "رئیس مرد/زن",
+    "example": "Mi jefe es amable.",
+    "example_persian": "رئیسم مهربان است."
+  },
+  {
+    "spanish": "viajar en avión",
+    "persian": "با هواپیما سفر کردن",
+    "example": "Me gusta viajar en avión.",
+    "example_persian": "دوست دارم با هواپیما سفر کنم."
+  },
+  {
+    "spanish": "el fútbol",
+    "persian": "فوتبال",
+    "example": "Juego al fútbol los sábados.",
+    "example_persian": "شنبه‌ها فوتبال بازی می‌کنم."
+  },
+  {
+    "spanish": "conducir",
+    "persian": "رانندگی کردن",
+    "example": "Sé conducir.",
+    "example_persian": "رانندگی بلدم."
+  },
+  {
+    "spanish": "la película romántica",
+    "persian": "فیلم عاشقانه",
+    "example": "No me gustan las películas románticas.",
+    "example_persian": "فیلم‌های عاشقانه را دوست ندارم."
+  },
+  {
+    "spanish": "la carne",
+    "persian": "گوشت",
+    "example": "Como carne una vez a la semana.",
+    "example_persian": "هفته‌ای یک بار گوشت می‌خورم."
+  },
+  {
+    "spanish": "la leche",
+    "persian": "شیر",
+    "example": "Bebo leche por la mañana.",
+    "example_persian": "صبح شیر می‌نوشم."
+  },
+  {
+    "spanish": "el aceite",
+    "persian": "روغن",
+    "example": "Necesito aceite de oliva.",
+    "example_persian": "به روغن زیتون نیاز دارم."
+  },
+  {
+    "spanish": "el pan",
+    "persian": "نان",
+    "example": "Compro pan fresco.",
+    "example_persian": "نان تازه می‌خرم."
+  },
+  {
+    "spanish": "los huevos",
+    "persian": "تخم‌مرغ‌ها",
+    "example": "Compro seis huevos.",
+    "example_persian": "شش تخم‌مرغ می‌خرم."
+  },
+  {
+    "spanish": "el agua",
+    "persian": "آب",
+    "example": "Bebo agua fría.",
+    "example_persian": "آب سرد می‌نوشم."
+  },
+  {
+    "spanish": "los plátanos",
+    "persian": "موزها",
+    "example": "Compro plátanos.",
+    "example_persian": "موز می‌خرم."
+  },
+  {
+    "spanish": "las gambas",
+    "persian": "میگوها",
+    "example": "Me gustan las gambas.",
+    "example_persian": "میگو را دوست دارم."
+  },
+  {
+    "spanish": "el limón",
+    "persian": "لیموترش",
+    "example": "Quiero un limón.",
+    "example_persian": "یک لیموترش می‌خواهم."
+  },
+  {
+    "spanish": "el pollo",
+    "persian": "مرغ",
+    "example": "Hoy comemos pollo.",
+    "example_persian": "امروز مرغ می‌خوریم."
+  },
+  {
+    "spanish": "la pasta",
+    "persian": "پاستا",
+    "example": "La pasta está rica.",
+    "example_persian": "پاستا خوشمزه است."
+  },
+  {
+    "spanish": "el jamón",
+    "persian": "ژامبون اسپانیایی؛ گوشت نمک‌سودشده",
+    "example": "Quiero una tapa de jamón.",
+    "example_persian": "یک پرس کوچک ژامبون اسپانیایی می‌خواهم."
+  },
+  {
+    "spanish": "el ajo",
+    "persian": "سیر",
+    "example": "La salsa lleva ajo.",
+    "example_persian": "سس سیر دارد."
+  },
+  {
+    "spanish": "la mantequilla",
+    "persian": "کره",
+    "example": "Quiero pan con mantequilla.",
+    "example_persian": "نان با کره می‌خواهم."
+  },
+  {
+    "spanish": "la manzana",
+    "persian": "سیب",
+    "example": "Como una manzana.",
+    "example_persian": "یک سیب می‌خورم."
+  },
+  {
+    "spanish": "las patatas",
+    "persian": "سیب‌زمینی‌ها",
+    "example": "Compro patatas.",
+    "example_persian": "سیب‌زمینی می‌خرم."
+  },
+  {
+    "spanish": "las mandarinas",
+    "persian": "نارنگی‌ها",
+    "example": "Prefiero las mandarinas.",
+    "example_persian": "نارنگی را ترجیح می‌دهم."
+  },
+  {
+    "spanish": "las aceitunas",
+    "persian": "زیتون‌ها",
+    "example": "Las aceitunas están en la mesa.",
+    "example_persian": "زیتون‌ها روی میز هستند."
+  },
+  {
+    "spanish": "el pescado",
+    "persian": "ماهی به‌عنوان غذا",
+    "example": "Me gusta el pescado.",
+    "example_persian": "ماهی را دوست دارم."
+  },
+  {
+    "spanish": "la cebolla",
+    "persian": "پیاز",
+    "example": "Necesito una cebolla.",
+    "example_persian": "یک پیاز لازم دارم."
+  },
+  {
+    "spanish": "la lechuga",
+    "persian": "کاهو",
+    "example": "Deme una lechuga, por favor.",
+    "example_persian": "لطفاً یک کاهو به من بدهید."
+  },
+  {
+    "spanish": "los tomates",
+    "persian": "گوجه‌فرنگی‌ها",
+    "example": "Compro tomates para la salsa.",
+    "example_persian": "برای سس گوجه‌فرنگی می‌خرم."
+  },
+  {
+    "spanish": "el pan de barra",
+    "persian": "نان باگت‌مانند اسپانیایی",
+    "example": "Quiero una barra de pan.",
+    "example_persian": "یک قرص نان باگت‌مانند می‌خواهم."
+  },
+  {
+    "spanish": "el pan de molde",
+    "persian": "نان تست؛ نان قالبی برش‌خورده",
+    "example": "Compro pan de molde.",
+    "example_persian": "نان تست می‌خرم."
+  },
+  {
+    "spanish": "el agua con gas",
+    "persian": "آب گازدار",
+    "example": "Quiero agua con gas.",
+    "example_persian": "آب گازدار می‌خواهم."
+  },
+  {
+    "spanish": "el agua sin gas",
+    "persian": "آب بدون گاز",
+    "example": "Prefiero agua sin gas.",
+    "example_persian": "آب بدون گاز را ترجیح می‌دهم."
+  },
+  {
+    "spanish": "el café solo",
+    "persian": "قهوهٔ ساده بدون شیر",
+    "example": "Un café solo, por favor.",
+    "example_persian": "یک قهوهٔ ساده، لطفاً."
+  },
+  {
+    "spanish": "la naranja",
+    "persian": "پرتقال",
+    "example": "Como una naranja.",
+    "example_persian": "یک پرتقال می‌خورم."
+  },
+  {
+    "spanish": "querer",
+    "persian": "خواستن",
+    "example": "Quiero un kilo de tomates.",
+    "example_persian": "یک کیلو گوجه‌فرنگی می‌خواهم."
+  },
+  {
+    "spanish": "preferir",
+    "persian": "ترجیح دادن",
+    "example": "Prefiero las manzanas.",
+    "example_persian": "سیب‌ها را ترجیح می‌دهم."
+  },
+  {
+    "spanish": "¿Cuánto es?",
+    "persian": "چقدر می‌شود؟",
+    "example": "¿Cuánto es, por favor?",
+    "example_persian": "لطفاً چقدر می‌شود؟"
+  },
+  {
+    "spanish": "¿Cuánto cuesta?",
+    "persian": "قیمتش چقدر است؟",
+    "example": "¿Cuánto cuesta este queso?",
+    "example_persian": "این پنیر چقدر قیمت دارد؟"
+  },
+  {
+    "spanish": "Lo siento",
+    "persian": "متأسفم",
+    "example": "Lo siento, no hay plátanos.",
+    "example_persian": "متأسفم، موز نداریم."
+  },
+  {
+    "spanish": "ya no me quedan",
+    "persian": "دیگر برایم باقی نمانده",
+    "example": "Lo siento, ya no me quedan manzanas.",
+    "example_persian": "متأسفم، دیگر سیبی برایم نمانده."
+  },
+  {
+    "spanish": "Eso es todo",
+    "persian": "همین است؛ چیز دیگری نیست",
+    "example": "No, gracias. Eso es todo.",
+    "example_persian": "نه ممنون، همین است."
+  },
+  {
+    "spanish": "Quería…",
+    "persian": "می‌خواستم…؛ برای درخواست مؤدبانه",
+    "example": "Quería un kilo de cebollas.",
+    "example_persian": "یک کیلو پیاز می‌خواستم."
+  },
+  {
+    "spanish": "¿Algo más?",
+    "persian": "چیز دیگری؟",
+    "example": "¿Algo más, señora?",
+    "example_persian": "چیز دیگری، خانم؟"
+  },
+  {
+    "spanish": "Aquí tiene",
+    "persian": "بفرمایید (به یک نفر)",
+    "example": "Aquí tiene los tomates.",
+    "example_persian": "بفرمایید گوجه‌فرنگی‌ها."
+  },
+  {
+    "spanish": "Deme…",
+    "persian": "به من بدهید…",
+    "example": "Deme dos limones, por favor.",
+    "example_persian": "لطفاً دو لیموترش به من بدهید."
+  },
+  {
+    "spanish": "un kilo y medio",
+    "persian": "یک کیلو و نیم",
+    "example": "Quiero un kilo y medio de manzanas.",
+    "example_persian": "یک کیلو و نیم سیب می‌خواهم."
+  },
+  {
+    "spanish": "la tapa",
+    "persian": "تاپاس؛ پیش‌غذای کوچک اسپانیایی",
+    "example": "Pedimos tres tapas.",
+    "example_persian": "سه تاپاس سفارش می‌دهیم."
+  },
+  {
+    "spanish": "los calamares a la romana",
+    "persian": "حلقه‌های ماهی مرکب سوخاری",
+    "example": "Me gustan los calamares a la romana.",
+    "example_persian": "حلقه‌های ماهی مرکب سوخاری را دوست دارم."
+  },
+  {
+    "spanish": "las albóndigas",
+    "persian": "کوفته‌قلقلی‌ها",
+    "example": "Las albóndigas llevan carne y ajo.",
+    "example_persian": "کوفته‌قلقلی‌ها گوشت و سیر دارند."
+  },
+  {
+    "spanish": "la tortilla",
+    "persian": "املت اسپانیایی؛ معمولاً سیب‌زمینی و تخم‌مرغ",
+    "example": "La tortilla española lleva patatas y huevos.",
+    "example_persian": "املت اسپانیایی سیب‌زمینی و تخم‌مرغ دارد."
+  },
+  {
+    "spanish": "las aceitunas verdes",
+    "persian": "زیتون‌های سبز",
+    "example": "Quiero aceitunas verdes.",
+    "example_persian": "زیتون سبز می‌خواهم."
+  },
+  {
+    "spanish": "los champiñones al ajillo",
+    "persian": "قارچ با سیر",
+    "example": "Los champiñones al ajillo están muy ricos.",
+    "example_persian": "قارچ با سیر خیلی خوشمزه است."
+  },
+  {
+    "spanish": "las patatas bravas",
+    "persian": "سیب‌زمینی سرخ‌شده با سس تند",
+    "example": "Pedimos patatas bravas.",
+    "example_persian": "سیب‌زمینی براباس سفارش می‌دهیم."
+  },
+  {
+    "spanish": "las gambas a la plancha",
+    "persian": "میگوی کبابی/گریل‌شده",
+    "example": "Quiero gambas a la plancha.",
+    "example_persian": "میگوی گریل‌شده می‌خواهم."
+  },
+  {
+    "spanish": "las sardinas",
+    "persian": "ساردین‌ها",
+    "example": "Las sardinas están muy buenas.",
+    "example_persian": "ساردین‌ها خیلی خوشمزه‌اند."
+  },
+  {
+    "spanish": "el vino tinto",
+    "persian": "شراب قرمز",
+    "example": "Para mí, un vino tinto.",
+    "example_persian": "برای من یک شراب قرمز."
+  },
+  {
+    "spanish": "el agua mineral",
+    "persian": "آب معدنی",
+    "example": "Yo quiero un agua mineral.",
+    "example_persian": "من یک آب معدنی می‌خواهم."
+  },
+  {
+    "spanish": "la ración",
+    "persian": "پرس غذا",
+    "example": "Una ración de gambas, por favor.",
+    "example_persian": "یک پرس میگو، لطفاً."
+  },
+  {
+    "spanish": "rico/a",
+    "persian": "خوشمزه؛ غنی",
+    "example": "Las tapas están muy ricas.",
+    "example_persian": "تاپاس‌ها خیلی خوشمزه‌اند."
+  },
+  {
+    "spanish": "llevar",
+    "persian": "داشتن؛ شامل بودن",
+    "example": "¿Qué lleva la salsa?",
+    "example_persian": "سس چه چیزهایی دارد؟"
+  },
+  {
+    "spanish": "picar",
+    "persian": "تند بودن؛ نیش زدن",
+    "example": "¿Pican las albóndigas?",
+    "example_persian": "کوفته‌قلقلی‌ها تند هستند؟"
+  },
+  {
+    "spanish": "pagar",
+    "persian": "پرداخت کردن",
+    "example": "Hoy pago yo.",
+    "example_persian": "امروز من حساب می‌کنم."
+  },
+  {
+    "spanish": "enseguida",
+    "persian": "فوراً؛ همین الان",
+    "example": "Enseguida traigo las bebidas.",
+    "example_persian": "همین الان نوشیدنی‌ها را می‌آورم."
+  },
+  {
+    "spanish": "¿Qué van a tomar?",
+    "persian": "چه میل دارید؟",
+    "example": "Buenas tardes, ¿qué van a tomar?",
+    "example_persian": "عصر بخیر، چه میل دارید؟"
+  },
+  {
+    "spanish": "¿Qué les pongo?",
+    "persian": "چه چیزی برایتان بیاورم؟",
+    "example": "¿Y para beber, qué les pongo?",
+    "example_persian": "برای نوشیدن چه چیزی برایتان بیاورم؟"
+  },
+  {
+    "spanish": "¿Qué es eso?",
+    "persian": "آن چیست؟",
+    "example": "¿Qué es eso? No lo conozco.",
+    "example_persian": "آن چیست؟ آن را نمی‌شناسم."
+  },
+  {
+    "spanish": "¿Qué llevan?",
+    "persian": "چه چیزهایی داخلشان است؟",
+    "example": "¿Qué llevan las albóndigas?",
+    "example_persian": "کوفته‌قلقلی‌ها چه چیزهایی دارند؟"
+  },
+  {
+    "spanish": "picante",
+    "persian": "تند",
+    "example": "No me gusta la comida picante.",
+    "example_persian": "غذای تند را دوست ندارم."
+  },
+  {
+    "spanish": "dulce",
+    "persian": "شیرین",
+    "example": "El postre es dulce.",
+    "example_persian": "دسر شیرین است."
+  },
+  {
+    "spanish": "salado/a",
+    "persian": "شور",
+    "example": "La sopa está salada.",
+    "example_persian": "سوپ شور است."
+  },
+  {
+    "spanish": "poder",
+    "persian": "توانستن",
+    "example": "No puedo comer mayonesa.",
+    "example_persian": "نمی‌توانم مایونز بخورم."
+  },
+  {
+    "spanish": "la mayonesa",
+    "persian": "سس مایونز",
+    "example": "La salsa lleva mayonesa.",
+    "example_persian": "سس مایونز دارد."
+  },
+  {
+    "spanish": "la salsa",
+    "persian": "سس",
+    "example": "Esta salsa es picante.",
+    "example_persian": "این سس تند است."
+  },
+  {
+    "spanish": "cien",
+    "persian": "صد",
+    "example": "Hay cien personas.",
+    "example_persian": "صد نفر وجود دارند."
+  },
+  {
+    "spanish": "ciento uno",
+    "persian": "صد و یک",
+    "example": "El número es ciento uno.",
+    "example_persian": "عدد صد و یک است."
+  },
+  {
+    "spanish": "doscientos/as",
+    "persian": "دویست",
+    "example": "Necesito doscientos gramos.",
+    "example_persian": "دویست گرم لازم دارم."
+  },
+  {
+    "spanish": "trescientos/as",
+    "persian": "سیصد",
+    "example": "Hay trescientas botellas.",
+    "example_persian": "سیصد بطری وجود دارد."
+  },
+  {
+    "spanish": "cuatrocientos/as",
+    "persian": "چهارصد",
+    "example": "La fábrica produce cuatrocientas piezas.",
+    "example_persian": "کارخانه چهارصد قطعه تولید می‌کند."
+  },
+  {
+    "spanish": "quinientos/as",
+    "persian": "پانصد",
+    "example": "Hay quinientos estudiantes.",
+    "example_persian": "پانصد دانشجو وجود دارد."
+  },
+  {
+    "spanish": "seiscientos/as",
+    "persian": "ششصد",
+    "example": "El viaje cuesta seiscientos euros.",
+    "example_persian": "سفر ششصد یورو هزینه دارد."
+  },
+  {
+    "spanish": "setecientos/as",
+    "persian": "هفتصد",
+    "example": "La ciudad tiene setecientos años de historia.",
+    "example_persian": "این شهر هفتصد سال تاریخ دارد."
+  },
+  {
+    "spanish": "ochocientos/as",
+    "persian": "هشتصد",
+    "example": "Hay ochocientas páginas.",
+    "example_persian": "هشتصد صفحه وجود دارد."
+  },
+  {
+    "spanish": "novecientos/as",
+    "persian": "نهصد",
+    "example": "El libro tiene novecientas páginas.",
+    "example_persian": "کتاب نهصد صفحه دارد."
+  },
+  {
+    "spanish": "mil",
+    "persian": "هزار",
+    "example": "Hay mil personas.",
+    "example_persian": "هزار نفر وجود دارند."
+  },
+  {
+    "spanish": "diez mil",
+    "persian": "ده هزار",
+    "example": "La ciudad tiene diez mil habitantes.",
+    "example_persian": "شهر ده هزار نفر جمعیت دارد."
+  },
+  {
+    "spanish": "cien mil",
+    "persian": "صد هزار",
+    "example": "El precio es cien mil euros.",
+    "example_persian": "قیمت صد هزار یورو است."
+  },
+  {
+    "spanish": "un millón",
+    "persian": "یک میلیون",
+    "example": "La ciudad tiene un millón de habitantes.",
+    "example_persian": "شهر یک میلیون نفر جمعیت دارد."
+  },
+  {
+    "spanish": "novecientos catorce millones",
+    "persian": "نهصد و چهارده میلیون",
+    "example": "La cifra es novecientos catorce millones.",
+    "example_persian": "رقم نهصد و چهارده میلیون است."
+  },
+  {
+    "spanish": "quinientos treinta mil",
+    "persian": "پانصد و سی هزار",
+    "example": "La cifra es quinientos treinta mil.",
+    "example_persian": "رقم پانصد و سی هزار است."
+  },
+  {
+    "spanish": "treinta y cuatro mil novecientos cincuenta",
+    "persian": "سی و چهار هزار و نهصد و پنجاه",
+    "example": "El total es treinta y cuatro mil novecientos cincuenta.",
+    "example_persian": "مجموع سی و چهار هزار و نهصد و پنجاه است."
+  },
+  {
+    "spanish": "setecientos treinta y dos",
+    "persian": "هفتصد و سی و دو",
+    "example": "El número es setecientos treinta y dos.",
+    "example_persian": "عدد هفتصد و سی و دو است."
+  },
+  {
+    "spanish": "doscientos ochenta y siete",
+    "persian": "دویست و هشتاد و هفت",
+    "example": "Hay doscientos ochenta y siete libros.",
+    "example_persian": "دویست و هشتاد و هفت کتاب وجود دارد."
+  },
+  {
+    "spanish": "sesenta y cuatro",
+    "persian": "شصت و چهار",
+    "example": "Tengo sesenta y cuatro palabras nuevas.",
+    "example_persian": "شصت و چهار کلمهٔ جدید دارم."
+  },
+  {
+    "spanish": "la tonelada",
+    "persian": "تن",
+    "example": "Una tonelada equivale a mil kilos.",
+    "example_persian": "یک تن معادل هزار کیلوگرم است."
+  },
+  {
+    "spanish": "el kilo",
+    "persian": "کیلوگرم",
+    "example": "Quiero un kilo de manzanas.",
+    "example_persian": "یک کیلو سیب می‌خواهم."
+  },
+  {
+    "spanish": "la exportación",
+    "persian": "صادرات",
+    "example": "La exportación de fruta es importante.",
+    "example_persian": "صادرات میوه مهم است."
+  },
+  {
+    "spanish": "la fruta",
+    "persian": "میوه",
+    "example": "La fruta está fresca.",
+    "example_persian": "میوه تازه است."
+  },
+  {
+    "spanish": "la verdura",
+    "persian": "سبزی؛ سبزیجات",
+    "example": "Compro fruta y verdura.",
+    "example_persian": "میوه و سبزی می‌خرم."
+  },
+  {
+    "spanish": "fresco/a",
+    "persian": "تازه",
+    "example": "Los tomates están frescos.",
+    "example_persian": "گوجه‌فرنگی‌ها تازه‌اند."
+  },
+  {
+    "spanish": "la tonelada de…",
+    "persian": "یک تن از…",
+    "example": "España exporta toneladas de fruta.",
+    "example_persian": "اسپانیا تن‌ها میوه صادر می‌کند."
+  },
+  {
+    "spanish": "el tomate",
+    "persian": "گوجه‌فرنگی",
+    "example": "El tomate es rojo.",
+    "example_persian": "گوجه‌فرنگی قرمز است."
+  },
+  {
+    "spanish": "el pimiento",
+    "persian": "فلفل دلمه‌ای",
+    "example": "El pimiento puede ser rojo o verde.",
+    "example_persian": "فلفل دلمه‌ای می‌تواند قرمز یا سبز باشد."
+  },
+  {
+    "spanish": "el número cardinal",
+    "persian": "عدد اصلی",
+    "example": "Cien es un número cardinal.",
+    "example_persian": "صد یک عدد اصلی است."
+  },
+  {
+    "spanish": "el cumpleaños",
+    "persian": "تولد",
+    "example": "Mi cumpleaños es en mayo.",
+    "example_persian": "تولدم در ماه مه است."
+  },
+  {
+    "spanish": "tener",
+    "persian": "داشتن",
+    "example": "Tengo treinta y un años.",
+    "example_persian": "سی و یک سال دارم."
+  },
+  {
+    "spanish": "ser",
+    "persian": "بودن؛ هستن",
+    "example": "Soy de Irán.",
+    "example_persian": "اهل ایران هستم."
+  },
+  {
+    "spanish": "estar",
+    "persian": "بودن؛ قرار داشتن",
+    "example": "Estoy en Madrid.",
+    "example_persian": "در مادرید هستم."
+  },
+  {
+    "spanish": "haber",
+    "persian": "وجود داشتن؛ فعل کمکی",
+    "example": "Hay una mesa aquí.",
+    "example_persian": "اینجا یک میز هست."
+  },
+  {
+    "spanish": "imaginar",
+    "persian": "تصور کردن",
+    "example": "Puedo imaginar la escena.",
+    "example_persian": "می‌توانم صحنه را تصور کنم."
+  },
+  {
     "spanish": "cerrar",
     "persian": "بستن",
-    "pronunciation": "ثِرّار",
-    "example": "Voy a cerrar la puerta.",
-    "example_persian": "می‌خواهم در را ببندم."
+    "example": "Cierro la puerta.",
+    "example_persian": "در را می‌بندم."
+  },
+  {
+    "spanish": "sentir",
+    "persian": "احساس کردن؛ متأسف بودن",
+    "example": "Siento mucho el retraso.",
+    "example_persian": "بابت تأخیر خیلی متأسفم."
+  },
+  {
+    "spanish": "el pelo",
+    "persian": "مو",
+    "example": "Tiene el pelo negro.",
+    "example_persian": "موهای مشکی دارد."
+  },
+  {
+    "spanish": "los ojos",
+    "persian": "چشم‌ها",
+    "example": "Tiene los ojos marrones.",
+    "example_persian": "چشم‌های قهوه‌ای دارد."
+  },
+  {
+    "spanish": "marrón",
+    "persian": "قهوه‌ای",
+    "example": "Tiene los ojos marrones.",
+    "example_persian": "چشم‌های قهوه‌ای دارد."
+  },
+  {
+    "spanish": "el abogado/la abogada",
+    "persian": "وکیل مرد/زن",
+    "example": "Mi padre es abogado.",
+    "example_persian": "پدرم وکیل است."
+  },
+  {
+    "spanish": "la ama de casa",
+    "persian": "خانه‌دار (زن)",
+    "example": "Mi madre es ama de casa.",
+    "example_persian": "مادرم خانه‌دار است."
+  },
+  {
+    "spanish": "la construcción",
+    "persian": "ساخت‌وساز",
+    "example": "Mi hermano trabaja en construcción.",
+    "example_persian": "برادرم در ساخت‌وساز کار می‌کند."
+  },
+  {
+    "spanish": "la profesora de turco",
+    "persian": "معلم زبان ترکی",
+    "example": "Mi esposa es profesora de turco.",
+    "example_persian": "همسرم معلم زبان ترکی است."
+  },
+  {
+    "spanish": "la venta",
+    "persian": "فروش",
+    "example": "Trabajo en la venta de repuestos.",
+    "example_persian": "در فروش قطعات کار می‌کنم."
+  },
+  {
+    "spanish": "el repuesto",
+    "persian": "قطعهٔ یدکی",
+    "example": "Vendo repuestos eléctricos.",
+    "example_persian": "قطعات برقی یدکی می‌فروشم."
+  },
+  {
+    "spanish": "el vehículo pesado",
+    "persian": "خودروی سنگین",
+    "example": "Vendo repuestos para vehículos pesados.",
+    "example_persian": "قطعات یدکی برای خودروهای سنگین می‌فروشم."
   }
 ]
