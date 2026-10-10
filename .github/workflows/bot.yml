@@ -9,6 +9,9 @@ on:
 jobs:
   send-vocabulary:
     runs-on: ubuntu-latest
+    env:
+      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+      CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
     steps:
       - name: Get repository files
         uses: actions/checkout@v4
@@ -20,6 +23,12 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Check secrets
+        run: |
+          if [ -z "$BOT_TOKEN" ]; then echo "BOT_TOKEN is missing"; exit 1; fi
+          if [ -z "$CHANNEL_ID" ]; then echo "CHANNEL_ID is missing"; exit 1; fi
+          echo "Both secrets are available."
 
       - name: Run vocabulary bot
         run: python bot.py
