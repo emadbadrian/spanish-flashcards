@@ -1,0 +1,24 @@
+
+[
+  {
+    "spanish": "la ventana",
+    "persian": "پنجره",
+    "pronunciation": "لا بِن‌تانا",
+    "example": "Abro la ventana.",
+    "example_persian": "پنجره را باز می‌کنم."
+  },
+  {
+    "spanish": "aprender",
+    "persian": "یاد گرفتن",
+    "pronunciation": "اَپرِندِر",
+    "example": "Quiero aprender español.",
+    "example_persian": "می‌خواهم اسپانیایی یاد بگیرم."
+  },
+  {
+    "spanish": "cerrar",
+    "persian": "بستن",
+    "pronunciation": "ثِرّار",
+    "example": "Voy a cerrar la puerta.",
+    "example_persian": "می‌خواهم در را ببندم."
+  }
+]
