@@ -65,7 +65,12 @@ def load_state(words):
         ):
             return state
 
-    except (FileNotFoundError, json.JSONDecodeError, KeyError, TypeError):
+    except (
+        FileNotFoundError,
+        json.JSONDecodeError,
+        KeyError,
+        TypeError
+    ):
         pass
 
     # First run or vocabulary list changed
@@ -92,7 +97,7 @@ def main():
     now = datetime.now(ZoneInfo(TIMEZONE))
 
     if not (START_HOUR <= now.hour < END_HOUR):
-        print("Outside active hours. No message sent.")
+        print("Outside Tehran active hours. No message sent.")
         return
 
     if not BOT_TOKEN or not CHANNEL_ID:
@@ -106,7 +111,7 @@ def main():
 
     state = load_state(words)
 
-    # Start a new cycle only after every word was sent
+    # Start a new cycle after every word has been sent
     if state["next_index"] >= len(words):
         state["order"] = list(range(len(words)))
         random.shuffle(state["order"])
@@ -125,12 +130,15 @@ def main():
 
     response = requests.post(
         url,
-        data={"chat_id": CHANNEL_ID, "text": message},
+        data={
+            "chat_id": CHANNEL_ID,
+            "text": message
+        },
         timeout=20
     )
     response.raise_for_status()
 
-    # Advance only after Telegram confirms the message was sent
+    # Save progress after successful delivery
     state["next_index"] += 1
     save_state(state)
 
