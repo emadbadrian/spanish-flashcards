@@ -3,7 +3,7 @@ name: Spanish Flashcards Bot
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 # Allow the workflow to save its progress to the repository
