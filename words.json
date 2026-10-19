@@ -2368,5 +2368,1337 @@
     "persian": "خودروی سنگین",
     "example": "Vendo repuestos para vehículos pesados.",
     "example_persian": "قطعات یدکی برای خودروهای سنگین می‌فروشم."
+  },
+  {
+    "spanish": "Cerrar — cierro",
+    "persian": "بستن؛ من می‌بندم",
+    "example": "Yo cierro la puerta.",
+    "example_persian": "من در را می‌بندم."
+  },
+  {
+    "spanish": "Cerrar — cierras",
+    "persian": "بستن؛ تو می‌بندی",
+    "example": "Tú cierras la ventana.",
+    "example_persian": "تو پنجره را می‌بندی."
+  },
+  {
+    "spanish": "Cerrar — cierra",
+    "persian": "بستن؛ او می‌بندد",
+    "example": "Él cierra la tienda.",
+    "example_persian": "او مغازه را می‌بندد."
+  },
+  {
+    "spanish": "Cerrar — cerramos",
+    "persian": "بستن؛ ما می‌بندیم",
+    "example": "Nosotros cerramos la puerta.",
+    "example_persian": "ما در را می‌بندیم."
+  },
+  {
+    "spanish": "Cerrar — cerráis",
+    "persian": "بستن؛ شما می‌بندید",
+    "example": "Vosotros cerráis las ventanas.",
+    "example_persian": "شما پنجره‌ها را می‌بندید."
+  },
+  {
+    "spanish": "Cerrar — cierran",
+    "persian": "بستن؛ آن‌ها می‌بندند",
+    "example": "Ellos cierran el restaurante.",
+    "example_persian": "آن‌ها رستوران را می‌بندند."
+  },
+  {
+    "spanish": "Cenar — ceno",
+    "persian": "شام خوردن؛ من شام می‌خورم",
+    "example": "Yo ceno en casa.",
+    "example_persian": "من در خانه شام می‌خورم."
+  },
+  {
+    "spanish": "Cenar — cenas",
+    "persian": "شام خوردن؛ تو شام می‌خوری",
+    "example": "Tú cenas con tu familia.",
+    "example_persian": "تو با خانواده‌ات شام می‌خوری."
+  },
+  {
+    "spanish": "Cenar — cena",
+    "persian": "شام خوردن؛ او شام می‌خورد",
+    "example": "Ella cena a las nueve.",
+    "example_persian": "او ساعت نه شام می‌خورد."
+  },
+  {
+    "spanish": "Cenar — cenamos",
+    "persian": "شام خوردن؛ ما شام می‌خوریم",
+    "example": "Nosotros cenamos juntos.",
+    "example_persian": "ما با هم شام می‌خوریم."
+  },
+  {
+    "spanish": "Cenar — cenáis",
+    "persian": "شام خوردن؛ شما شام می‌خورید",
+    "example": "Vosotros cenáis en un restaurante.",
+    "example_persian": "شما در یک رستوران شام می‌خورید."
+  },
+  {
+    "spanish": "Cenar — cenan",
+    "persian": "شام خوردن؛ آن‌ها شام می‌خورند",
+    "example": "Ellos cenan con amigos.",
+    "example_persian": "آن‌ها با دوستانشان شام می‌خورند."
+  },
+  {
+    "spanish": "Desayunar — desayuno",
+    "persian": "صبحانه خوردن؛ من صبحانه می‌خورم",
+    "example": "Yo desayuno a las ocho.",
+    "example_persian": "من ساعت هشت صبحانه می‌خورم."
+  },
+  {
+    "spanish": "Desayunar — desayunas",
+    "persian": "صبحانه خوردن؛ تو صبحانه می‌خوری",
+    "example": "Tú desayunas en casa.",
+    "example_persian": "تو در خانه صبحانه می‌خوری."
+  },
+  {
+    "spanish": "Desayunar — desayuna",
+    "persian": "صبحانه خوردن؛ او صبحانه می‌خورد",
+    "example": "Él desayuna pan.",
+    "example_persian": "او برای صبحانه نان می‌خورد."
+  },
+  {
+    "spanish": "Desayunar — desayunamos",
+    "persian": "صبحانه خوردن؛ ما صبحانه می‌خوریم",
+    "example": "Nosotros desayunamos juntos.",
+    "example_persian": "ما با هم صبحانه می‌خوریم."
+  },
+  {
+    "spanish": "Desayunar — desayunáis",
+    "persian": "صبحانه خوردن؛ شما صبحانه می‌خورید",
+    "example": "Vosotros desayunáis café y tostadas.",
+    "example_persian": "شما برای صبحانه قهوه و نان تست می‌خورید."
+  },
+  {
+    "spanish": "Desayunar — desayunan",
+    "persian": "صبحانه خوردن؛ آن‌ها صبحانه می‌خورند",
+    "example": "Ellos desayunan en una cafetería.",
+    "example_persian": "آن‌ها در یک کافه صبحانه می‌خورند."
+  },
+  {
+    "spanish": "Almorzar — almuerzo",
+    "persian": "ناهار خوردن؛ من ناهار می‌خورم",
+    "example": "Yo almuerzo a las dos.",
+    "example_persian": "من ساعت دو ناهار می‌خورم."
+  },
+  {
+    "spanish": "Almorzar — almuerzas",
+    "persian": "ناهار خوردن؛ تو ناهار می‌خوری",
+    "example": "Tú almuerzas en el trabajo.",
+    "example_persian": "تو در محل کار ناهار می‌خوری."
+  },
+  {
+    "spanish": "Almorzar — almuerza",
+    "persian": "ناهار خوردن؛ او ناهار می‌خورد",
+    "example": "Ella almuerza con su madre.",
+    "example_persian": "او با مادرش ناهار می‌خورد."
+  },
+  {
+    "spanish": "Almorzar — almorzamos",
+    "persian": "ناهار خوردن؛ ما ناهار می‌خوریم",
+    "example": "Nosotros almorzamos en casa.",
+    "example_persian": "ما در خانه ناهار می‌خوریم."
+  },
+  {
+    "spanish": "Almorzar — almorzáis",
+    "persian": "ناهار خوردن؛ شما ناهار می‌خورید",
+    "example": "Vosotros almorzáis juntos.",
+    "example_persian": "شما با هم ناهار می‌خورید."
+  },
+  {
+    "spanish": "Almorzar — almuerzan",
+    "persian": "ناهار خوردن؛ آن‌ها ناهار می‌خورند",
+    "example": "Ellos almuerzan en un restaurante.",
+    "example_persian": "آن‌ها در یک رستوران ناهار می‌خورند."
+  },
+  {
+    "spanish": "Merendar — meriendo",
+    "persian": "عصرانه خوردن؛ من عصرانه می‌خورم",
+    "example": "Yo meriendo a las cinco.",
+    "example_persian": "من ساعت پنج عصرانه می‌خورم."
+  },
+  {
+    "spanish": "Merendar — meriendas",
+    "persian": "عصرانه خوردن؛ تو عصرانه می‌خوری",
+    "example": "Tú meriendas un bocadillo.",
+    "example_persian": "تو برای عصرانه یک ساندویچ کوچک می‌خوری."
+  },
+  {
+    "spanish": "Merendar — merienda",
+    "persian": "عصرانه خوردن؛ او عصرانه می‌خورد",
+    "example": "Él merienda fruta.",
+    "example_persian": "او برای عصرانه میوه می‌خورد."
+  },
+  {
+    "spanish": "Merendar — merendamos",
+    "persian": "عصرانه خوردن؛ ما عصرانه می‌خوریم",
+    "example": "Nosotros merendamos en casa.",
+    "example_persian": "ما در خانه عصرانه می‌خوریم."
+  },
+  {
+    "spanish": "Merendar — merendáis",
+    "persian": "عصرانه خوردن؛ شما عصرانه می‌خورید",
+    "example": "Vosotros merendáis juntos.",
+    "example_persian": "شما با هم عصرانه می‌خورید."
+  },
+  {
+    "spanish": "Merendar — meriendan",
+    "persian": "عصرانه خوردن؛ آن‌ها عصرانه می‌خورند",
+    "example": "Ellos meriendan en el parque.",
+    "example_persian": "آن‌ها در پارک عصرانه می‌خورند."
+  },
+  {
+    "spanish": "Ser — soy",
+    "persian": "بودن؛ هویت و ویژگی؛ من هستم",
+    "example": "Yo soy iraní.",
+    "example_persian": "من ایرانی هستم."
+  },
+  {
+    "spanish": "Ser — eres",
+    "persian": "بودن؛ هویت و ویژگی؛ تو هستی",
+    "example": "Tú eres estudiante.",
+    "example_persian": "تو دانش‌آموز یا دانشجو هستی."
+  },
+  {
+    "spanish": "Ser — es",
+    "persian": "بودن؛ هویت و ویژگی؛ او هست",
+    "example": "Él es profesor.",
+    "example_persian": "او معلم است."
+  },
+  {
+    "spanish": "Ser — somos",
+    "persian": "بودن؛ هویت و ویژگی؛ ما هستیم",
+    "example": "Nosotros somos amigos.",
+    "example_persian": "ما دوست هستیم."
+  },
+  {
+    "spanish": "Ser — sois",
+    "persian": "بودن؛ هویت و ویژگی؛ شما هستید",
+    "example": "Vosotros sois españoles.",
+    "example_persian": "شما اسپانیایی هستید."
+  },
+  {
+    "spanish": "Ser — son",
+    "persian": "بودن؛ هویت و ویژگی؛ آن‌ها هستند",
+    "example": "Ellos son simpáticos.",
+    "example_persian": "آن‌ها خوش‌برخورد هستند."
+  },
+  {
+    "spanish": "Estar — estoy",
+    "persian": "بودن؛ مکان و حالت؛ من هستم",
+    "example": "Yo estoy en casa.",
+    "example_persian": "من در خانه هستم."
+  },
+  {
+    "spanish": "Estar — estás",
+    "persian": "بودن؛ مکان و حالت؛ تو هستی",
+    "example": "Tú estás en el trabajo.",
+    "example_persian": "تو در محل کار هستی."
+  },
+  {
+    "spanish": "Estar — está",
+    "persian": "بودن؛ مکان و حالت؛ او هست",
+    "example": "Ella está en Madrid.",
+    "example_persian": "او در مادرید است."
+  },
+  {
+    "spanish": "Estar — estamos",
+    "persian": "بودن؛ مکان و حالت؛ ما هستیم",
+    "example": "Nosotros estamos aquí.",
+    "example_persian": "ما اینجا هستیم."
+  },
+  {
+    "spanish": "Estar — estáis",
+    "persian": "بودن؛ مکان و حالت؛ شما هستید",
+    "example": "Vosotros estáis en clase.",
+    "example_persian": "شما در کلاس هستید."
+  },
+  {
+    "spanish": "Estar — están",
+    "persian": "بودن؛ مکان و حالت؛ آن‌ها هستند",
+    "example": "Ellos están en el parque.",
+    "example_persian": "آن‌ها در پارک هستند."
+  },
+  {
+    "spanish": "Tener — tengo",
+    "persian": "داشتن؛ من دارم",
+    "example": "Yo tengo un hermano.",
+    "example_persian": "من یک برادر دارم."
+  },
+  {
+    "spanish": "Tener — tienes",
+    "persian": "داشتن؛ تو داری",
+    "example": "Tú tienes un coche.",
+    "example_persian": "تو یک ماشین داری."
+  },
+  {
+    "spanish": "Tener — tiene",
+    "persian": "داشتن؛ او دارد",
+    "example": "Él tiene treinta años.",
+    "example_persian": "او سی سال دارد."
+  },
+  {
+    "spanish": "Tener — tenemos",
+    "persian": "داشتن؛ ما داریم",
+    "example": "Nosotros tenemos una casa.",
+    "example_persian": "ما یک خانه داریم."
+  },
+  {
+    "spanish": "Tener — tenéis",
+    "persian": "داشتن؛ شما دارید",
+    "example": "Vosotros tenéis dos libros.",
+    "example_persian": "شما دو کتاب دارید."
+  },
+  {
+    "spanish": "Tener — tienen",
+    "persian": "داشتن؛ آن‌ها دارند",
+    "example": "Ellos tienen un perro.",
+    "example_persian": "آن‌ها یک سگ دارند."
+  },
+  {
+    "spanish": "Llamarse — me llamo",
+    "persian": "نام داشتن؛ اسم من ... است",
+    "example": "Yo me llamo Emad.",
+    "example_persian": "اسم من عماد است."
+  },
+  {
+    "spanish": "Llamarse — te llamas",
+    "persian": "نام داشتن؛ اسم تو ... است",
+    "example": "Tú te llamas Ana.",
+    "example_persian": "اسم تو آنا است."
+  },
+  {
+    "spanish": "Llamarse — se llama",
+    "persian": "نام داشتن؛ اسم او ... است",
+    "example": "Él se llama Carlos.",
+    "example_persian": "اسم او کارلوس است."
+  },
+  {
+    "spanish": "Llamarse — nos llamamos",
+    "persian": "نام داشتن؛ اسم ما ... است",
+    "example": "Nosotros nos llamamos Emad y Aisa.",
+    "example_persian": "اسم ما عماد و عیسی است."
+  },
+  {
+    "spanish": "Llamarse — os llamáis",
+    "persian": "نام داشتن؛ اسم شما ... است",
+    "example": "Vosotros os llamáis Pablo y Luis.",
+    "example_persian": "اسم شما پابلو و لوئیس است."
+  },
+  {
+    "spanish": "Llamarse — se llaman",
+    "persian": "نام داشتن؛ اسم آن‌ها ... است",
+    "example": "Ellas se llaman María y Ana.",
+    "example_persian": "اسم آن‌ها ماریا و آنا است."
+  },
+  {
+    "spanish": "Vivir — vivo",
+    "persian": "زندگی کردن؛ من زندگی می‌کنم",
+    "example": "Yo vivo en Teherán.",
+    "example_persian": "من در تهران زندگی می‌کنم."
+  },
+  {
+    "spanish": "Vivir — vives",
+    "persian": "زندگی کردن؛ تو زندگی می‌کنی",
+    "example": "Tú vives en Madrid.",
+    "example_persian": "تو در مادرید زندگی می‌کنی."
+  },
+  {
+    "spanish": "Vivir — vive",
+    "persian": "زندگی کردن؛ او زندگی می‌کند",
+    "example": "Ella vive en España.",
+    "example_persian": "او در اسپانیا زندگی می‌کند."
+  },
+  {
+    "spanish": "Vivir — vivimos",
+    "persian": "زندگی کردن؛ ما زندگی می‌کنیم",
+    "example": "Nosotros vivimos en Irán.",
+    "example_persian": "ما در ایران زندگی می‌کنیم."
+  },
+  {
+    "spanish": "Vivir — vivís",
+    "persian": "زندگی کردن؛ شما زندگی می‌کنید",
+    "example": "Vosotros vivís en Bilbao.",
+    "example_persian": "شما در بیلبائو زندگی می‌کنید."
+  },
+  {
+    "spanish": "Vivir — viven",
+    "persian": "زندگی کردن؛ آن‌ها زندگی می‌کنند",
+    "example": "Ellos viven en Buenos Aires.",
+    "example_persian": "آن‌ها در بوئنوس آیرس زندگی می‌کنند."
+  },
+  {
+    "spanish": "Ir — voy",
+    "persian": "رفتن؛ من می‌روم",
+    "example": "Yo voy al supermercado.",
+    "example_persian": "من به سوپرمارکت می‌روم."
+  },
+  {
+    "spanish": "Ir — vas",
+    "persian": "رفتن؛ تو می‌روی",
+    "example": "Tú vas al trabajo.",
+    "example_persian": "تو به محل کار می‌روی."
+  },
+  {
+    "spanish": "Ir — va",
+    "persian": "رفتن؛ او می‌رود",
+    "example": "Ella va a la escuela.",
+    "example_persian": "او به مدرسه می‌رود."
+  },
+  {
+    "spanish": "Ir — vamos",
+    "persian": "رفتن؛ ما می‌رویم",
+    "example": "Nosotros vamos al parque.",
+    "example_persian": "ما به پارک می‌رویم."
+  },
+  {
+    "spanish": "Ir — vais",
+    "persian": "رفتن؛ شما می‌روید",
+    "example": "Vosotros vais a Madrid.",
+    "example_persian": "شما به مادرید می‌روید."
+  },
+  {
+    "spanish": "Ir — van",
+    "persian": "رفتن؛ آن‌ها می‌روند",
+    "example": "Ellos van al restaurante.",
+    "example_persian": "آن‌ها به رستوران می‌روند."
+  },
+  {
+    "spanish": "Hacer — hago",
+    "persian": "انجام دادن / درست کردن؛ من انجام می‌دهم / درست می‌کنم",
+    "example": "Yo hago la comida.",
+    "example_persian": "من غذا درست می‌کنم."
+  },
+  {
+    "spanish": "Hacer — haces",
+    "persian": "انجام دادن / درست کردن؛ تو انجام می‌دهی",
+    "example": "Tú haces los deberes.",
+    "example_persian": "تو تکالیفت را انجام می‌دهی."
+  },
+  {
+    "spanish": "Hacer — hace",
+    "persian": "انجام دادن / درست کردن؛ او درست می‌کند",
+    "example": "Él hace café.",
+    "example_persian": "او قهوه درست می‌کند."
+  },
+  {
+    "spanish": "Hacer — hacemos",
+    "persian": "انجام دادن / درست کردن؛ ما انجام می‌دهیم",
+    "example": "Nosotros hacemos ejercicio.",
+    "example_persian": "ما ورزش می‌کنیم."
+  },
+  {
+    "spanish": "Hacer — hacéis",
+    "persian": "انجام دادن / درست کردن؛ شما می‌گیرید",
+    "example": "Vosotros hacéis una foto.",
+    "example_persian": "شما یک عکس می‌گیرید."
+  },
+  {
+    "spanish": "Hacer — hacen",
+    "persian": "انجام دادن / درست کردن؛ آن‌ها انجام می‌دهند",
+    "example": "Ellos hacen deporte.",
+    "example_persian": "آن‌ها ورزش می‌کنند."
+  },
+  {
+    "spanish": "Venir — vengo",
+    "persian": "آمدن؛ من می‌آیم",
+    "example": "Yo vengo de Irán.",
+    "example_persian": "من از ایران می‌آیم."
+  },
+  {
+    "spanish": "Venir — vienes",
+    "persian": "آمدن؛ تو می‌آیی",
+    "example": "Tú vienes a mi casa.",
+    "example_persian": "تو به خانهٔ من می‌آیی."
+  },
+  {
+    "spanish": "Venir — viene",
+    "persian": "آمدن؛ او می‌آید",
+    "example": "Ella viene de Madrid.",
+    "example_persian": "او از مادرید می‌آید."
+  },
+  {
+    "spanish": "Venir — venimos",
+    "persian": "آمدن؛ ما می‌آییم",
+    "example": "Nosotros venimos en coche.",
+    "example_persian": "ما با ماشین می‌آییم."
+  },
+  {
+    "spanish": "Venir — venís",
+    "persian": "آمدن؛ شما می‌آیید",
+    "example": "Vosotros venís a clase.",
+    "example_persian": "شما به کلاس می‌آیید."
+  },
+  {
+    "spanish": "Venir — vienen",
+    "persian": "آمدن؛ آن‌ها می‌آیند",
+    "example": "Ellos vienen mañana.",
+    "example_persian": "آن‌ها فردا می‌آیند."
+  },
+  {
+    "spanish": "Comer — como",
+    "persian": "غذا خوردن؛ من می‌خورم",
+    "example": "Yo como arroz.",
+    "example_persian": "من برنج می‌خورم."
+  },
+  {
+    "spanish": "Comer — comes",
+    "persian": "غذا خوردن؛ تو می‌خوری",
+    "example": "Tú comes pan.",
+    "example_persian": "تو نان می‌خوری."
+  },
+  {
+    "spanish": "Comer — come",
+    "persian": "غذا خوردن؛ او می‌خورد",
+    "example": "Él come pescado.",
+    "example_persian": "او ماهی می‌خورد."
+  },
+  {
+    "spanish": "Comer — comemos",
+    "persian": "غذا خوردن؛ ما می‌خوریم",
+    "example": "Nosotros comemos juntos.",
+    "example_persian": "ما با هم غذا می‌خوریم."
+  },
+  {
+    "spanish": "Comer — coméis",
+    "persian": "غذا خوردن؛ شما می‌خورید",
+    "example": "Vosotros coméis en casa.",
+    "example_persian": "شما در خانه غذا می‌خورید."
+  },
+  {
+    "spanish": "Comer — comen",
+    "persian": "غذا خوردن؛ آن‌ها می‌خورند",
+    "example": "Ellos comen una ensalada.",
+    "example_persian": "آن‌ها یک سالاد می‌خورند."
+  },
+  {
+    "spanish": "Beber — bebo",
+    "persian": "نوشیدن؛ من می‌نوشم",
+    "example": "Yo bebo agua.",
+    "example_persian": "من آب می‌نوشم."
+  },
+  {
+    "spanish": "Beber — bebes",
+    "persian": "نوشیدن؛ تو می‌نوشی",
+    "example": "Tú bebes leche.",
+    "example_persian": "تو شیر می‌نوشی."
+  },
+  {
+    "spanish": "Beber — bebe",
+    "persian": "نوشیدن؛ او می‌نوشد",
+    "example": "Ella bebe zumo.",
+    "example_persian": "او آب‌میوه می‌نوشد."
+  },
+  {
+    "spanish": "Beber — bebemos",
+    "persian": "نوشیدن؛ ما می‌نوشیم",
+    "example": "Nosotros bebemos café.",
+    "example_persian": "ما قهوه می‌نوشیم."
+  },
+  {
+    "spanish": "Beber — bebéis",
+    "persian": "نوشیدن؛ شما می‌نوشید",
+    "example": "Vosotros bebéis té.",
+    "example_persian": "شما چای می‌نوشید."
+  },
+  {
+    "spanish": "Beber — beben",
+    "persian": "نوشیدن؛ آن‌ها می‌نوشند",
+    "example": "Ellos beben agua fría.",
+    "example_persian": "آن‌ها آب سرد می‌نوشند."
+  },
+  {
+    "spanish": "Tomar — tomo",
+    "persian": "خوردن / نوشیدن / گرفتن؛ من می‌نوشم",
+    "example": "Yo tomo un café.",
+    "example_persian": "من یک قهوه می‌نوشم."
+  },
+  {
+    "spanish": "Tomar — tomas",
+    "persian": "خوردن / نوشیدن / گرفتن؛ تو می‌نوشی",
+    "example": "Tú tomas agua.",
+    "example_persian": "تو آب می‌نوشی."
+  },
+  {
+    "spanish": "Tomar — toma",
+    "persian": "خوردن / نوشیدن / گرفتن؛ او سوار می‌شود",
+    "example": "Él toma el autobús.",
+    "example_persian": "او سوار اتوبوس می‌شود."
+  },
+  {
+    "spanish": "Tomar — tomamos",
+    "persian": "خوردن / نوشیدن / گرفتن؛ ما می‌خوریم",
+    "example": "Nosotros tomamos el desayuno.",
+    "example_persian": "ما صبحانه می‌خوریم."
+  },
+  {
+    "spanish": "Tomar — tomáis",
+    "persian": "خوردن / نوشیدن / گرفتن؛ شما چیزی می‌خورید یا می‌نوشید",
+    "example": "Vosotros tomáis algo en una cafetería.",
+    "example_persian": "شما در یک کافه چیزی می‌خورید یا می‌نوشید."
+  },
+  {
+    "spanish": "Tomar — toman",
+    "persian": "خوردن / نوشیدن / گرفتن؛ آن‌ها عکس می‌گیرند",
+    "example": "Ellos toman fotos.",
+    "example_persian": "آن‌ها عکس می‌گیرند."
+  },
+  {
+    "spanish": "Comprar — compro",
+    "persian": "خریدن؛ من می‌خرم",
+    "example": "Yo compro pan.",
+    "example_persian": "من نان می‌خرم."
+  },
+  {
+    "spanish": "Comprar — compras",
+    "persian": "خریدن؛ تو می‌خری",
+    "example": "Tú compras fruta.",
+    "example_persian": "تو میوه می‌خری."
+  },
+  {
+    "spanish": "Comprar — compra",
+    "persian": "خریدن؛ او می‌خرد",
+    "example": "Ella compra un libro.",
+    "example_persian": "او یک کتاب می‌خرد."
+  },
+  {
+    "spanish": "Comprar — compramos",
+    "persian": "خریدن؛ ما می‌خریم",
+    "example": "Nosotros compramos comida.",
+    "example_persian": "ما غذا می‌خریم."
+  },
+  {
+    "spanish": "Comprar — compráis",
+    "persian": "خریدن؛ شما می‌خرید",
+    "example": "Vosotros compráis ropa.",
+    "example_persian": "شما لباس می‌خرید."
+  },
+  {
+    "spanish": "Comprar — compran",
+    "persian": "خریدن؛ آن‌ها می‌خرند",
+    "example": "Ellos compran verduras.",
+    "example_persian": "آن‌ها سبزیجات می‌خرند."
+  },
+  {
+    "spanish": "Cocinar — cocino",
+    "persian": "آشپزی کردن؛ من آشپزی می‌کنم",
+    "example": "Yo cocino en casa.",
+    "example_persian": "من در خانه آشپزی می‌کنم."
+  },
+  {
+    "spanish": "Cocinar — cocinas",
+    "persian": "آشپزی کردن؛ تو درست می‌کنی",
+    "example": "Tú cocinas arroz.",
+    "example_persian": "تو برنج درست می‌کنی."
+  },
+  {
+    "spanish": "Cocinar — cocina",
+    "persian": "آشپزی کردن؛ او درست می‌کند",
+    "example": "Él cocina pescado.",
+    "example_persian": "او ماهی درست می‌کند."
+  },
+  {
+    "spanish": "Cocinar — cocinamos",
+    "persian": "آشپزی کردن؛ ما آشپزی می‌کنیم",
+    "example": "Nosotros cocinamos juntos.",
+    "example_persian": "ما با هم آشپزی می‌کنیم."
+  },
+  {
+    "spanish": "Cocinar — cocináis",
+    "persian": "آشپزی کردن؛ شما آشپزی می‌کنید",
+    "example": "Vosotros cocináis muy bien.",
+    "example_persian": "شما خیلی خوب آشپزی می‌کنید."
+  },
+  {
+    "spanish": "Cocinar — cocinan",
+    "persian": "آشپزی کردن؛ آن‌ها شام درست می‌کنند",
+    "example": "Ellos cocinan la cena.",
+    "example_persian": "آن‌ها شام درست می‌کنند."
+  },
+  {
+    "spanish": "Dormir — duermo",
+    "persian": "خوابیدن؛ من می‌خوابم",
+    "example": "Yo duermo ocho horas.",
+    "example_persian": "من هشت ساعت می‌خوابم."
+  },
+  {
+    "spanish": "Dormir — duermes",
+    "persian": "خوابیدن؛ تو می‌خوابی",
+    "example": "Tú duermes mucho.",
+    "example_persian": "تو زیاد می‌خوابی."
+  },
+  {
+    "spanish": "Dormir — duerme",
+    "persian": "خوابیدن؛ او می‌خوابد",
+    "example": "Ella duerme en su habitación.",
+    "example_persian": "او در اتاقش می‌خوابد."
+  },
+  {
+    "spanish": "Dormir — dormimos",
+    "persian": "خوابیدن؛ ما می‌خوابیم",
+    "example": "Nosotros dormimos en casa.",
+    "example_persian": "ما در خانه می‌خوابیم."
+  },
+  {
+    "spanish": "Dormir — dormís",
+    "persian": "خوابیدن؛ شما می‌خوابید",
+    "example": "Vosotros dormís poco.",
+    "example_persian": "شما کم می‌خوابید."
+  },
+  {
+    "spanish": "Dormir — duermen",
+    "persian": "خوابیدن؛ آن‌ها می‌خوابند",
+    "example": "Ellos duermen por la noche.",
+    "example_persian": "آن‌ها شب‌ها می‌خوابند."
+  },
+  {
+    "spanish": "Despertarse — me despierto",
+    "persian": "بیدار شدن؛ من بیدار می‌شوم",
+    "example": "Yo me despierto a las siete.",
+    "example_persian": "من ساعت هفت بیدار می‌شوم."
+  },
+  {
+    "spanish": "Despertarse — te despiertas",
+    "persian": "بیدار شدن؛ تو بیدار می‌شوی",
+    "example": "Tú te despiertas temprano.",
+    "example_persian": "تو زود بیدار می‌شوی."
+  },
+  {
+    "spanish": "Despertarse — se despierta",
+    "persian": "بیدار شدن؛ او بیدار می‌شود",
+    "example": "Él se despierta a las ocho.",
+    "example_persian": "او ساعت هشت بیدار می‌شود."
+  },
+  {
+    "spanish": "Despertarse — nos despertamos",
+    "persian": "بیدار شدن؛ ما بیدار می‌شویم",
+    "example": "Nosotros nos despertamos temprano.",
+    "example_persian": "ما زود بیدار می‌شویم."
+  },
+  {
+    "spanish": "Despertarse — os despertáis",
+    "persian": "بیدار شدن؛ شما بیدار می‌شوید",
+    "example": "Vosotros os despertáis tarde.",
+    "example_persian": "شما دیر بیدار می‌شوید."
+  },
+  {
+    "spanish": "Despertarse — se despiertan",
+    "persian": "بیدار شدن؛ آن‌ها بیدار می‌شوند",
+    "example": "Ellos se despiertan a las seis.",
+    "example_persian": "آن‌ها ساعت شش بیدار می‌شوند."
+  },
+  {
+    "spanish": "Hablar — hablo",
+    "persian": "صحبت کردن؛ من صحبت می‌کنم",
+    "example": "Yo hablo español.",
+    "example_persian": "من اسپانیایی صحبت می‌کنم."
+  },
+  {
+    "spanish": "Hablar — hablas",
+    "persian": "صحبت کردن؛ تو صحبت می‌کنی",
+    "example": "Tú hablas inglés.",
+    "example_persian": "تو انگلیسی صحبت می‌کنی."
+  },
+  {
+    "spanish": "Hablar — habla",
+    "persian": "صحبت کردن؛ او صحبت می‌کند",
+    "example": "Ella habla con su madre.",
+    "example_persian": "او با مادرش صحبت می‌کند."
+  },
+  {
+    "spanish": "Hablar — hablamos",
+    "persian": "صحبت کردن؛ ما صحبت می‌کنیم",
+    "example": "Nosotros hablamos en clase.",
+    "example_persian": "ما در کلاس صحبت می‌کنیم."
+  },
+  {
+    "spanish": "Hablar — habláis",
+    "persian": "صحبت کردن؛ شما صحبت می‌کنید",
+    "example": "Vosotros habláis muy rápido.",
+    "example_persian": "شما خیلی سریع صحبت می‌کنید."
+  },
+  {
+    "spanish": "Hablar — hablan",
+    "persian": "صحبت کردن؛ آن‌ها صحبت می‌کنند",
+    "example": "Ellos hablan con el profesor.",
+    "example_persian": "آن‌ها با معلم صحبت می‌کنند."
+  },
+  {
+    "spanish": "Trabajar — trabajo",
+    "persian": "کار کردن؛ من کار می‌کنم",
+    "example": "Yo trabajo en una tienda.",
+    "example_persian": "من در یک مغازه کار می‌کنم."
+  },
+  {
+    "spanish": "Trabajar — trabajas",
+    "persian": "کار کردن؛ تو کار می‌کنی",
+    "example": "Tú trabajas en casa.",
+    "example_persian": "تو در خانه کار می‌کنی."
+  },
+  {
+    "spanish": "Trabajar — trabaja",
+    "persian": "کار کردن؛ او کار می‌کند",
+    "example": "Él trabaja en Madrid.",
+    "example_persian": "او در مادرید کار می‌کند."
+  },
+  {
+    "spanish": "Trabajar — trabajamos",
+    "persian": "کار کردن؛ ما کار می‌کنیم",
+    "example": "Nosotros trabajamos juntos.",
+    "example_persian": "ما با هم کار می‌کنیم."
+  },
+  {
+    "spanish": "Trabajar — trabajáis",
+    "persian": "کار کردن؛ شما کار می‌کنید",
+    "example": "Vosotros trabajáis por la mañana.",
+    "example_persian": "شما صبح‌ها کار می‌کنید."
+  },
+  {
+    "spanish": "Trabajar — trabajan",
+    "persian": "کار کردن؛ آن‌ها کار می‌کنند",
+    "example": "Ellos trabajan en un restaurante.",
+    "example_persian": "آن‌ها در یک رستوران کار می‌کنند."
+  },
+  {
+    "spanish": "Estudiar — estudio",
+    "persian": "درس خواندن / مطالعه کردن؛ من درس می‌خوانم",
+    "example": "Yo estudio español.",
+    "example_persian": "من اسپانیایی می‌خوانم."
+  },
+  {
+    "spanish": "Estudiar — estudias",
+    "persian": "درس خواندن / مطالعه کردن؛ تو درس می‌خوانی",
+    "example": "Tú estudias matemáticas.",
+    "example_persian": "تو ریاضی می‌خوانی."
+  },
+  {
+    "spanish": "Estudiar — estudia",
+    "persian": "درس خواندن / مطالعه کردن؛ او درس می‌خواند",
+    "example": "Ella estudia en casa.",
+    "example_persian": "او در خانه درس می‌خواند."
+  },
+  {
+    "spanish": "Estudiar — estudiamos",
+    "persian": "درس خواندن / مطالعه کردن؛ ما درس می‌خوانیم",
+    "example": "Nosotros estudiamos juntos.",
+    "example_persian": "ما با هم درس می‌خوانیم."
+  },
+  {
+    "spanish": "Estudiar — estudiáis",
+    "persian": "درس خواندن / مطالعه کردن؛ شما درس می‌خوانید",
+    "example": "Vosotros estudiáis por la tarde.",
+    "example_persian": "شما بعدازظهرها درس می‌خوانید."
+  },
+  {
+    "spanish": "Estudiar — estudian",
+    "persian": "درس خواندن / مطالعه کردن؛ آن‌ها درس می‌خوانند",
+    "example": "Ellos estudian en la universidad.",
+    "example_persian": "آن‌ها در دانشگاه درس می‌خوانند."
+  },
+  {
+    "spanish": "Aprender — aprendo",
+    "persian": "یاد گرفتن؛ من یاد می‌گیرم",
+    "example": "Yo aprendo español.",
+    "example_persian": "من اسپانیایی یاد می‌گیرم."
+  },
+  {
+    "spanish": "Aprender — aprendes",
+    "persian": "یاد گرفتن؛ تو یاد می‌گیری",
+    "example": "Tú aprendes palabras nuevas.",
+    "example_persian": "تو کلمات جدید یاد می‌گیری."
+  },
+  {
+    "spanish": "Aprender — aprende",
+    "persian": "یاد گرفتن؛ او یاد می‌گیرد",
+    "example": "Él aprende rápido.",
+    "example_persian": "او سریع یاد می‌گیرد."
+  },
+  {
+    "spanish": "Aprender — aprendemos",
+    "persian": "یاد گرفتن؛ ما یاد می‌گیریم",
+    "example": "Nosotros aprendemos juntos.",
+    "example_persian": "ما با هم یاد می‌گیریم."
+  },
+  {
+    "spanish": "Aprender — aprendéis",
+    "persian": "یاد گرفتن؛ شما یاد می‌گیرید",
+    "example": "Vosotros aprendéis mucho.",
+    "example_persian": "شما چیزهای زیادی یاد می‌گیرید."
+  },
+  {
+    "spanish": "Aprender — aprenden",
+    "persian": "یاد گرفتن؛ آن‌ها یاد می‌گیرند",
+    "example": "Ellos aprenden español en clase.",
+    "example_persian": "آن‌ها در کلاس اسپانیایی یاد می‌گیرند."
+  },
+  {
+    "spanish": "Leer — leo",
+    "persian": "خواندن؛ من می‌خوانم",
+    "example": "Yo leo un libro.",
+    "example_persian": "من یک کتاب می‌خوانم."
+  },
+  {
+    "spanish": "Leer — lees",
+    "persian": "خواندن؛ تو می‌خوانی",
+    "example": "Tú lees el periódico.",
+    "example_persian": "تو روزنامه می‌خوانی."
+  },
+  {
+    "spanish": "Leer — lee",
+    "persian": "خواندن؛ او می‌خواند",
+    "example": "Ella lee una revista.",
+    "example_persian": "او یک مجله می‌خواند."
+  },
+  {
+    "spanish": "Leer — leemos",
+    "persian": "خواندن؛ ما مطالعه می‌کنیم",
+    "example": "Nosotros leemos en casa.",
+    "example_persian": "ما در خانه مطالعه می‌کنیم."
+  },
+  {
+    "spanish": "Leer — leéis",
+    "persian": "خواندن؛ شما می‌خوانید",
+    "example": "Vosotros leéis un texto.",
+    "example_persian": "شما یک متن می‌خوانید."
+  },
+  {
+    "spanish": "Leer — leen",
+    "persian": "خواندن؛ آن‌ها می‌خوانند",
+    "example": "Ellos leen libros españoles.",
+    "example_persian": "آن‌ها کتاب‌های اسپانیایی می‌خوانند."
+  },
+  {
+    "spanish": "Escribir — escribo",
+    "persian": "نوشتن؛ من می‌نویسم",
+    "example": "Yo escribo una frase.",
+    "example_persian": "من یک جمله می‌نویسم."
+  },
+  {
+    "spanish": "Escribir — escribes",
+    "persian": "نوشتن؛ تو می‌نویسی",
+    "example": "Tú escribes una carta.",
+    "example_persian": "تو یک نامه می‌نویسی."
+  },
+  {
+    "spanish": "Escribir — escribe",
+    "persian": "نوشتن؛ او می‌نویسد",
+    "example": "Él escribe su nombre.",
+    "example_persian": "او اسمش را می‌نویسد."
+  },
+  {
+    "spanish": "Escribir — escribimos",
+    "persian": "نوشتن؛ ما می‌نویسیم",
+    "example": "Nosotros escribimos en español.",
+    "example_persian": "ما به زبان اسپانیایی می‌نویسیم."
+  },
+  {
+    "spanish": "Escribir — escribís",
+    "persian": "نوشتن؛ شما می‌نویسید",
+    "example": "Vosotros escribís en el cuaderno.",
+    "example_persian": "شما در دفتر می‌نویسید."
+  },
+  {
+    "spanish": "Escribir — escriben",
+    "persian": "نوشتن؛ آن‌ها می‌نویسند",
+    "example": "Ellos escriben un correo.",
+    "example_persian": "آن‌ها یک ایمیل می‌نویسند."
+  },
+  {
+    "spanish": "Ver — veo",
+    "persian": "دیدن / تماشا کردن؛ من تماشا می‌کنم",
+    "example": "Yo veo la televisión.",
+    "example_persian": "من تلویزیون تماشا می‌کنم."
+  },
+  {
+    "spanish": "Ver — ves",
+    "persian": "دیدن / تماشا کردن؛ تو می‌بینی",
+    "example": "Tú ves una película.",
+    "example_persian": "تو یک فیلم می‌بینی."
+  },
+  {
+    "spanish": "Ver — ve",
+    "persian": "دیدن / تماشا کردن؛ او می‌بیند",
+    "example": "Ella ve a su amiga.",
+    "example_persian": "او دوستش را می‌بیند."
+  },
+  {
+    "spanish": "Ver — vemos",
+    "persian": "دیدن / تماشا کردن؛ ما می‌بینیم",
+    "example": "Nosotros vemos el museo.",
+    "example_persian": "ما از موزه دیدن می‌کنیم."
+  },
+  {
+    "spanish": "Ver — veis",
+    "persian": "دیدن / تماشا کردن؛ شما می‌بینید",
+    "example": "Vosotros veis el mar.",
+    "example_persian": "شما دریا را می‌بینید."
+  },
+  {
+    "spanish": "Ver — ven",
+    "persian": "دیدن / تماشا کردن؛ آن‌ها تماشا می‌کنند",
+    "example": "Ellos ven un partido de fútbol.",
+    "example_persian": "آن‌ها یک مسابقهٔ فوتبال تماشا می‌کنند."
+  },
+  {
+    "spanish": "Escuchar — escucho",
+    "persian": "گوش دادن؛ من گوش می‌دهم",
+    "example": "Yo escucho música.",
+    "example_persian": "من موسیقی گوش می‌دهم."
+  },
+  {
+    "spanish": "Escuchar — escuchas",
+    "persian": "گوش دادن؛ تو گوش می‌دهی",
+    "example": "Tú escuchas la radio.",
+    "example_persian": "تو به رادیو گوش می‌دهی."
+  },
+  {
+    "spanish": "Escuchar — escucha",
+    "persian": "گوش دادن؛ او گوش می‌دهد",
+    "example": "Él escucha al profesor.",
+    "example_persian": "او به معلم گوش می‌دهد."
+  },
+  {
+    "spanish": "Escuchar — escuchamos",
+    "persian": "گوش دادن؛ ما گوش می‌دهیم",
+    "example": "Nosotros escuchamos una canción.",
+    "example_persian": "ما به یک آهنگ گوش می‌دهیم."
+  },
+  {
+    "spanish": "Escuchar — escucháis",
+    "persian": "گوش دادن؛ شما گوش می‌دهید",
+    "example": "Vosotros escucháis español.",
+    "example_persian": "شما به زبان اسپانیایی گوش می‌دهید."
+  },
+  {
+    "spanish": "Escuchar — escuchan",
+    "persian": "گوش دادن؛ آن‌ها گوش می‌دهند",
+    "example": "Ellos escuchan música en casa.",
+    "example_persian": "آن‌ها در خانه موسیقی گوش می‌دهند."
+  },
+  {
+    "spanish": "Abrir — abro",
+    "persian": "باز کردن؛ من باز می‌کنم",
+    "example": "Yo abro la ventana.",
+    "example_persian": "من پنجره را باز می‌کنم."
+  },
+  {
+    "spanish": "Abrir — abres",
+    "persian": "باز کردن؛ تو باز می‌کنی",
+    "example": "Tú abres la puerta.",
+    "example_persian": "تو در را باز می‌کنی."
+  },
+  {
+    "spanish": "Abrir — abre",
+    "persian": "باز کردن؛ او باز می‌کند",
+    "example": "Ella abre la tienda.",
+    "example_persian": "او مغازه را باز می‌کند."
+  },
+  {
+    "spanish": "Abrir — abrimos",
+    "persian": "باز کردن؛ ما باز می‌کنیم",
+    "example": "Nosotros abrimos los libros.",
+    "example_persian": "ما کتاب‌ها را باز می‌کنیم."
+  },
+  {
+    "spanish": "Abrir — abrís",
+    "persian": "باز کردن؛ شما باز می‌کنید",
+    "example": "Vosotros abrís las ventanas.",
+    "example_persian": "شما پنجره‌ها را باز می‌کنید."
+  },
+  {
+    "spanish": "Abrir — abren",
+    "persian": "باز کردن؛ آن‌ها باز می‌کنند",
+    "example": "Ellos abren el restaurante.",
+    "example_persian": "آن‌ها رستوران را باز می‌کنند."
+  },
+  {
+    "spanish": "Salir — salgo",
+    "persian": "بیرون رفتن / خارج شدن؛ من بیرون می‌روم",
+    "example": "Yo salgo de casa.",
+    "example_persian": "من از خانه بیرون می‌روم."
+  },
+  {
+    "spanish": "Salir — sales",
+    "persian": "بیرون رفتن / خارج شدن؛ تو بیرون می‌روی",
+    "example": "Tú sales con tus amigos.",
+    "example_persian": "تو با دوستانت بیرون می‌روی."
+  },
+  {
+    "spanish": "Salir — sale",
+    "persian": "بیرون رفتن / خارج شدن؛ او بیرون می‌رود",
+    "example": "Él sale a las ocho.",
+    "example_persian": "او ساعت هشت بیرون می‌رود."
+  },
+  {
+    "spanish": "Salir — salimos",
+    "persian": "بیرون رفتن / خارج شدن؛ ما بیرون می‌رویم",
+    "example": "Nosotros salimos por la noche.",
+    "example_persian": "ما شب‌ها بیرون می‌رویم."
+  },
+  {
+    "spanish": "Salir — salís",
+    "persian": "بیرون رفتن / خارج شدن؛ شما خارج می‌شوید",
+    "example": "Vosotros salís del trabajo.",
+    "example_persian": "شما از محل کار بیرون می‌آیید."
+  },
+  {
+    "spanish": "Salir — salen",
+    "persian": "بیرون رفتن / خارج شدن؛ آن‌ها بیرون می‌روند",
+    "example": "Ellos salen juntos.",
+    "example_persian": "آن‌ها با هم بیرون می‌روند."
+  },
+  {
+    "spanish": "Jugar — juego",
+    "persian": "بازی کردن؛ من بازی می‌کنم",
+    "example": "Yo juego al fútbol.",
+    "example_persian": "من فوتبال بازی می‌کنم."
+  },
+  {
+    "spanish": "Jugar — juegas",
+    "persian": "بازی کردن؛ تو بازی می‌کنی",
+    "example": "Tú juegas al tenis.",
+    "example_persian": "تو تنیس بازی می‌کنی."
+  },
+  {
+    "spanish": "Jugar — juega",
+    "persian": "بازی کردن؛ او بازی می‌کند",
+    "example": "Ella juega al baloncesto.",
+    "example_persian": "او بسکتبال بازی می‌کند."
+  },
+  {
+    "spanish": "Jugar — jugamos",
+    "persian": "بازی کردن؛ ما بازی می‌کنیم",
+    "example": "Nosotros jugamos en el parque.",
+    "example_persian": "ما در پارک بازی می‌کنیم."
+  },
+  {
+    "spanish": "Jugar — jugáis",
+    "persian": "بازی کردن؛ شما بازی می‌کنید",
+    "example": "Vosotros jugáis juntos.",
+    "example_persian": "شما با هم بازی می‌کنید."
+  },
+  {
+    "spanish": "Jugar — juegan",
+    "persian": "بازی کردن؛ آن‌ها بازی می‌کنند",
+    "example": "Ellos juegan al fútbol.",
+    "example_persian": "آن‌ها فوتبال بازی می‌کنند."
+  },
+  {
+    "spanish": "Querer — quiero",
+    "persian": "خواستن / دوست داشتن؛ من می‌خواهم",
+    "example": "Yo quiero agua.",
+    "example_persian": "من آب می‌خواهم."
+  },
+  {
+    "spanish": "Querer — quieres",
+    "persian": "خواستن / دوست داشتن؛ تو می‌خواهی",
+    "example": "Tú quieres un café.",
+    "example_persian": "تو یک قهوه می‌خواهی."
+  },
+  {
+    "spanish": "Querer — quiere",
+    "persian": "خواستن / دوست داشتن؛ او می‌خواهد",
+    "example": "Él quiere comer.",
+    "example_persian": "او می‌خواهد غذا بخورد."
+  },
+  {
+    "spanish": "Querer — queremos",
+    "persian": "خواستن / دوست داشتن؛ ما می‌خواهیم",
+    "example": "Nosotros queremos aprender español.",
+    "example_persian": "ما می‌خواهیم اسپانیایی یاد بگیریم."
+  },
+  {
+    "spanish": "Querer — queréis",
+    "persian": "خواستن / دوست داشتن؛ شما می‌خواهید",
+    "example": "Vosotros queréis ir al parque.",
+    "example_persian": "شما می‌خواهید به پارک بروید."
+  },
+  {
+    "spanish": "Querer — quieren",
+    "persian": "خواستن / دوست داشتن؛ آن‌ها می‌خواهند",
+    "example": "Ellos quieren una casa.",
+    "example_persian": "آن‌ها یک خانه می‌خواهند."
+  },
+  {
+    "spanish": "Poder — puedo",
+    "persian": "توانستن؛ من می‌توانم",
+    "example": "Yo puedo hablar español.",
+    "example_persian": "من می‌توانم اسپانیایی صحبت کنم."
+  },
+  {
+    "spanish": "Poder — puedes",
+    "persian": "توانستن؛ تو می‌توانی",
+    "example": "Tú puedes venir mañana.",
+    "example_persian": "تو می‌توانی فردا بیایی."
+  },
+  {
+    "spanish": "Poder — puede",
+    "persian": "توانستن؛ او می‌تواند",
+    "example": "Ella puede cocinar.",
+    "example_persian": "او می‌تواند آشپزی کند."
+  },
+  {
+    "spanish": "Poder — podemos",
+    "persian": "توانستن؛ ما می‌توانیم",
+    "example": "Nosotros podemos comer aquí.",
+    "example_persian": "ما می‌توانیم اینجا غذا بخوریم."
+  },
+  {
+    "spanish": "Poder — podéis",
+    "persian": "توانستن؛ شما می‌توانید",
+    "example": "Vosotros podéis entrar.",
+    "example_persian": "شما می‌توانید وارد شوید."
+  },
+  {
+    "spanish": "Poder — pueden",
+    "persian": "توانستن؛ آن‌ها می‌توانند",
+    "example": "Ellos pueden trabajar hoy.",
+    "example_persian": "آن‌ها می‌توانند امروز کار کنند."
+  },
+  {
+    "spanish": "Necesitar — necesito",
+    "persian": "نیاز داشتن؛ من نیاز دارم",
+    "example": "Yo necesito agua.",
+    "example_persian": "من به آب نیاز دارم."
+  },
+  {
+    "spanish": "Necesitar — necesitas",
+    "persian": "نیاز داشتن؛ تو نیاز داری",
+    "example": "Tú necesitas ayuda.",
+    "example_persian": "تو به کمک نیاز داری."
+  },
+  {
+    "spanish": "Necesitar — necesita",
+    "persian": "نیاز داشتن؛ او نیاز دارد",
+    "example": "Él necesita un libro.",
+    "example_persian": "او به یک کتاب نیاز دارد."
+  },
+  {
+    "spanish": "Necesitar — necesitamos",
+    "persian": "نیاز داشتن؛ ما نیاز داریم",
+    "example": "Nosotros necesitamos comida.",
+    "example_persian": "ما به غذا نیاز داریم."
+  },
+  {
+    "spanish": "Necesitar — necesitáis",
+    "persian": "نیاز داشتن؛ شما نیاز دارید",
+    "example": "Vosotros necesitáis tiempo.",
+    "example_persian": "شما به زمان نیاز دارید."
+  },
+  {
+    "spanish": "Necesitar — necesitan",
+    "persian": "نیاز داشتن؛ آن‌ها نیاز دارند",
+    "example": "Ellos necesitan dinero.",
+    "example_persian": "آن‌ها به پول نیاز دارند."
+  },
+  {
+    "spanish": "Poner — pongo",
+    "persian": "گذاشتن؛ من می‌گذارم",
+    "example": "Yo pongo el libro en la mesa.",
+    "example_persian": "من کتاب را روی میز می‌گذارم."
+  },
+  {
+    "spanish": "Poner — pones",
+    "persian": "گذاشتن؛ تو آماده می‌کنی",
+    "example": "Tú pones la mesa.",
+    "example_persian": "تو میز را برای غذا آماده می‌کنی."
+  },
+  {
+    "spanish": "Poner — pone",
+    "persian": "گذاشتن؛ او می‌گذارد",
+    "example": "Ella pone la comida en la mesa.",
+    "example_persian": "او غذا را روی میز می‌گذارد."
+  },
+  {
+    "spanish": "Poner — ponemos",
+    "persian": "گذاشتن؛ ما می‌گذاریم",
+    "example": "Nosotros ponemos las sillas aquí.",
+    "example_persian": "ما صندلی‌ها را اینجا می‌گذاریم."
+  },
+  {
+    "spanish": "Poner — ponéis",
+    "persian": "گذاشتن؛ شما می‌گذارید",
+    "example": "Vosotros ponéis los vasos en la mesa.",
+    "example_persian": "شما لیوان‌ها را روی میز می‌گذارید."
+  },
+  {
+    "spanish": "Poner — ponen",
+    "persian": "گذاشتن؛ آن‌ها پخش می‌کنند",
+    "example": "Ellos ponen la música.",
+    "example_persian": "آن‌ها موسیقی را پخش می‌کنند."
+  },
+  {
+    "spanish": "Llevar — llevo",
+    "persian": "حمل کردن / همراه داشتن / پوشیدن؛ من پوشیده‌ام",
+    "example": "Yo llevo una chaqueta.",
+    "example_persian": "من یک ژاکت پوشیده‌ام."
+  },
+  {
+    "spanish": "Llevar — llevas",
+    "persian": "حمل کردن / همراه داشتن / پوشیدن؛ تو همراه داری",
+    "example": "Tú llevas una mochila.",
+    "example_persian": "تو یک کوله‌پشتی همراه داری."
+  },
+  {
+    "spanish": "Llevar — lleva",
+    "persian": "حمل کردن / همراه داشتن / پوشیدن؛ او پوشیده است",
+    "example": "Él lleva una camisa blanca.",
+    "example_persian": "او یک پیراهن سفید پوشیده است."
+  },
+  {
+    "spanish": "Llevar — llevamos",
+    "persian": "حمل کردن / همراه داشتن / پوشیدن؛ ما همراه می‌بریم",
+    "example": "Nosotros llevamos comida.",
+    "example_persian": "ما غذا همراه می‌بریم."
+  },
+  {
+    "spanish": "Llevar — lleváis",
+    "persian": "حمل کردن / همراه داشتن / پوشیدن؛ شما همراه دارید",
+    "example": "Vosotros lleváis libros.",
+    "example_persian": "شما کتاب همراه دارید."
+  },
+  {
+    "spanish": "Llevar — llevan",
+    "persian": "حمل کردن / همراه داشتن / پوشیدن؛ آن‌ها عینک می‌زنند",
+    "example": "Ellos llevan gafas.",
+    "example_persian": "آن‌ها عینک می‌زنند."
+  },
+  {
+    "spanish": "Gustar — me gusta",
+    "persian": "خوش آمدن / دوست داشتن؛ من دوست دارم",
+    "example": "Me gusta el café.",
+    "example_persian": "من قهوه را دوست دارم."
+  },
+  {
+    "spanish": "Gustar — te gustan",
+    "persian": "خوش آمدن / دوست داشتن؛ تو دوست داری",
+    "example": "Te gustan los libros.",
+    "example_persian": "تو کتاب‌ها را دوست داری."
+  },
+  {
+    "spanish": "Gustar — le gusta",
+    "persian": "خوش آمدن / دوست داشتن؛ او دوست دارد",
+    "example": "Le gusta la música.",
+    "example_persian": "او موسیقی را دوست دارد."
+  },
+  {
+    "spanish": "Gustar — nos gusta",
+    "persian": "خوش آمدن / دوست داشتن؛ ما دوست داریم",
+    "example": "Nos gusta cocinar.",
+    "example_persian": "ما آشپزی کردن را دوست داریم."
+  },
+  {
+    "spanish": "Gustar — os gustan",
+    "persian": "خوش آمدن / دوست داشتن؛ شما دوست دارید",
+    "example": "Os gustan las películas.",
+    "example_persian": "شما فیلم‌ها را دوست دارید."
+  },
+  {
+    "spanish": "Gustar — les gusta",
+    "persian": "خوش آمدن / دوست داشتن؛ آن‌ها دوست دارند",
+    "example": "Les gusta el fútbol.",
+    "example_persian": "آن‌ها فوتبال را دوست دارند."
   }
 ]
