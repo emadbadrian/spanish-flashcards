@@ -2590,5 +2590,4230 @@
     "persian": "گوجه‌فرنگی‌ها",
     "example": "Compro tomates para la salsa.",
     "example_persian": "برای سس گوجه‌فرنگی می‌خرم."
+  },
+  {
+    "spanish": "el menú del día",
+    "persian": "منوی روز",
+    "example": "¿Qué lleva el menú del día?",
+    "example_persian": "منوی روز شامل چه چیزهایی است؟"
+  },
+  {
+    "spanish": "el plato",
+    "persian": "غذا؛ بشقاب",
+    "example": "Este plato lleva pescado.",
+    "example_persian": "این غذا ماهی دارد."
+  },
+  {
+    "spanish": "el pescado",
+    "persian": "ماهی",
+    "example": "Hoy quiero comer pescado.",
+    "example_persian": "امروز می‌خواهم ماهی بخورم."
+  },
+  {
+    "spanish": "la carne",
+    "persian": "گوشت",
+    "example": "No como carne.",
+    "example_persian": "من گوشت نمی‌خورم."
+  },
+  {
+    "spanish": "la opción vegetariana",
+    "persian": "گزینهٔ گیاهی",
+    "example": "¿Hay alguna opción vegetariana?",
+    "example_persian": "آیا گزینهٔ گیاهی وجود دارد؟"
+  },
+  {
+    "spanish": "la sepia",
+    "persian": "ماهی مرکب",
+    "example": "La sepia a la plancha está muy rica.",
+    "example_persian": "ماهی مرکب گریل‌شده خیلی خوشمزه است."
+  },
+  {
+    "spanish": "los calamares",
+    "persian": "ماهی‌های مرکب؛ کالاماری",
+    "example": "Quiero calamares a la romana.",
+    "example_persian": "ماهی مرکب سوخاری به سبک رومی می‌خواهم."
+  },
+  {
+    "spanish": "los boquerones",
+    "persian": "ماهی‌های کوچک آنچوی‌مانند",
+    "example": "Los boquerones en vinagre son típicos de España.",
+    "example_persian": "بوکرونِس در سرکه از خوراکی‌های رایج اسپانیاست."
+  },
+  {
+    "spanish": "los pimientos de Padrón",
+    "persian": "فلفل‌های پادرون",
+    "example": "Vamos a compartir unos pimientos de Padrón.",
+    "example_persian": "بیایید چند فلفل پادرون را با هم بخوریم."
+  },
+  {
+    "spanish": "la ensaladilla rusa",
+    "persian": "سالاد الویه به سبک اسپانیایی",
+    "example": "La ensaladilla rusa lleva patatas y mayonesa.",
+    "example_persian": "سالاد الویهٔ اسپانیایی سیب‌زمینی و مایونز دارد."
+  },
+  {
+    "spanish": "el pollo al ajillo",
+    "persian": "مرغ با سیر",
+    "example": "Mi padre prepara pollo al ajillo.",
+    "example_persian": "پدرم مرغ با سیر درست می‌کند."
+  },
+  {
+    "spanish": "el pulpo a la gallega",
+    "persian": "اختاپوس به سبک گالیسیا",
+    "example": "Probamos el pulpo a la gallega en Galicia.",
+    "example_persian": "در گالیسیا اختاپوس به سبک محلی را امتحان می‌کنیم."
+  },
+  {
+    "spanish": "las croquetas de jamón",
+    "persian": "کروکت‌های ژامبون",
+    "example": "Las croquetas de jamón están calientes.",
+    "example_persian": "کروکت‌های ژامبون داغ هستند."
+  },
+  {
+    "spanish": "el jamón",
+    "persian": "ژامبون؛ گوشت ران نمک‌سود",
+    "example": "Quiero un bocadillo de jamón.",
+    "example_persian": "یک ساندویچ ژامبون می‌خواهم."
+  },
+  {
+    "spanish": "la tortilla",
+    "persian": "تورتیلا؛ در اسپانیا معمولاً املت سیب‌زمینی",
+    "example": "¿La tortilla lleva cebolla?",
+    "example_persian": "آیا تورتیلا پیاز دارد؟"
+  },
+  {
+    "spanish": "los espaguetis",
+    "persian": "اسپاگتی",
+    "example": "Preparo los espaguetis con salsa de tomate.",
+    "example_persian": "اسپاگتی را با سس گوجه‌فرنگی درست می‌کنم."
+  },
+  {
+    "spanish": "la salsa de tomate",
+    "persian": "سس گوجه‌فرنگی",
+    "example": "La pasta lleva salsa de tomate.",
+    "example_persian": "پاستا سس گوجه‌فرنگی دارد."
+  },
+  {
+    "spanish": "el ajo",
+    "persian": "سیر",
+    "example": "Esta receta lleva ajo.",
+    "example_persian": "این دستور غذا سیر دارد."
+  },
+  {
+    "spanish": "la mayonesa",
+    "persian": "سس مایونز",
+    "example": "¿La ensalada lleva mayonesa?",
+    "example_persian": "آیا سالاد مایونز دارد؟"
+  },
+  {
+    "spanish": "el aceite de oliva",
+    "persian": "روغن زیتون",
+    "example": "Uso aceite de oliva para cocinar.",
+    "example_persian": "برای آشپزی از روغن زیتون استفاده می‌کنم."
+  },
+  {
+    "spanish": "la mantequilla",
+    "persian": "کره",
+    "example": "Quiero pan con mantequilla.",
+    "example_persian": "نان با کره می‌خواهم."
+  },
+  {
+    "spanish": "el queso",
+    "persian": "پنیر",
+    "example": "¿Quieres un poco de queso?",
+    "example_persian": "کمی پنیر می‌خواهی؟"
+  },
+  {
+    "spanish": "el pan",
+    "persian": "نان",
+    "example": "Compro pan todos los días.",
+    "example_persian": "هر روز نان می‌خرم."
+  },
+  {
+    "spanish": "la barra de pan",
+    "persian": "یک قرص نان باگت‌مانند",
+    "example": "Quería dos barras de pan, por favor.",
+    "example_persian": "لطفاً دو قرص نان می‌خواستم."
+  },
+  {
+    "spanish": "las patatas",
+    "persian": "سیب‌زمینی‌ها",
+    "example": "Las patatas están en la bolsa.",
+    "example_persian": "سیب‌زمینی‌ها داخل کیسه هستند."
+  },
+  {
+    "spanish": "las patatas fritas",
+    "persian": "سیب‌زمینی سرخ‌کرده؛ چیپس، بسته به بافت",
+    "example": "Quiero una bolsa de patatas fritas.",
+    "example_persian": "یک بسته چیپس می‌خواهم."
+  },
+  {
+    "spanish": "el tomate",
+    "persian": "گوجه‌فرنگی",
+    "example": "Faltan los tomates para la ensalada.",
+    "example_persian": "برای سالاد گوجه‌فرنگی کم داریم."
+  },
+  {
+    "spanish": "la manzana",
+    "persian": "سیب",
+    "example": "Como una manzana después de comer.",
+    "example_persian": "بعد از غذا یک سیب می‌خورم."
+  },
+  {
+    "spanish": "el limón",
+    "persian": "لیموترش",
+    "example": "Quiero el té con limón.",
+    "example_persian": "چای را با لیموترش می‌خواهم."
+  },
+  {
+    "spanish": "la naranja",
+    "persian": "پرتقال",
+    "example": "¿Cuánto cuestan las naranjas?",
+    "example_persian": "پرتقال‌ها چند هستند؟"
+  },
+  {
+    "spanish": "la mandarina",
+    "persian": "نارنگی",
+    "example": "¿Tiene mandarinas dulces?",
+    "example_persian": "نارنگی شیرین دارید؟"
+  },
+  {
+    "spanish": "el melón",
+    "persian": "خربزه",
+    "example": "Deme un melón, por favor.",
+    "example_persian": "لطفاً یک خربزه به من بدهید."
+  },
+  {
+    "spanish": "el calabacín",
+    "persian": "کدو سبز",
+    "example": "Hoy cocino calabacín con queso.",
+    "example_persian": "امروز کدو سبز با پنیر می‌پزم."
+  },
+  {
+    "spanish": "la remolacha",
+    "persian": "چغندر",
+    "example": "La ensalada lleva remolacha.",
+    "example_persian": "سالاد چغندر دارد."
+  },
+  {
+    "spanish": "los garbanzos",
+    "persian": "نخود",
+    "example": "Los garbanzos son un ingrediente del hummus.",
+    "example_persian": "نخود یکی از مواد تشکیل‌دهندهٔ حمص است."
+  },
+  {
+    "spanish": "el sésamo",
+    "persian": "کنجد",
+    "example": "El pan lleva semillas de sésamo.",
+    "example_persian": "نان دانه‌های کنجد دارد."
+  },
+  {
+    "spanish": "las nueces",
+    "persian": "گردوها",
+    "example": "La receta lleva nueces.",
+    "example_persian": "این دستور غذا گردو دارد."
+  },
+  {
+    "spanish": "la lima",
+    "persian": "لایم؛ لیموترش سبز",
+    "example": "Añade un poco de zumo de lima.",
+    "example_persian": "کمی آب لایم اضافه کن."
+  },
+  {
+    "spanish": "la hierbabuena",
+    "persian": "نعناع سبز",
+    "example": "La hierbabuena da buen sabor a la bebida.",
+    "example_persian": "نعناع سبز به نوشیدنی طعم خوبی می‌دهد."
+  },
+  {
+    "spanish": "el cebollino",
+    "persian": "پیازچهٔ باریک؛ چایوز",
+    "example": "Pongo cebollino en la ensalada.",
+    "example_persian": "در سالاد پیازچهٔ باریک می‌ریزم."
+  },
+  {
+    "spanish": "la sal",
+    "persian": "نمک",
+    "example": "La sopa necesita un poco de sal.",
+    "example_persian": "سوپ کمی نمک لازم دارد."
+  },
+  {
+    "spanish": "el arroz",
+    "persian": "برنج",
+    "example": "El gallo pinto lleva arroz y frijoles.",
+    "example_persian": "گایو پینتو برنج و لوبیا دارد."
+  },
+  {
+    "spanish": "los frijoles",
+    "persian": "لوبیا",
+    "example": "En Costa Rica se comen frijoles en el desayuno.",
+    "example_persian": "در کاستاریکا برای صبحانه لوبیا می‌خورند."
+  },
+  {
+    "spanish": "el huevo",
+    "persian": "تخم‌مرغ",
+    "example": "Desayuno pan y huevos.",
+    "example_persian": "برای صبحانه نان و تخم‌مرغ می‌خورم."
+  },
+  {
+    "spanish": "el café",
+    "persian": "قهوه",
+    "example": "Tomo un café después de comer.",
+    "example_persian": "بعد از غذا یک قهوه می‌نوشم."
+  },
+  {
+    "spanish": "el té",
+    "persian": "چای",
+    "example": "¿Lo quiere con limón?",
+    "example_persian": "آن را با لیمو می‌خواهید؟"
+  },
+  {
+    "spanish": "la leche",
+    "persian": "شیر",
+    "example": "No quiero el café con leche.",
+    "example_persian": "قهوه را با شیر نمی‌خواهم."
+  },
+  {
+    "spanish": "el agua mineral",
+    "persian": "آب معدنی",
+    "example": "Para mí, un agua mineral, por favor.",
+    "example_persian": "برای من یک آب معدنی لطفاً."
+  },
+  {
+    "spanish": "la cerveza",
+    "persian": "آبجو",
+    "example": "Yo quiero una cerveza sin alcohol.",
+    "example_persian": "من یک آبجوی بدون الکل می‌خواهم."
+  },
+  {
+    "spanish": "el zumo",
+    "persian": "آب‌میوه",
+    "example": "Por la mañana tomo un zumo de naranja.",
+    "example_persian": "صبح‌ها آب پرتقال می‌نوشم."
+  },
+  {
+    "spanish": "el vino",
+    "persian": "شراب",
+    "example": "Esta copa es para el vino.",
+    "example_persian": "این جام برای شراب است."
+  },
+  {
+    "spanish": "el chocolate",
+    "persian": "شکلات",
+    "example": "Compro dos tabletas de chocolate.",
+    "example_persian": "دو تخته شکلات می‌خرم."
+  },
+  {
+    "spanish": "la mermelada",
+    "persian": "مربا",
+    "example": "Desayuno tostadas con mermelada.",
+    "example_persian": "برای صبحانه نان برشته با مربا می‌خورم."
+  },
+  {
+    "spanish": "el atún",
+    "persian": "ماهی تن",
+    "example": "Necesito una lata de atún.",
+    "example_persian": "یک قوطی ماهی تن لازم دارم."
+  },
+  {
+    "spanish": "la pasta",
+    "persian": "پاستا؛ ماکارونی",
+    "example": "Como pasta dos veces por semana.",
+    "example_persian": "هفته‌ای دو بار پاستا می‌خورم."
+  },
+  {
+    "spanish": "el bocadillo",
+    "persian": "ساندویچ نان باگت‌مانند",
+    "example": "Quiero un bocadillo de tortilla.",
+    "example_persian": "یک ساندویچ تورتیلا می‌خواهم."
+  },
+  {
+    "spanish": "la tapa",
+    "persian": "تاپاس؛ پیش‌غذای کوچک اسپانیایی",
+    "example": "En este bar hay tapas muy buenas.",
+    "example_persian": "در این بار تاپاس‌های خیلی خوبی هست."
+  },
+  {
+    "spanish": "la ración",
+    "persian": "یک پرس غذا",
+    "example": "Pedimos una ración de croquetas para compartir.",
+    "example_persian": "یک پرس کروکت برای تقسیم کردن سفارش می‌دهیم."
+  },
+  {
+    "spanish": "la comida tradicional",
+    "persian": "غذای سنتی",
+    "example": "Este restaurante ofrece comida tradicional.",
+    "example_persian": "این رستوران غذای سنتی ارائه می‌دهد."
+  },
+  {
+    "spanish": "el ingrediente",
+    "persian": "مادهٔ تشکیل‌دهنده",
+    "example": "¿Qué ingredientes lleva esta receta?",
+    "example_persian": "این دستور غذا چه موادی دارد؟"
+  },
+  {
+    "spanish": "la receta",
+    "persian": "دستور غذا",
+    "example": "Esta receta es fácil de preparar.",
+    "example_persian": "آماده کردن این دستور غذا آسان است."
+  },
+  {
+    "spanish": "cocinar",
+    "persian": "آشپزی کردن",
+    "example": "Me gusta cocinar para mis amigos.",
+    "example_persian": "دوست دارم برای دوستانم آشپزی کنم."
+  },
+  {
+    "spanish": "preparar",
+    "persian": "آماده کردن؛ تهیه کردن",
+    "example": "Preparo la cena a las ocho.",
+    "example_persian": "ساعت هشت شام را آماده می‌کنم."
+  },
+  {
+    "spanish": "llevar",
+    "persian": "داشتن؛ شامل بودنِ مواد",
+    "example": "¿La tortilla lleva cebolla?",
+    "example_persian": "آیا تورتیلا پیاز دارد؟"
+  },
+  {
+    "spanish": "probar",
+    "persian": "امتحان کردن؛ چشیدن",
+    "example": "Quiero probar un plato típico.",
+    "example_persian": "می‌خواهم یک غذای محلی را امتحان کنم."
+  },
+  {
+    "spanish": "comer",
+    "persian": "خوردن؛ ناهار خوردن در کاربرد رایج اسپانیا",
+    "example": "Normalmente como a las dos.",
+    "example_persian": "معمولاً ساعت دو ناهار می‌خورم."
+  },
+  {
+    "spanish": "desayunar",
+    "persian": "صبحانه خوردن",
+    "example": "Desayuno café y tostadas.",
+    "example_persian": "برای صبحانه قهوه و نان برشته می‌خورم."
+  },
+  {
+    "spanish": "almorzar",
+    "persian": "ناهار خوردن",
+    "example": "Hoy almuerzo con mis compañeros.",
+    "example_persian": "امروز با همکارانم ناهار می‌خورم."
+  },
+  {
+    "spanish": "cenar",
+    "persian": "شام خوردن",
+    "example": "¿A qué hora cenas?",
+    "example_persian": "ساعت چند شام می‌خوری؟"
+  },
+  {
+    "spanish": "frito, frita",
+    "persian": "سرخ‌شده",
+    "example": "Prefiero las patatas fritas.",
+    "example_persian": "سیب‌زمینی سرخ‌کرده را ترجیح می‌دهم."
+  },
+  {
+    "spanish": "a la plancha",
+    "persian": "گریل‌شده؛ روی صفحهٔ داغ",
+    "example": "Quiero pescado a la plancha.",
+    "example_persian": "ماهی گریل‌شده می‌خواهم."
+  },
+  {
+    "spanish": "a la romana",
+    "persian": "به سبک رومی؛ معمولاً با خمیر و سرخ‌شده",
+    "example": "Los calamares a la romana están muy buenos.",
+    "example_persian": "کالاماری به سبک رومی خیلی خوشمزه است."
+  },
+  {
+    "spanish": "caliente",
+    "persian": "داغ؛ گرم",
+    "example": "¿La quiere caliente o fría?",
+    "example_persian": "آن را گرم می‌خواهید یا سرد؟"
+  },
+  {
+    "spanish": "frío, fría",
+    "persian": "سرد",
+    "example": "Prefiero el agua fría.",
+    "example_persian": "آب سرد را ترجیح می‌دهم."
+  },
+  {
+    "spanish": "picante",
+    "persian": "تند",
+    "example": "¿Este plato es picante?",
+    "example_persian": "آیا این غذا تند است؟"
+  },
+  {
+    "spanish": "dulce",
+    "persian": "شیرین؛ شیرینی",
+    "example": "Me gustan los dulces de esta pastelería.",
+    "example_persian": "شیرینی‌های این قنادی را دوست دارم."
+  },
+  {
+    "spanish": "delicioso, deliciosa",
+    "persian": "بسیار خوشمزه؛ لذیذ",
+    "example": "El zumo tropical está delicioso.",
+    "example_persian": "آب‌میوهٔ استوایی بسیار خوشمزه است."
+  },
+  {
+    "spanish": "el bar",
+    "persian": "بار؛ کافه یا محل نوشیدنی و غذا",
+    "example": "Desayunamos en un bar del centro.",
+    "example_persian": "در کافه‌ای در مرکز شهر صبحانه می‌خوریم."
+  },
+  {
+    "spanish": "el restaurante",
+    "persian": "رستوران",
+    "example": "¿Me puede recomendar un restaurante típico?",
+    "example_persian": "می‌توانید یک رستوران سنتی به من معرفی کنید؟"
+  },
+  {
+    "spanish": "la cafetería",
+    "persian": "کافه؛ کافی‌شاپ",
+    "example": "Hay una cafetería al lado del museo.",
+    "example_persian": "کنار موزه یک کافه هست."
+  },
+  {
+    "spanish": "el camarero, la camarera",
+    "persian": "گارسون؛ پیشخدمت",
+    "example": "La camarera nos trae la carta.",
+    "example_persian": "گارسون منو را برایمان می‌آورد."
+  },
+  {
+    "spanish": "el cliente, la clienta",
+    "persian": "مشتری",
+    "example": "El cliente pide un café.",
+    "example_persian": "مشتری یک قهوه سفارش می‌دهد."
+  },
+  {
+    "spanish": "la carta",
+    "persian": "منوی رستوران",
+    "example": "¿Me trae la carta, por favor?",
+    "example_persian": "لطفاً منو را برایم می‌آورید؟"
+  },
+  {
+    "spanish": "el menú",
+    "persian": "منو؛ مجموعهٔ غذاهای پیشنهادی",
+    "example": "El menú incluye una bebida.",
+    "example_persian": "منو شامل یک نوشیدنی است."
+  },
+  {
+    "spanish": "el desayuno",
+    "persian": "صبحانه",
+    "example": "El desayuno es a las ocho.",
+    "example_persian": "صبحانه ساعت هشت است."
+  },
+  {
+    "spanish": "la merienda",
+    "persian": "میان‌وعده، معمولاً عصرانه",
+    "example": "Tomo un café para merendar.",
+    "example_persian": "برای عصرانه قهوه می‌نوشم."
+  },
+  {
+    "spanish": "la cena",
+    "persian": "شام",
+    "example": "La cena está lista.",
+    "example_persian": "شام آماده است."
+  },
+  {
+    "spanish": "las tostadas",
+    "persian": "نان‌های برشته؛ تست",
+    "example": "Quiero tostadas con tomate.",
+    "example_persian": "نان تست با گوجه‌فرنگی می‌خواهم."
+  },
+  {
+    "spanish": "la bollería",
+    "persian": "شیرینی‌ها و نان‌های شیرین صبحانه",
+    "example": "En esta cafetería venden café y bollería.",
+    "example_persian": "در این کافه قهوه و شیرینی‌های صبحانه می‌فروشند."
+  },
+  {
+    "spanish": "el plato combinado",
+    "persian": "بشقاب غذای ترکیبی",
+    "example": "Al mediodía pido un plato combinado.",
+    "example_persian": "ظهر یک بشقاب غذای ترکیبی سفارش می‌دهم."
+  },
+  {
+    "spanish": "la bebida",
+    "persian": "نوشیدنی",
+    "example": "¿Qué bebida quieres?",
+    "example_persian": "چه نوشیدنی‌ای می‌خواهی؟"
+  },
+  {
+    "spanish": "la cuenta",
+    "persian": "صورتحساب",
+    "example": "La cuenta, por favor.",
+    "example_persian": "صورتحساب لطفاً."
+  },
+  {
+    "spanish": "pedir",
+    "persian": "درخواست کردن؛ سفارش دادن",
+    "example": "Quiero pedir una tortilla.",
+    "example_persian": "می‌خواهم یک تورتیلا سفارش بدهم."
+  },
+  {
+    "spanish": "tomar",
+    "persian": "نوشیدن؛ خوردن؛ گرفتن",
+    "example": "¿Qué vais a tomar?",
+    "example_persian": "چه چیزی میل دارید؟"
+  },
+  {
+    "spanish": "querer",
+    "persian": "خواستن",
+    "example": "Quiero un café con leche.",
+    "example_persian": "یک قهوه با شیر می‌خواهم."
+  },
+  {
+    "spanish": "preferir",
+    "persian": "ترجیح دادن",
+    "example": "Prefiero el té al café.",
+    "example_persian": "چای را به قهوه ترجیح می‌دهم."
+  },
+  {
+    "spanish": "poder",
+    "persian": "توانستن؛ امکان داشتن",
+    "example": "¿Puede traerme agua, por favor?",
+    "example_persian": "می‌توانید لطفاً برایم آب بیاورید؟"
+  },
+  {
+    "spanish": "Deme ..., por favor.",
+    "persian": "لطفاً ... به من بدهید.",
+    "example": "Deme un melón, por favor.",
+    "example_persian": "لطفاً یک خربزه به من بدهید."
+  },
+  {
+    "spanish": "Quería ..., por favor.",
+    "persian": "لطفاً ... می‌خواستم.",
+    "example": "Quería un kilo de tomates, por favor.",
+    "example_persian": "لطفاً یک کیلو گوجه‌فرنگی می‌خواستم."
+  },
+  {
+    "spanish": "¿Qué le pongo?",
+    "persian": "چه چیزی برایتان بیاورم؟",
+    "example": "Buenos días, ¿qué le pongo?",
+    "example_persian": "صبح بخیر، چه چیزی برایتان بیاورم؟"
+  },
+  {
+    "spanish": "¿Qué van a tomar?",
+    "persian": "چه چیزی میل دارید؟",
+    "example": "¿Qué van a tomar ustedes?",
+    "example_persian": "شما چه چیزی میل دارید؟"
+  },
+  {
+    "spanish": "Para mí ..., por favor.",
+    "persian": "برای من ... لطفاً.",
+    "example": "Para mí, un agua mineral.",
+    "example_persian": "برای من یک آب معدنی لطفاً."
+  },
+  {
+    "spanish": "Yo también.",
+    "persian": "من هم همین‌طور.",
+    "example": "Yo quiero un café. Yo también.",
+    "example_persian": "من یک قهوه می‌خواهم. من هم همین‌طور."
+  },
+  {
+    "spanish": "con leche",
+    "persian": "با شیر",
+    "example": "Quiero un café con leche.",
+    "example_persian": "یک قهوه با شیر می‌خواهم."
+  },
+  {
+    "spanish": "solo, sola",
+    "persian": "بدون افزودنی؛ ساده؛ تنها",
+    "example": "Tomo el café solo.",
+    "example_persian": "قهوه را ساده و بدون شیر می‌نوشم."
+  },
+  {
+    "spanish": "con gas",
+    "persian": "گازدار",
+    "example": "¿Prefiere agua con gas o sin gas?",
+    "example_persian": "آب گازدار ترجیح می‌دهید یا بدون گاز؟"
+  },
+  {
+    "spanish": "sin gas",
+    "persian": "بدون گاز",
+    "example": "Quiero agua mineral sin gas.",
+    "example_persian": "آب معدنی بدون گاز می‌خواهم."
+  },
+  {
+    "spanish": "negro, negra",
+    "persian": "سیاه؛ مشکی",
+    "example": "¿Quiere las aceitunas negras o verdes?",
+    "example_persian": "زیتون‌ها را سیاه می‌خواهید یا سبز؟"
+  },
+  {
+    "spanish": "verde",
+    "persian": "سبز",
+    "example": "Prefiero las aceitunas verdes.",
+    "example_persian": "زیتون سبز را ترجیح می‌دهم."
+  },
+  {
+    "spanish": "la aceituna",
+    "persian": "زیتون",
+    "example": "Las aceitunas son para compartir.",
+    "example_persian": "زیتون‌ها برای خوردن مشترک هستند."
+  },
+  {
+    "spanish": "el cuchillo",
+    "persian": "چاقو",
+    "example": "Necesito un cuchillo para cortar la carne.",
+    "example_persian": "برای بریدن گوشت به یک چاقو نیاز دارم."
+  },
+  {
+    "spanish": "el tenedor",
+    "persian": "چنگال",
+    "example": "Como la pasta con un tenedor.",
+    "example_persian": "پاستا را با چنگال می‌خورم."
+  },
+  {
+    "spanish": "la cuchara",
+    "persian": "قاشق",
+    "example": "Uso una cuchara para comer sopa.",
+    "example_persian": "برای خوردن سوپ از قاشق استفاده می‌کنم."
+  },
+  {
+    "spanish": "el vaso",
+    "persian": "لیوان",
+    "example": "Necesito un vaso para el agua.",
+    "example_persian": "برای آب به یک لیوان نیاز دارم."
+  },
+  {
+    "spanish": "la copa",
+    "persian": "جام؛ لیوان پایه‌دار",
+    "example": "Pon una copa en la mesa.",
+    "example_persian": "یک جام روی میز بگذار."
+  },
+  {
+    "spanish": "la servilleta",
+    "persian": "دستمال سفره",
+    "example": "¿Me da una servilleta, por favor?",
+    "example_persian": "لطفاً یک دستمال سفره به من می‌دهید؟"
+  },
+  {
+    "spanish": "la mesa",
+    "persian": "میز",
+    "example": "La mesa está cerca de la ventana.",
+    "example_persian": "میز نزدیک پنجره است."
+  },
+  {
+    "spanish": "la botella",
+    "persian": "بطری",
+    "example": "Quiero una botella de agua.",
+    "example_persian": "یک بطری آب می‌خواهم."
+  },
+  {
+    "spanish": "la lata",
+    "persian": "قوطی فلزی",
+    "example": "Compro una lata de atún.",
+    "example_persian": "یک قوطی ماهی تن می‌خرم."
+  },
+  {
+    "spanish": "el bote",
+    "persian": "ظرف؛ شیشه یا قوطی دردار",
+    "example": "Hay un bote de mermelada en la cocina.",
+    "example_persian": "یک شیشه مربا در آشپزخانه هست."
+  },
+  {
+    "spanish": "el paquete",
+    "persian": "بسته",
+    "example": "Necesito un paquete de café.",
+    "example_persian": "یک بسته قهوه لازم دارم."
+  },
+  {
+    "spanish": "la bolsa",
+    "persian": "کیسه؛ پاکت",
+    "example": "Quiero una bolsa de patatas fritas.",
+    "example_persian": "یک بسته چیپس می‌خواهم."
+  },
+  {
+    "spanish": "la tableta",
+    "persian": "تخته؛ قالب شکلات",
+    "example": "Compro una tableta de chocolate.",
+    "example_persian": "یک تخته شکلات می‌خرم."
+  },
+  {
+    "spanish": "la lista de la compra",
+    "persian": "فهرست خرید",
+    "example": "Escribo los tomates en la lista de la compra.",
+    "example_persian": "گوجه‌فرنگی‌ها را در فهرست خرید می‌نویسم."
+  },
+  {
+    "spanish": "comprar",
+    "persian": "خریدن",
+    "example": "Tengo que comprar pan y leche.",
+    "example_persian": "باید نان و شیر بخرم."
+  },
+  {
+    "spanish": "faltar",
+    "persian": "کم بودن؛ باقی نماندن؛ لازم بودن چیزی که موجود نیست",
+    "example": "Faltan los tomates.",
+    "example_persian": "گوجه‌فرنگی‌ها را نداریم؛ گوجه‌فرنگی کم داریم."
+  },
+  {
+    "spanish": "¿Cuánto cuesta?",
+    "persian": "قیمتش چقدر است؟",
+    "example": "¿Cuánto cuesta el melón?",
+    "example_persian": "قیمت خربزه چقدر است؟"
+  },
+  {
+    "spanish": "¿Cuánto cuestan?",
+    "persian": "قیمتشان چقدر است؟",
+    "example": "¿Cuánto cuestan las manzanas?",
+    "example_persian": "قیمت سیب‌ها چقدر است؟"
+  },
+  {
+    "spanish": "¿Cuánto es todo?",
+    "persian": "مجموعاً چقدر می‌شود؟",
+    "example": "Ya tengo todo. ¿Cuánto es todo?",
+    "example_persian": "همه‌چیز را برداشته‌ام. مجموعاً چقدر می‌شود؟"
+  },
+  {
+    "spanish": "¿Tiene ...?",
+    "persian": "... دارید؟",
+    "example": "¿Tiene mandarinas?",
+    "example_persian": "نارنگی دارید؟"
+  },
+  {
+    "spanish": "¿Qué es eso?",
+    "persian": "آن چیست؟",
+    "example": "¿Qué es eso? ¿Es una tapa?",
+    "example_persian": "آن چیست؟ یک تاپاس است؟"
+  },
+  {
+    "spanish": "¿Se come caliente o frío?",
+    "persian": "این را گرم می‌خورند یا سرد؟",
+    "example": "¿Este plato se come caliente o frío?",
+    "example_persian": "این غذا را گرم می‌خورند یا سرد؟"
+  },
+  {
+    "spanish": "No lo quiero con leche, lo quiero con limón.",
+    "persian": "آن را با شیر نمی‌خواهم؛ با لیمو می‌خواهم.",
+    "example": "No lo quiero con leche, lo quiero con limón.",
+    "example_persian": "آن را با شیر نمی‌خواهم؛ با لیمو می‌خواهم."
+  },
+  {
+    "spanish": "la cantidad",
+    "persian": "مقدار",
+    "example": "¿Qué cantidad de arroz necesitas?",
+    "example_persian": "چه مقدار برنج لازم داری؟"
+  },
+  {
+    "spanish": "el kilo",
+    "persian": "کیلو",
+    "example": "Quería un kilo de tomates.",
+    "example_persian": "یک کیلو گوجه‌فرنگی می‌خواستم."
+  },
+  {
+    "spanish": "medio kilo",
+    "persian": "نیم کیلو",
+    "example": "Compro medio kilo de manzanas.",
+    "example_persian": "نیم کیلو سیب می‌خرم."
+  },
+  {
+    "spanish": "un kilo y medio",
+    "persian": "یک کیلو و نیم",
+    "example": "Necesito un kilo y medio de patatas.",
+    "example_persian": "یک کیلو و نیم سیب‌زمینی لازم دارم."
+  },
+  {
+    "spanish": "cien gramos",
+    "persian": "صد گرم",
+    "example": "Deme cien gramos de jamón.",
+    "example_persian": "صد گرم ژامبون به من بدهید."
+  },
+  {
+    "spanish": "el gramo",
+    "persian": "گرم",
+    "example": "La receta necesita doscientos gramos de queso.",
+    "example_persian": "این دستور غذا به دویست گرم پنیر نیاز دارد."
+  },
+  {
+    "spanish": "el litro",
+    "persian": "لیتر",
+    "example": "Compro un litro de leche.",
+    "example_persian": "یک لیتر شیر می‌خرم."
+  },
+  {
+    "spanish": "medio litro",
+    "persian": "نیم لیتر",
+    "example": "Quiero medio litro de agua.",
+    "example_persian": "نیم لیتر آب می‌خواهم."
+  },
+  {
+    "spanish": "un litro y medio",
+    "persian": "یک لیتر و نیم",
+    "example": "Tenemos un litro y medio de leche.",
+    "example_persian": "یک لیتر و نیم شیر داریم."
+  },
+  {
+    "spanish": "un poco de",
+    "persian": "کمی از",
+    "example": "Quiero un poco de mantequilla.",
+    "example_persian": "کمی کره می‌خواهم."
+  },
+  {
+    "spanish": "mucho, mucha",
+    "persian": "زیاد",
+    "example": "Este bar tiene mucha gente.",
+    "example_persian": "این کافه مشتری‌های زیادی دارد."
+  },
+  {
+    "spanish": "poco, poca",
+    "persian": "کم؛ اندک",
+    "example": "Queda poca leche en la botella.",
+    "example_persian": "شیر کمی در بطری باقی مانده است."
+  },
+  {
+    "spanish": "el precio",
+    "persian": "قیمت",
+    "example": "El precio de las naranjas es bueno.",
+    "example_persian": "قیمت پرتقال‌ها مناسب است."
+  },
+  {
+    "spanish": "el euro",
+    "persian": "یورو",
+    "example": "El café cuesta dos euros.",
+    "example_persian": "قیمت قهوه دو یورو است."
+  },
+  {
+    "spanish": "cien",
+    "persian": "صد",
+    "example": "El museo tiene cien cuadros.",
+    "example_persian": "موزه صد تابلو دارد."
+  },
+  {
+    "spanish": "ciento uno",
+    "persian": "صد و یک",
+    "example": "El autobús número ciento uno llega ahora.",
+    "example_persian": "اتوبوس شمارهٔ صد و یک الان می‌رسد."
+  },
+  {
+    "spanish": "doscientos, doscientas",
+    "persian": "دویست",
+    "example": "Necesitamos doscientas botellas de agua.",
+    "example_persian": "به دویست بطری آب نیاز داریم."
+  },
+  {
+    "spanish": "trescientos, trescientas",
+    "persian": "سیصد",
+    "example": "La ciudad tiene trescientos años de historia.",
+    "example_persian": "این شهر سیصد سال تاریخ دارد."
+  },
+  {
+    "spanish": "cuatrocientos, cuatrocientas",
+    "persian": "چهارصد",
+    "example": "El museo tiene cuatrocientas fotografías.",
+    "example_persian": "موزه چهارصد عکس دارد."
+  },
+  {
+    "spanish": "quinientos, quinientas",
+    "persian": "پانصد",
+    "example": "La biblioteca tiene quinientos libros nuevos.",
+    "example_persian": "کتابخانه پانصد کتاب جدید دارد."
+  },
+  {
+    "spanish": "seiscientos, seiscientas",
+    "persian": "ششصد",
+    "example": "El museo recibe seiscientos visitantes al día.",
+    "example_persian": "موزه روزانه ششصد بازدیدکننده دارد."
+  },
+  {
+    "spanish": "setecientos, setecientas",
+    "persian": "هفتصد",
+    "example": "La ciudad tiene setecientos hoteles.",
+    "example_persian": "شهر هفتصد هتل دارد."
+  },
+  {
+    "spanish": "ochocientos, ochocientas",
+    "persian": "هشتصد",
+    "example": "Hay ochocientas personas en el concierto.",
+    "example_persian": "در کنسرت هشتصد نفر حضور دارند."
+  },
+  {
+    "spanish": "novecientos, novecientas",
+    "persian": "نهصد",
+    "example": "El libro tiene novecientas páginas.",
+    "example_persian": "کتاب نهصد صفحه دارد."
+  },
+  {
+    "spanish": "mil",
+    "persian": "هزار",
+    "example": "La entrada cuesta mil euros.",
+    "example_persian": "قیمت ورودی هزار یورو است."
+  },
+  {
+    "spanish": "dos mil",
+    "persian": "دو هزار",
+    "example": "El pueblo tiene dos mil habitantes.",
+    "example_persian": "این روستا دو هزار نفر جمعیت دارد."
+  },
+  {
+    "spanish": "un millón",
+    "persian": "یک میلیون",
+    "example": "Un millón de personas vive en esta zona.",
+    "example_persian": "یک میلیون نفر در این منطقه زندگی می‌کنند."
+  },
+  {
+    "spanish": "la hora",
+    "persian": "ساعت؛ زمان",
+    "example": "¿Qué hora es?",
+    "example_persian": "ساعت چند است؟"
+  },
+  {
+    "spanish": "en punto",
+    "persian": "دقیقاً؛ رأس ساعت",
+    "example": "Son las ocho en punto.",
+    "example_persian": "دقیقاً ساعت هشت است."
+  },
+  {
+    "spanish": "y cinco",
+    "persian": "و پنج دقیقه",
+    "example": "Son las tres y cinco.",
+    "example_persian": "ساعت سه و پنج دقیقه است."
+  },
+  {
+    "spanish": "y diez",
+    "persian": "و ده دقیقه",
+    "example": "Son las cuatro y diez.",
+    "example_persian": "ساعت چهار و ده دقیقه است."
+  },
+  {
+    "spanish": "y cuarto",
+    "persian": "و ربع",
+    "example": "Son las dos y cuarto.",
+    "example_persian": "ساعت دو و ربع است."
+  },
+  {
+    "spanish": "y veinte",
+    "persian": "و بیست دقیقه",
+    "example": "Son las seis y veinte.",
+    "example_persian": "ساعت شش و بیست دقیقه است."
+  },
+  {
+    "spanish": "y veinticinco",
+    "persian": "و بیست‌وپنج دقیقه",
+    "example": "Son las siete y veinticinco.",
+    "example_persian": "ساعت هفت و بیست‌وپنج دقیقه است."
+  },
+  {
+    "spanish": "y media",
+    "persian": "و نیم",
+    "example": "Es la una y media.",
+    "example_persian": "ساعت یک و نیم است."
+  },
+  {
+    "spanish": "menos cinco",
+    "persian": "پنج دقیقه به",
+    "example": "Son las ocho menos cinco.",
+    "example_persian": "پنج دقیقه به هشت است."
+  },
+  {
+    "spanish": "menos diez",
+    "persian": "ده دقیقه به",
+    "example": "Son las seis menos diez.",
+    "example_persian": "ده دقیقه به شش است."
+  },
+  {
+    "spanish": "menos cuarto",
+    "persian": "یک ربع به",
+    "example": "Son las nueve menos cuarto.",
+    "example_persian": "یک ربع به نه است."
+  },
+  {
+    "spanish": "menos veinte",
+    "persian": "بیست دقیقه به",
+    "example": "Son las cinco menos veinte.",
+    "example_persian": "بیست دقیقه به پنج است."
+  },
+  {
+    "spanish": "menos veinticinco",
+    "persian": "بیست‌وپنج دقیقه به",
+    "example": "Son las tres menos veinticinco.",
+    "example_persian": "بیست‌وپنج دقیقه به سه است."
+  },
+  {
+    "spanish": "¿A qué hora?",
+    "persian": "ساعت چند؟",
+    "example": "¿A qué hora abre el museo?",
+    "example_persian": "موزه ساعت چند باز می‌شود؟"
+  },
+  {
+    "spanish": "a las ocho y media",
+    "persian": "ساعت هشت و نیم",
+    "example": "Cenamos a las ocho y media.",
+    "example_persian": "ساعت هشت و نیم شام می‌خوریم."
+  },
+  {
+    "spanish": "entre ... y ...",
+    "persian": "بین ... و ...",
+    "example": "El bar abre entre las ocho y las nueve.",
+    "example_persian": "کافه بین ساعت هشت و نه باز می‌شود."
+  },
+  {
+    "spanish": "por la mañana",
+    "persian": "صبح؛ در طول صبح",
+    "example": "Voy al supermercado por la mañana.",
+    "example_persian": "صبح به سوپرمارکت می‌روم."
+  },
+  {
+    "spanish": "al mediodía",
+    "persian": "ظهر؛ هنگام ظهر",
+    "example": "Comemos al mediodía.",
+    "example_persian": "ظهر ناهار می‌خوریم."
+  },
+  {
+    "spanish": "por la tarde",
+    "persian": "بعدازظهر؛ عصر",
+    "example": "Las tiendas abren por la tarde.",
+    "example_persian": "مغازه‌ها بعدازظهر باز می‌شوند."
+  },
+  {
+    "spanish": "por la noche",
+    "persian": "شب؛ در طول شب",
+    "example": "Cenamos en casa por la noche.",
+    "example_persian": "شب در خانه شام می‌خوریم."
+  },
+  {
+    "spanish": "de la mañana",
+    "persian": "صبح؛ برای مشخص کردن ساعت صبح",
+    "example": "El tren sale a las nueve de la mañana.",
+    "example_persian": "قطار ساعت نه صبح حرکت می‌کند."
+  },
+  {
+    "spanish": "de la tarde",
+    "persian": "بعدازظهر؛ برای مشخص کردن ساعت",
+    "example": "La cita es a las cinco de la tarde.",
+    "example_persian": "قرار ساعت پنج بعدازظهر است."
+  },
+  {
+    "spanish": "de la noche",
+    "persian": "شب؛ برای مشخص کردن ساعت",
+    "example": "El concierto empieza a las nueve de la noche.",
+    "example_persian": "کنسرت ساعت نه شب شروع می‌شود."
+  },
+  {
+    "spanish": "todos los días",
+    "persian": "هر روز",
+    "example": "Voy al trabajo en metro todos los días.",
+    "example_persian": "هر روز با مترو به محل کار می‌روم."
+  },
+  {
+    "spanish": "muchas veces",
+    "persian": "بارها؛ اغلب",
+    "example": "Muchas veces desayuno en una cafetería.",
+    "example_persian": "اغلب در یک کافه صبحانه می‌خورم."
+  },
+  {
+    "spanish": "pocas veces",
+    "persian": "به‌ندرت؛ دفعات کم",
+    "example": "Pocas veces como en ese restaurante.",
+    "example_persian": "به‌ندرت در آن رستوران غذا می‌خورم."
+  },
+  {
+    "spanish": "casi nunca",
+    "persian": "تقریباً هرگز",
+    "example": "Casi nunca tomo café por la noche.",
+    "example_persian": "تقریباً هیچ‌وقت شب قهوه نمی‌نوشم."
+  },
+  {
+    "spanish": "nunca",
+    "persian": "هرگز",
+    "example": "Nunca voy al trabajo en barco.",
+    "example_persian": "من هرگز با قایق به محل کار نمی‌روم."
+  },
+  {
+    "spanish": "una vez por semana",
+    "persian": "هفته‌ای یک بار",
+    "example": "Voy al cine una vez por semana.",
+    "example_persian": "هفته‌ای یک بار به سینما می‌روم."
+  },
+  {
+    "spanish": "dos veces al mes",
+    "persian": "ماهی دو بار",
+    "example": "Visito a mis padres dos veces al mes.",
+    "example_persian": "ماهی دو بار به دیدن والدینم می‌روم."
+  },
+  {
+    "spanish": "una vez al año",
+    "persian": "سالی یک بار",
+    "example": "Voy a España una vez al año.",
+    "example_persian": "سالی یک بار به اسپانیا می‌روم."
+  },
+  {
+    "spanish": "siempre",
+    "persian": "همیشه",
+    "example": "Siempre desayuno antes de trabajar.",
+    "example_persian": "همیشه پیش از کار صبحانه می‌خورم."
+  },
+  {
+    "spanish": "a tiempo",
+    "persian": "به‌موقع",
+    "example": "Llegamos a tiempo al concierto.",
+    "example_persian": "به‌موقع به کنسرت می‌رسیم."
+  },
+  {
+    "spanish": "temprano",
+    "persian": "زود",
+    "example": "Me levanto temprano por la mañana.",
+    "example_persian": "صبح زود از خواب بیدار می‌شوم."
+  },
+  {
+    "spanish": "tarde",
+    "persian": "دیر؛ بعدازظهر",
+    "example": "Son las cinco y ya es un poco tarde.",
+    "example_persian": "ساعت پنج است و دیگر کمی دیر شده است."
+  },
+  {
+    "spanish": "mañana",
+    "persian": "فردا؛ صبح",
+    "example": "Nos vemos mañana por la mañana.",
+    "example_persian": "فردا صبح همدیگر را می‌بینیم."
+  },
+  {
+    "spanish": "el lunes",
+    "persian": "دوشنبه",
+    "example": "El museo cierra el lunes.",
+    "example_persian": "موزه دوشنبه تعطیل است."
+  },
+  {
+    "spanish": "el martes",
+    "persian": "سه‌شنبه",
+    "example": "El martes voy al centro.",
+    "example_persian": "سه‌شنبه به مرکز شهر می‌روم."
+  },
+  {
+    "spanish": "el miércoles",
+    "persian": "چهارشنبه",
+    "example": "La tienda abre el miércoles.",
+    "example_persian": "مغازه چهارشنبه باز می‌شود."
+  },
+  {
+    "spanish": "el jueves",
+    "persian": "پنجشنبه",
+    "example": "El jueves tengo una cita.",
+    "example_persian": "پنجشنبه یک قرار دارم."
+  },
+  {
+    "spanish": "el viernes",
+    "persian": "جمعه",
+    "example": "El viernes voy a un concierto.",
+    "example_persian": "جمعه به یک کنسرت می‌روم."
+  },
+  {
+    "spanish": "el sábado",
+    "persian": "شنبه",
+    "example": "El sábado visitamos un museo.",
+    "example_persian": "شنبه از یک موزه بازدید می‌کنیم."
+  },
+  {
+    "spanish": "el domingo",
+    "persian": "یکشنبه",
+    "example": "El domingo descanso en casa.",
+    "example_persian": "یکشنبه در خانه استراحت می‌کنم."
+  },
+  {
+    "spanish": "el medio de transporte",
+    "persian": "وسیلهٔ حمل‌ونقل",
+    "example": "¿Cuál es tu medio de transporte favorito?",
+    "example_persian": "وسیلهٔ حمل‌ونقل موردعلاقه‌ات چیست؟"
+  },
+  {
+    "spanish": "el autobús",
+    "persian": "اتوبوس",
+    "example": "Voy al centro en autobús.",
+    "example_persian": "با اتوبوس به مرکز شهر می‌روم."
+  },
+  {
+    "spanish": "el avión",
+    "persian": "هواپیما",
+    "example": "Voy a Bogotá en avión.",
+    "example_persian": "با هواپیما به بوگوتا می‌روم."
+  },
+  {
+    "spanish": "el tren",
+    "persian": "قطار",
+    "example": "Prefiero viajar en tren.",
+    "example_persian": "ترجیح می‌دهم با قطار سفر کنم."
+  },
+  {
+    "spanish": "el coche",
+    "persian": "ماشین؛ خودرو",
+    "example": "Mi padre va al trabajo en coche.",
+    "example_persian": "پدرم با ماشین به محل کار می‌رود."
+  },
+  {
+    "spanish": "el taxi",
+    "persian": "تاکسی",
+    "example": "Vamos al aeropuerto en taxi.",
+    "example_persian": "با تاکسی به فرودگاه می‌رویم."
+  },
+  {
+    "spanish": "el metro",
+    "persian": "مترو",
+    "example": "Tomo el metro todos los días.",
+    "example_persian": "هر روز سوار مترو می‌شوم."
+  },
+  {
+    "spanish": "la bicicleta",
+    "persian": "دوچرخه",
+    "example": "Voy al parque en bicicleta.",
+    "example_persian": "با دوچرخه به پارک می‌روم."
+  },
+  {
+    "spanish": "la bici",
+    "persian": "دوچرخه؛ شکل کوتاه و محاوره‌ای bicicleta",
+    "example": "Voy en bici al trabajo.",
+    "example_persian": "با دوچرخه به محل کار می‌روم."
+  },
+  {
+    "spanish": "el barco",
+    "persian": "کشتی؛ قایق",
+    "example": "Nunca voy al trabajo en barco.",
+    "example_persian": "من هرگز با قایق به محل کار نمی‌روم."
+  },
+  {
+    "spanish": "a pie",
+    "persian": "پیاده",
+    "example": "Voy a la farmacia a pie.",
+    "example_persian": "پیاده به داروخانه می‌روم."
+  },
+  {
+    "spanish": "la estación",
+    "persian": "ایستگاه؛ ایستگاه قطار یا مترو",
+    "example": "Bajo en la próxima estación.",
+    "example_persian": "در ایستگاه بعدی پیاده می‌شوم."
+  },
+  {
+    "spanish": "la parada",
+    "persian": "ایستگاه اتوبوس؛ محل توقف",
+    "example": "¿Dónde está la parada del autobús?",
+    "example_persian": "ایستگاه اتوبوس کجاست؟"
+  },
+  {
+    "spanish": "la parada de taxis",
+    "persian": "ایستگاه تاکسی",
+    "example": "Hay una parada de taxis delante del centro comercial.",
+    "example_persian": "جلوی مرکز خرید یک ایستگاه تاکسی وجود دارد."
+  },
+  {
+    "spanish": "la línea",
+    "persian": "خط؛ مسیر حمل‌ونقل",
+    "example": "Tienes que tomar la línea ocho.",
+    "example_persian": "باید سوار خط هشت شوی."
+  },
+  {
+    "spanish": "el billete",
+    "persian": "بلیت",
+    "example": "Necesito un billete de tren.",
+    "example_persian": "به یک بلیت قطار نیاز دارم."
+  },
+  {
+    "spanish": "el aeropuerto",
+    "persian": "فرودگاه",
+    "example": "¿Cómo voy al aeropuerto?",
+    "example_persian": "چطور به فرودگاه بروم؟"
+  },
+  {
+    "spanish": "el destino",
+    "persian": "مقصد",
+    "example": "¿Cuál es tu destino?",
+    "example_persian": "مقصدت کجاست؟"
+  },
+  {
+    "spanish": "el viaje",
+    "persian": "سفر",
+    "example": "Mañana preparo mi viaje a Bogotá.",
+    "example_persian": "فردا برای سفرم به بوگوتا آماده می‌شوم."
+  },
+  {
+    "spanish": "de vacaciones",
+    "persian": "در تعطیلات؛ برای گذراندن تعطیلات",
+    "example": "Este verano voy a España de vacaciones.",
+    "example_persian": "تابستان امسال برای تعطیلات به اسپانیا می‌روم."
+  },
+  {
+    "spanish": "de excursión",
+    "persian": "به گردش؛ برای گردش یا سفر کوتاه",
+    "example": "El domingo vamos de excursión.",
+    "example_persian": "یکشنبه به گردش می‌رویم."
+  },
+  {
+    "spanish": "ir de compras",
+    "persian": "به خرید رفتن",
+    "example": "Voy de compras en autobús.",
+    "example_persian": "با اتوبوس به خرید می‌روم."
+  },
+  {
+    "spanish": "ir",
+    "persian": "رفتن",
+    "example": "Voy al museo en metro.",
+    "example_persian": "با مترو به موزه می‌روم."
+  },
+  {
+    "spanish": "tener que + infinitivo",
+    "persian": "مجبور بودن؛ باید کاری را انجام دادن",
+    "example": "Tengo que tomar el metro.",
+    "example_persian": "باید سوار مترو شوم."
+  },
+  {
+    "spanish": "tomar el autobús",
+    "persian": "سوار اتوبوس شدن",
+    "example": "Para ir al centro, toma el autobús número ocho.",
+    "example_persian": "برای رفتن به مرکز شهر، سوار اتوبوس شمارهٔ هشت شو."
+  },
+  {
+    "spanish": "cambiar de línea",
+    "persian": "خط عوض کردن",
+    "example": "Tienes que cambiar a la línea F.",
+    "example_persian": "باید به خط اف تغییر مسیر بدهی."
+  },
+  {
+    "spanish": "bajar",
+    "persian": "پایین آمدن؛ پیاده شدن",
+    "example": "Bajo en la próxima parada.",
+    "example_persian": "در ایستگاه بعدی پیاده می‌شوم."
+  },
+  {
+    "spanish": "bajar del autobús",
+    "persian": "از اتوبوس پیاده شدن",
+    "example": "Bajo del autobús delante del museo.",
+    "example_persian": "جلوی موزه از اتوبوس پیاده می‌شوم."
+  },
+  {
+    "spanish": "subir",
+    "persian": "بالا رفتن؛ سوار شدن",
+    "example": "Subimos a la torre para ver la ciudad.",
+    "example_persian": "برای دیدن شهر از برج بالا می‌رویم."
+  },
+  {
+    "spanish": "seguir",
+    "persian": "ادامه دادن؛ دنبال کردن مسیر",
+    "example": "Sigue todo recto hasta la plaza.",
+    "example_persian": "تا میدان مستقیم ادامه بده."
+  },
+  {
+    "spanish": "cruzar",
+    "persian": "از عرض چیزی عبور کردن",
+    "example": "Cruza la plaza y gira a la derecha.",
+    "example_persian": "از میدان عبور کن و به راست بپیچ."
+  },
+  {
+    "spanish": "girar",
+    "persian": "پیچیدن؛ تغییر جهت دادن",
+    "example": "Gira a la izquierda en la próxima calle.",
+    "example_persian": "در خیابان بعدی به چپ بپیچ."
+  },
+  {
+    "spanish": "atravesar",
+    "persian": "از میان چیزی عبور کردن",
+    "example": "Para llegar al museo, tienes que atravesar el parque.",
+    "example_persian": "برای رسیدن به موزه باید از پارک عبور کنی."
+  },
+  {
+    "spanish": "pasar por",
+    "persian": "از جایی عبور کردن",
+    "example": "El autobús pasa por el centro.",
+    "example_persian": "اتوبوس از مرکز شهر عبور می‌کند."
+  },
+  {
+    "spanish": "pasar por debajo de",
+    "persian": "از زیر چیزی عبور کردن",
+    "example": "El autobús pasa por debajo de un puente.",
+    "example_persian": "اتوبوس از زیر یک پل عبور می‌کند."
+  },
+  {
+    "spanish": "subir una cuesta",
+    "persian": "از سربالایی بالا رفتن",
+    "example": "Para llegar a la plaza, tienes que subir una cuesta.",
+    "example_persian": "برای رسیدن به میدان باید از سربالایی بالا بروی."
+  },
+  {
+    "spanish": "bajar unas escaleras",
+    "persian": "از پله‌ها پایین رفتن",
+    "example": "Para salir del metro, tengo que bajar unas escaleras.",
+    "example_persian": "برای خارج شدن از مترو باید از چند پله پایین بروم."
+  },
+  {
+    "spanish": "la cuesta",
+    "persian": "سربالایی؛ شیب",
+    "example": "La cuesta es muy larga.",
+    "example_persian": "این سربالایی خیلی طولانی است."
+  },
+  {
+    "spanish": "las escaleras",
+    "persian": "پله‌ها؛ راه‌پله",
+    "example": "Las escaleras están a la derecha.",
+    "example_persian": "پله‌ها سمت راست هستند."
+  },
+  {
+    "spanish": "el semáforo",
+    "persian": "چراغ راهنمایی",
+    "example": "Sigue recto hasta el semáforo.",
+    "example_persian": "تا چراغ راهنمایی مستقیم برو."
+  },
+  {
+    "spanish": "la siguiente parada",
+    "persian": "ایستگاه بعدی",
+    "example": "Baja en la siguiente parada.",
+    "example_persian": "در ایستگاه بعدی پیاده شو."
+  },
+  {
+    "spanish": "la próxima estación",
+    "persian": "ایستگاه بعدی",
+    "example": "La próxima estación es Avenida Jiménez.",
+    "example_persian": "ایستگاه بعدی آونیدا خیمنز است."
+  },
+  {
+    "spanish": "en dirección a",
+    "persian": "در جهتِ؛ به سمتِ",
+    "example": "Toma la línea en dirección a Bicentenario.",
+    "example_persian": "سوار خطی شو که به سمت بیسنتناریو می‌رود."
+  },
+  {
+    "spanish": "el tren directo",
+    "persian": "قطار مستقیم",
+    "example": "Prefiero tomar un tren directo.",
+    "example_persian": "ترجیح می‌دهم سوار قطار مستقیم شوم."
+  },
+  {
+    "spanish": "todo recto",
+    "persian": "مستقیم؛ بدون پیچیدن",
+    "example": "Sigue todo recto hasta la catedral.",
+    "example_persian": "تا کلیسای جامع مستقیم برو."
+  },
+  {
+    "spanish": "a la derecha",
+    "persian": "به سمت راست؛ در سمت راست",
+    "example": "La farmacia está a la derecha.",
+    "example_persian": "داروخانه سمت راست است."
+  },
+  {
+    "spanish": "a la izquierda",
+    "persian": "به سمت چپ؛ در سمت چپ",
+    "example": "Gira a la izquierda después del puente.",
+    "example_persian": "بعد از پل به چپ بپیچ."
+  },
+  {
+    "spanish": "a la derecha de",
+    "persian": "در سمت راستِ",
+    "example": "La farmacia está a la derecha del cine.",
+    "example_persian": "داروخانه در سمت راست سینما است."
+  },
+  {
+    "spanish": "a la izquierda de",
+    "persian": "در سمت چپِ",
+    "example": "El banco está a la izquierda de Correos.",
+    "example_persian": "بانک در سمت چپ ادارهٔ پست است."
+  },
+  {
+    "spanish": "al lado de",
+    "persian": "کنارِ",
+    "example": "La cafetería está al lado del museo.",
+    "example_persian": "کافه کنار موزه است."
+  },
+  {
+    "spanish": "cerca de",
+    "persian": "نزدیکِ",
+    "example": "El hotel está cerca de la estación.",
+    "example_persian": "هتل نزدیک ایستگاه است."
+  },
+  {
+    "spanish": "lejos de",
+    "persian": "دور از",
+    "example": "El aeropuerto está lejos del centro.",
+    "example_persian": "فرودگاه از مرکز شهر دور است."
+  },
+  {
+    "spanish": "delante de",
+    "persian": "جلویِ",
+    "example": "Hay una parada de taxis delante del centro comercial.",
+    "example_persian": "جلوی مرکز خرید یک ایستگاه تاکسی وجود دارد."
+  },
+  {
+    "spanish": "detrás de",
+    "persian": "پشتِ",
+    "example": "El banco está detrás de la farmacia.",
+    "example_persian": "بانک پشت داروخانه است."
+  },
+  {
+    "spanish": "enfrente de",
+    "persian": "روبرویِ",
+    "example": "El cine está enfrente del restaurante.",
+    "example_persian": "سینما روبه‌روی رستوران است."
+  },
+  {
+    "spanish": "entre ... y ...",
+    "persian": "بین ... و ...",
+    "example": "La panadería está entre la farmacia y la zapatería.",
+    "example_persian": "نانوایی بین داروخانه و کفش‌فروشی است."
+  },
+  {
+    "spanish": "aquí",
+    "persian": "اینجا",
+    "example": "La farmacia está justo aquí.",
+    "example_persian": "داروخانه دقیقاً همین‌جاست."
+  },
+  {
+    "spanish": "ahí",
+    "persian": "آنجا؛ همان‌جا",
+    "example": "El autobús para ahí.",
+    "example_persian": "اتوبوس همان‌جا توقف می‌کند."
+  },
+  {
+    "spanish": "justo al lado",
+    "persian": "دقیقاً در کنار",
+    "example": "El supermercado está justo al lado.",
+    "example_persian": "سوپرمارکت دقیقاً همین کنار است."
+  },
+  {
+    "spanish": "al principio de",
+    "persian": "در ابتدایِ",
+    "example": "La farmacia está al principio de la calle.",
+    "example_persian": "داروخانه در ابتدای خیابان است."
+  },
+  {
+    "spanish": "al final de",
+    "persian": "در انتهایِ",
+    "example": "El museo está al final de la calle.",
+    "example_persian": "موزه در انتهای خیابان است."
+  },
+  {
+    "spanish": "primero",
+    "persian": "اول؛ ابتدا",
+    "example": "Primero toma el autobús y después cambia de línea.",
+    "example_persian": "اول سوار اتوبوس شو و بعد خط عوض کن."
+  },
+  {
+    "spanish": "después",
+    "persian": "بعد؛ پس از آن",
+    "example": "Después cruza la plaza.",
+    "example_persian": "بعد از آن از میدان عبور کن."
+  },
+  {
+    "spanish": "luego",
+    "persian": "سپس؛ بعد",
+    "example": "Luego gira a la izquierda.",
+    "example_persian": "سپس به چپ بپیچ."
+  },
+  {
+    "spanish": "al final",
+    "persian": "در پایان؛ در نهایت",
+    "example": "Al final, el museo está a la derecha.",
+    "example_persian": "در نهایت، موزه در سمت راست است."
+  },
+  {
+    "spanish": "¿Está lejos o cerca?",
+    "persian": "دور است یا نزدیک؟",
+    "example": "Perdone, ¿el museo está lejos o cerca?",
+    "example_persian": "ببخشید، موزه دور است یا نزدیک؟"
+  },
+  {
+    "spanish": "¿Cómo llego a ...?",
+    "persian": "چطور به ... برسم؟",
+    "example": "Perdone, ¿cómo llego a la catedral?",
+    "example_persian": "ببخشید، چطور به کلیسای جامع برسم؟"
+  },
+  {
+    "spanish": "¿De dónde sale el autobús?",
+    "persian": "اتوبوس از کجا حرکت می‌کند؟",
+    "example": "¿De dónde sale el autobús para Triana?",
+    "example_persian": "اتوبوس تریانا از کجا حرکت می‌کند؟"
+  },
+  {
+    "spanish": "No soy de aquí.",
+    "persian": "من اهل اینجا نیستم.",
+    "example": "Lo siento, no soy de aquí.",
+    "example_persian": "متأسفم، من اهل اینجا نیستم."
+  },
+  {
+    "spanish": "No lo sé.",
+    "persian": "نمی‌دانم.",
+    "example": "¿Dónde está el museo? Lo siento, no lo sé.",
+    "example_persian": "موزه کجاست؟ متأسفم، نمی‌دانم."
+  },
+  {
+    "spanish": "ni idea",
+    "persian": "اصلاً نمی‌دانم؛ هیچ ایده‌ای ندارم",
+    "example": "¿Dónde está la estación? Ni idea.",
+    "example_persian": "ایستگاه کجاست؟ اصلاً نمی‌دانم."
+  },
+  {
+    "spanish": "Perdone.",
+    "persian": "ببخشید؛ عذر می‌خواهم.",
+    "example": "Perdone, ¿dónde está la farmacia?",
+    "example_persian": "ببخشید، داروخانه کجاست؟"
+  },
+  {
+    "spanish": "Muchas gracias.",
+    "persian": "خیلی متشکرم.",
+    "example": "Muchas gracias por la información.",
+    "example_persian": "از اطلاعاتتان بسیار متشکرم."
+  },
+  {
+    "spanish": "De nada.",
+    "persian": "خواهش می‌کنم.",
+    "example": "Muchas gracias. De nada.",
+    "example_persian": "خیلی متشکرم. خواهش می‌کنم."
+  },
+  {
+    "spanish": "la farmacia",
+    "persian": "داروخانه",
+    "example": "¿Dónde hay una farmacia por aquí?",
+    "example_persian": "اینجا نزدیک‌ها داروخانه کجاست؟"
+  },
+  {
+    "spanish": "el supermercado",
+    "persian": "سوپرمارکت",
+    "example": "Voy al supermercado a comprar comida.",
+    "example_persian": "برای خرید غذا به سوپرمارکت می‌روم."
+  },
+  {
+    "spanish": "el restaurante",
+    "persian": "رستوران",
+    "example": "Hay un restaurante típico cerca de la catedral.",
+    "example_persian": "نزدیک کلیسا یک رستوران سنتی وجود دارد."
+  },
+  {
+    "spanish": "la panadería",
+    "persian": "نانوایی",
+    "example": "Compro el pan en la panadería.",
+    "example_persian": "نان را از نانوایی می‌خرم."
+  },
+  {
+    "spanish": "la frutería",
+    "persian": "میوه‌فروشی",
+    "example": "La frutería está al lado del banco.",
+    "example_persian": "میوه‌فروشی کنار بانک است."
+  },
+  {
+    "spanish": "la zapatería",
+    "persian": "کفش‌فروشی",
+    "example": "Quiero comprar unos zapatos en la zapatería.",
+    "example_persian": "می‌خواهم از کفش‌فروشی یک جفت کفش بخرم."
+  },
+  {
+    "spanish": "la tienda de ropa",
+    "persian": "فروشگاه لباس",
+    "example": "La tienda de ropa está entre la panadería y la zapatería.",
+    "example_persian": "فروشگاه لباس بین نانوایی و کفش‌فروشی است."
+  },
+  {
+    "spanish": "la tienda de regalos",
+    "persian": "فروشگاه هدیه",
+    "example": "Compro un recuerdo en la tienda de regalos.",
+    "example_persian": "از فروشگاه هدیه یک یادگاری می‌خرم."
+  },
+  {
+    "spanish": "la oficina de Correos",
+    "persian": "اداره پست",
+    "example": "Tengo que ir a la oficina de Correos.",
+    "example_persian": "باید به اداره پست بروم."
+  },
+  {
+    "spanish": "el cajero automático",
+    "persian": "دستگاه خودپرداز",
+    "example": "¿Dónde hay un cajero automático?",
+    "example_persian": "دستگاه خودپرداز کجاست؟"
+  },
+  {
+    "spanish": "el punto de información",
+    "persian": "بخش اطلاعات",
+    "example": "Pregunto en el punto de información.",
+    "example_persian": "از بخش اطلاعات سؤال می‌کنم."
+  },
+  {
+    "spanish": "la oficina de turismo",
+    "persian": "دفتر اطلاعات گردشگری",
+    "example": "¿Dónde está la oficina de turismo?",
+    "example_persian": "دفتر اطلاعات گردشگری کجاست؟"
+  },
+  {
+    "spanish": "la parada de autobús",
+    "persian": "ایستگاه اتوبوس",
+    "example": "La parada de autobús está enfrente del cine.",
+    "example_persian": "ایستگاه اتوبوس روبه‌روی سینماست."
+  },
+  {
+    "spanish": "la estación",
+    "persian": "ایستگاه",
+    "example": "Bajo en la próxima estación.",
+    "example_persian": "در ایستگاه بعدی پیاده می‌شوم."
+  },
+  {
+    "spanish": "el aeropuerto",
+    "persian": "فرودگاه",
+    "example": "Voy al aeropuerto en autobús.",
+    "example_persian": "با اتوبوس به فرودگاه می‌روم."
+  },
+  {
+    "spanish": "el autobús",
+    "persian": "اتوبوس",
+    "example": "Tomo el autobús para ir al centro.",
+    "example_persian": "برای رفتن به مرکز شهر سوار اتوبوس می‌شوم."
+  },
+  {
+    "spanish": "el avión",
+    "persian": "هواپیما",
+    "example": "Voy a Colombia en avión.",
+    "example_persian": "با هواپیما به کلمبیا می‌روم."
+  },
+  {
+    "spanish": "el tren",
+    "persian": "قطار",
+    "example": "Prefiero viajar en tren.",
+    "example_persian": "ترجیح می‌دهم با قطار سفر کنم."
+  },
+  {
+    "spanish": "el metro",
+    "persian": "مترو",
+    "example": "Voy al trabajo en metro.",
+    "example_persian": "با مترو به محل کار می‌روم."
+  },
+  {
+    "spanish": "el taxi",
+    "persian": "تاکسی",
+    "example": "Vamos al hotel en taxi.",
+    "example_persian": "با تاکسی به هتل می‌رویم."
+  },
+  {
+    "spanish": "la bicicleta",
+    "persian": "دوچرخه",
+    "example": "Voy a la universidad en bicicleta.",
+    "example_persian": "با دوچرخه به دانشگاه می‌روم."
+  },
+  {
+    "spanish": "el barco",
+    "persian": "کشتی",
+    "example": "Nunca voy en barco.",
+    "example_persian": "من هیچ‌وقت با کشتی سفر نمی‌کنم."
+  },
+  {
+    "spanish": "ir",
+    "persian": "رفتن",
+    "example": "Voy al centro a pie.",
+    "example_persian": "پیاده به مرکز شهر می‌روم."
+  },
+  {
+    "spanish": "estar",
+    "persian": "بودن؛ قرار داشتن",
+    "example": "El museo está cerca de la estación.",
+    "example_persian": "موزه نزدیک ایستگاه است."
+  },
+  {
+    "spanish": "seguir",
+    "persian": "ادامه دادن؛ مسیر را ادامه دادن",
+    "example": "Sigue todo recto hasta la plaza.",
+    "example_persian": "تا میدان مستقیم به مسیرت ادامه بده."
+  },
+  {
+    "spanish": "tomar",
+    "persian": "سوار شدن؛ گرفتن؛ انتخاب کردن",
+    "example": "Toma la línea ocho en dirección al centro.",
+    "example_persian": "سوار خط هشت به مقصد مرکز شهر شو."
+  },
+  {
+    "spanish": "bajar",
+    "persian": "پایین آمدن؛ پیاده شدن",
+    "example": "Bajo en la próxima parada.",
+    "example_persian": "در ایستگاه بعدی پیاده می‌شوم."
+  },
+  {
+    "spanish": "cambiar",
+    "persian": "عوض کردن؛ خط عوض کردن",
+    "example": "Tengo que cambiar a la línea F.",
+    "example_persian": "باید خطم را به خط F عوض کنم."
+  },
+  {
+    "spanish": "cruzar",
+    "persian": "از عرض چیزی عبور کردن",
+    "example": "Tiene que cruzar la plaza.",
+    "example_persian": "باید از عرض میدان عبور کنید."
+  },
+  {
+    "spanish": "girar",
+    "persian": "پیچیدن",
+    "example": "Gira a la izquierda en la segunda calle.",
+    "example_persian": "در خیابان دوم به چپ بپیچ."
+  },
+  {
+    "spanish": "subir",
+    "persian": "بالا رفتن؛ سوار شدن",
+    "example": "Subimos a la Giralda para ver la ciudad.",
+    "example_persian": "برای دیدن شهر از برج خیرالدا بالا می‌رویم."
+  },
+  {
+    "spanish": "tener que + infinitivo",
+    "persian": "باید کاری انجام دادن",
+    "example": "Tengo que tomar el metro.",
+    "example_persian": "باید سوار مترو شوم."
+  },
+  {
+    "spanish": "a la derecha",
+    "persian": "به سمت راست؛ در سمت راست",
+    "example": "Gira a la derecha después del puente.",
+    "example_persian": "بعد از پل به راست بپیچ."
+  },
+  {
+    "spanish": "a la izquierda",
+    "persian": "به سمت چپ؛ در سمت چپ",
+    "example": "La farmacia está a la izquierda.",
+    "example_persian": "داروخانه در سمت چپ است."
+  },
+  {
+    "spanish": "todo recto",
+    "persian": "مستقیم",
+    "example": "Sigue todo recto hasta el semáforo.",
+    "example_persian": "تا چراغ راهنمایی مستقیم برو."
+  },
+  {
+    "spanish": "cerca de",
+    "persian": "نزدیکِ",
+    "example": "El hotel está cerca del museo.",
+    "example_persian": "هتل نزدیک موزه است."
+  },
+  {
+    "spanish": "lejos de",
+    "persian": "دور از",
+    "example": "El aeropuerto está lejos del centro.",
+    "example_persian": "فرودگاه از مرکز شهر دور است."
+  },
+  {
+    "spanish": "al lado de",
+    "persian": "کنارِ",
+    "example": "El banco está al lado de la farmacia.",
+    "example_persian": "بانک کنار داروخانه است."
+  },
+  {
+    "spanish": "enfrente de",
+    "persian": "روبرویِ",
+    "example": "El cine está enfrente del restaurante.",
+    "example_persian": "سینما روبه‌روی رستوران است."
+  },
+  {
+    "spanish": "delante de",
+    "persian": "جلویِ",
+    "example": "Hay una parada de taxis delante del centro comercial.",
+    "example_persian": "جلوی مرکز خرید یک ایستگاه تاکسی وجود دارد."
+  },
+  {
+    "spanish": "detrás de",
+    "persian": "پشتِ",
+    "example": "El aparcamiento está detrás del supermercado.",
+    "example_persian": "پارکینگ پشت سوپرمارکت است."
+  },
+  {
+    "spanish": "entre ... y ...",
+    "persian": "بینِ ... و ...",
+    "example": "La farmacia está entre el banco y el cine.",
+    "example_persian": "داروخانه بین بانک و سینماست."
+  },
+  {
+    "spanish": "a pie",
+    "persian": "پیاده",
+    "example": "Voy a la estación a pie.",
+    "example_persian": "پیاده به ایستگاه می‌روم."
+  },
+  {
+    "spanish": "¿Dónde hay ...?",
+    "persian": "کجا ... وجود دارد؟",
+    "example": "¿Dónde hay un restaurante típico?",
+    "example_persian": "کجا یک رستوران سنتی وجود دارد؟"
+  },
+  {
+    "spanish": "¿Dónde está ...?",
+    "persian": "... کجاست؟",
+    "example": "¿Dónde está la catedral?",
+    "example_persian": "کلیسا کجاست؟"
+  },
+  {
+    "spanish": "¿Cómo puedo llegar a ...?",
+    "persian": "چطور می‌توانم به ... برسم؟",
+    "example": "¿Cómo puedo llegar al Museo del Oro?",
+    "example_persian": "چطور می‌توانم به موزه طلا برسم؟"
+  },
+  {
+    "spanish": "¿Me puede recomendar ...?",
+    "persian": "می‌توانید ... را به من پیشنهاد کنید؟",
+    "example": "¿Me puede recomendar un restaurante típico?",
+    "example_persian": "می‌توانید یک رستوران سنتی به من پیشنهاد کنید؟"
+  },
+  {
+    "spanish": "¿Tiene un plano de la ciudad?",
+    "persian": "نقشه شهر را دارید؟",
+    "example": "Perdone, ¿tiene un plano de la ciudad?",
+    "example_persian": "ببخشید، نقشه شهر را دارید؟"
+  },
+  {
+    "spanish": "¿Cuánto cuesta una entrada?",
+    "persian": "قیمت یک بلیت چقدر است؟",
+    "example": "¿Cuánto cuesta una entrada para el museo?",
+    "example_persian": "قیمت یک بلیت موزه چقدر است؟"
+  },
+  {
+    "spanish": "la visita guiada",
+    "persian": "بازدید همراه با راهنما",
+    "example": "¿Hay visitas guiadas en la catedral?",
+    "example_persian": "آیا در کلیسا بازدید همراه با راهنما برگزار می‌شود؟"
+  },
+  {
+    "spanish": "la entrada",
+    "persian": "بلیت ورودی",
+    "example": "La entrada al Museo Botero es gratuita.",
+    "example_persian": "ورودی موزه بوترو رایگان است."
+  },
+  {
+    "spanish": "el centro histórico",
+    "persian": "مرکز تاریخی شهر",
+    "example": "Quiero visitar el centro histórico de Bogotá.",
+    "example_persian": "می‌خواهم از مرکز تاریخی بوگوتا دیدن کنم."
+  },
+  {
+    "spanish": "el barrio",
+    "persian": "محله",
+    "example": "Triana es un barrio tradicional de Sevilla.",
+    "example_persian": "تریانا محله‌ای سنتی در سویا است."
+  },
+  {
+    "spanish": "la calle",
+    "persian": "خیابان",
+    "example": "El museo está al final de la calle.",
+    "example_persian": "موزه در انتهای خیابان است."
+  },
+  {
+    "spanish": "la avenida",
+    "persian": "خیابان عریض؛ بلوار",
+    "example": "Gira a la izquierda en la avenida.",
+    "example_persian": "در بلوار به چپ بپیچ."
+  },
+  {
+    "spanish": "la plaza",
+    "persian": "میدان",
+    "example": "La catedral está cerca de la plaza.",
+    "example_persian": "کلیسا نزدیک میدان است."
+  },
+  {
+    "spanish": "el puente",
+    "persian": "پل",
+    "example": "Cruza el puente y sigue todo recto.",
+    "example_persian": "از پل عبور کن و مستقیم ادامه بده."
+  },
+  {
+    "spanish": "el semáforo",
+    "persian": "چراغ راهنمایی",
+    "example": "Gira a la derecha en el semáforo.",
+    "example_persian": "سر چراغ راهنمایی به راست بپیچ."
+  },
+  {
+    "spanish": "la siguiente parada",
+    "persian": "ایستگاه بعدی",
+    "example": "Bajo en la siguiente parada.",
+    "example_persian": "در ایستگاه بعدی پیاده می‌شوم."
+  },
+  {
+    "spanish": "la próxima estación",
+    "persian": "ایستگاه بعدی",
+    "example": "Cambiamos de línea en la próxima estación.",
+    "example_persian": "در ایستگاه بعدی خط عوض می‌کنیم."
+  },
+  {
+    "spanish": "en dirección a",
+    "persian": "در جهتِ؛ به سمتِ",
+    "example": "Toma el autobús en dirección al centro.",
+    "example_persian": "سوار اتوبوسی شو که به سمت مرکز شهر می‌رود."
+  },
+  {
+    "spanish": "primero",
+    "persian": "اول؛ ابتدا",
+    "example": "Primero, toma el autobús número ocho.",
+    "example_persian": "ابتدا سوار اتوبوس شماره هشت شو."
+  },
+  {
+    "spanish": "después",
+    "persian": "بعد؛ سپس",
+    "example": "Después, baja en la plaza.",
+    "example_persian": "بعد در میدان پیاده شو."
+  },
+  {
+    "spanish": "luego",
+    "persian": "سپس؛ بعد از آن",
+    "example": "Luego, gira a la izquierda.",
+    "example_persian": "سپس به چپ بپیچ."
+  },
+  {
+    "spanish": "al final",
+    "persian": "در پایان؛ در انتها",
+    "example": "Al final de la calle está el museo.",
+    "example_persian": "موزه در انتهای خیابان است."
+  },
+  {
+    "spanish": "el primero",
+    "persian": "اولی؛ اولین",
+    "example": "Toma la primera calle a la derecha.",
+    "example_persian": "وارد اولین خیابان سمت راست شو."
+  },
+  {
+    "spanish": "el segundo",
+    "persian": "دومی؛ دومین",
+    "example": "Gira en la segunda calle a la izquierda.",
+    "example_persian": "در دومین خیابان سمت چپ بپیچ."
+  },
+  {
+    "spanish": "el tercero",
+    "persian": "سومی؛ سومین",
+    "example": "El banco está en la tercera calle.",
+    "example_persian": "بانک در سومین خیابان است."
+  },
+  {
+    "spanish": "el cuarto",
+    "persian": "چهارمی؛ چهارمین",
+    "example": "La oficina está en el cuarto piso.",
+    "example_persian": "دفتر در طبقه چهارم است."
+  },
+  {
+    "spanish": "el quinto",
+    "persian": "پنجمی؛ پنجمین",
+    "example": "La tienda está en la quinta calle.",
+    "example_persian": "فروشگاه در پنجمین خیابان است."
+  },
+  {
+    "spanish": "el sexto",
+    "persian": "ششمی؛ ششمین",
+    "example": "El museo está en la sexta calle.",
+    "example_persian": "موزه در ششمین خیابان است."
+  },
+  {
+    "spanish": "el séptimo",
+    "persian": "هفتمی؛ هفتمین",
+    "example": "El hotel está en la séptima calle.",
+    "example_persian": "هتل در هفتمین خیابان است."
+  },
+  {
+    "spanish": "el octavo",
+    "persian": "هشتمی؛ هشتمین",
+    "example": "El autobús sale de la octava parada.",
+    "example_persian": "اتوبوس از ایستگاه هشتم حرکت می‌کند."
+  },
+  {
+    "spanish": "el noveno",
+    "persian": "نهمی؛ نهمین",
+    "example": "La entrada está en la novena calle.",
+    "example_persian": "ورودی در نهمین خیابان است."
+  },
+  {
+    "spanish": "el décimo",
+    "persian": "دهمی؛ دهمین",
+    "example": "El edificio está en la décima calle.",
+    "example_persian": "ساختمان در دهمین خیابان است."
+  },
+  {
+    "spanish": "la ciudad",
+    "persian": "شهر",
+    "example": "Sevilla es una ciudad muy bonita.",
+    "example_persian": "سویل شهر بسیار زیبایی است."
+  },
+  {
+    "spanish": "el centro histórico",
+    "persian": "مرکز تاریخی شهر",
+    "example": "Quiero visitar el centro histórico.",
+    "example_persian": "می‌خواهم از مرکز تاریخی شهر دیدن کنم."
+  },
+  {
+    "spanish": "el barrio",
+    "persian": "محله",
+    "example": "Vivo en un barrio tranquilo.",
+    "example_persian": "در محله‌ای آرام زندگی می‌کنم."
+  },
+  {
+    "spanish": "el barrio antiguo",
+    "persian": "محله قدیمی",
+    "example": "Hay muchos monumentos en el barrio antiguo.",
+    "example_persian": "در محله قدیمی بناهای تاریخی زیادی وجود دارد."
+  },
+  {
+    "spanish": "la calle",
+    "persian": "خیابان",
+    "example": "El museo está en esta calle.",
+    "example_persian": "موزه در این خیابان است."
+  },
+  {
+    "spanish": "la avenida",
+    "persian": "خیابان عریض، بلوار",
+    "example": "La avenida es muy grande.",
+    "example_persian": "این بلوار بسیار عریض است."
+  },
+  {
+    "spanish": "la plaza",
+    "persian": "میدان",
+    "example": "Nos vemos en la plaza.",
+    "example_persian": "در میدان همدیگر را می‌بینیم."
+  },
+  {
+    "spanish": "el puente",
+    "persian": "پل",
+    "example": "Cruza el puente y gira a la derecha.",
+    "example_persian": "از پل عبور کن و به راست بپیچ."
+  },
+  {
+    "spanish": "el río",
+    "persian": "رودخانه",
+    "example": "El restaurante está al lado del río.",
+    "example_persian": "رستوران کنار رودخانه است."
+  },
+  {
+    "spanish": "el parque",
+    "persian": "پارک",
+    "example": "Hay un parque cerca de mi casa.",
+    "example_persian": "نزدیک خانه‌ام یک پارک وجود دارد."
+  },
+  {
+    "spanish": "la zona peatonal",
+    "persian": "منطقه مخصوص عابران پیاده",
+    "example": "Me gusta pasear por la zona peatonal.",
+    "example_persian": "دوست دارم در منطقه مخصوص عابران پیاده قدم بزنم."
+  },
+  {
+    "spanish": "el centro comercial",
+    "persian": "مرکز خرید",
+    "example": "El centro comercial está cerca de aquí.",
+    "example_persian": "مرکز خرید نزدیک اینجاست."
+  },
+  {
+    "spanish": "el monumento",
+    "persian": "بنای تاریخی، یادبود",
+    "example": "Hay muchos monumentos en esta ciudad.",
+    "example_persian": "در این شهر بناهای تاریخی زیادی وجود دارد."
+  },
+  {
+    "spanish": "la catedral",
+    "persian": "کلیسای جامع",
+    "example": "La catedral está en el centro.",
+    "example_persian": "کلیسای جامع در مرکز شهر است."
+  },
+  {
+    "spanish": "la iglesia",
+    "persian": "کلیسا",
+    "example": "La iglesia está cerca de la plaza.",
+    "example_persian": "کلیسا نزدیک میدان است."
+  },
+  {
+    "spanish": "la mezquita",
+    "persian": "مسجد",
+    "example": "La torre es de una antigua mezquita.",
+    "example_persian": "این برج متعلق به یک مسجد قدیمی است."
+  },
+  {
+    "spanish": "el palacio",
+    "persian": "کاخ",
+    "example": "El palacio tiene unos jardines preciosos.",
+    "example_persian": "کاخ باغ‌های بسیار زیبایی دارد."
+  },
+  {
+    "spanish": "el jardín",
+    "persian": "باغ",
+    "example": "Paseamos por el jardín.",
+    "example_persian": "در باغ قدم می‌زنیم."
+  },
+  {
+    "spanish": "la torre",
+    "persian": "برج",
+    "example": "Subimos a la torre para ver la ciudad.",
+    "example_persian": "برای دیدن شهر از برج بالا می‌رویم."
+  },
+  {
+    "spanish": "el museo",
+    "persian": "موزه",
+    "example": "El museo abre a las diez.",
+    "example_persian": "موزه ساعت ده باز می‌شود."
+  },
+  {
+    "spanish": "el Museo de Bellas Artes",
+    "persian": "موزه هنرهای زیبا",
+    "example": "Quiero visitar el Museo de Bellas Artes.",
+    "example_persian": "می‌خواهم از موزه هنرهای زیبا دیدن کنم."
+  },
+  {
+    "spanish": "el teatro",
+    "persian": "تئاتر، سالن نمایش",
+    "example": "Vamos al teatro esta noche.",
+    "example_persian": "امشب به تئاتر می‌رویم."
+  },
+  {
+    "spanish": "el concierto",
+    "persian": "کنسرت",
+    "example": "Hay un concierto de guitarra flamenca.",
+    "example_persian": "یک کنسرت گیتار فلامنکو برگزار می‌شود."
+  },
+  {
+    "spanish": "el cuadro",
+    "persian": "تابلو نقاشی",
+    "example": "Hay cuadros famosos en el museo.",
+    "example_persian": "در موزه تابلوهای نقاشی مشهوری وجود دارد."
+  },
+  {
+    "spanish": "el pintor",
+    "persian": "نقاش",
+    "example": "Goya es un pintor famoso.",
+    "example_persian": "گویا نقاش مشهوری است."
+  },
+  {
+    "spanish": "la escultura",
+    "persian": "مجسمه، تندیس",
+    "example": "El museo tiene pinturas y esculturas.",
+    "example_persian": "موزه نقاشی‌ها و مجسمه‌هایی دارد."
+  },
+  {
+    "spanish": "la galería de arte",
+    "persian": "گالری هنری",
+    "example": "Hay una galería de arte en el centro cultural.",
+    "example_persian": "در مرکز فرهنگی یک گالری هنری وجود دارد."
+  },
+  {
+    "spanish": "la biblioteca",
+    "persian": "کتابخانه",
+    "example": "Estudio en la biblioteca por la tarde.",
+    "example_persian": "بعدازظهر در کتابخانه درس می‌خوانم."
+  },
+  {
+    "spanish": "el centro cultural",
+    "persian": "مرکز فرهنگی",
+    "example": "El centro cultural tiene una cafetería.",
+    "example_persian": "مرکز فرهنگی یک کافه دارد."
+  },
+  {
+    "spanish": "el estadio",
+    "persian": "ورزشگاه",
+    "example": "El estadio está cerca del centro.",
+    "example_persian": "ورزشگاه نزدیک مرکز شهر است."
+  },
+  {
+    "spanish": "la tienda",
+    "persian": "مغازه، فروشگاه",
+    "example": "La tienda está al lado del banco.",
+    "example_persian": "مغازه کنار بانک است."
+  },
+  {
+    "spanish": "la tienda de ropa",
+    "persian": "لباس‌فروشی",
+    "example": "Esta tienda de ropa es barata.",
+    "example_persian": "این لباس‌فروشی ارزان است."
+  },
+  {
+    "spanish": "la zapatería",
+    "persian": "کفش‌فروشی",
+    "example": "Hay una zapatería enfrente del cine.",
+    "example_persian": "روبروی سینما یک کفش‌فروشی وجود دارد."
+  },
+  {
+    "spanish": "la tienda de regalos",
+    "persian": "فروشگاه هدیه و سوغاتی",
+    "example": "Compro un recuerdo en la tienda de regalos.",
+    "example_persian": "از فروشگاه سوغاتی یک یادگاری می‌خرم."
+  },
+  {
+    "spanish": "la panadería",
+    "persian": "نانوایی",
+    "example": "La panadería abre a las ocho.",
+    "example_persian": "نانوایی ساعت هشت باز می‌شود."
+  },
+  {
+    "spanish": "la frutería",
+    "persian": "میوه‌فروشی",
+    "example": "Compro manzanas en la frutería.",
+    "example_persian": "از میوه‌فروشی سیب می‌خرم."
+  },
+  {
+    "spanish": "la confitería",
+    "persian": "قنادی",
+    "example": "Esta confitería vende dulces típicos.",
+    "example_persian": "این قنادی شیرینی‌های محلی می‌فروشد."
+  },
+  {
+    "spanish": "la perfumería",
+    "persian": "عطر‌فروشی",
+    "example": "La perfumería está a la izquierda.",
+    "example_persian": "عطر‌فروشی در سمت چپ است."
+  },
+  {
+    "spanish": "la farmacia",
+    "persian": "داروخانه",
+    "example": "¿Dónde hay una farmacia?",
+    "example_persian": "داروخانه کجاست؟"
+  },
+  {
+    "spanish": "el supermercado",
+    "persian": "سوپرمارکت",
+    "example": "Compro fruta en el supermercado.",
+    "example_persian": "از سوپرمارکت میوه می‌خرم."
+  },
+  {
+    "spanish": "el restaurante",
+    "persian": "رستوران",
+    "example": "¿Me puede recomendar un restaurante típico?",
+    "example_persian": "می‌توانید یک رستوران محلی به من معرفی کنید؟"
+  },
+  {
+    "spanish": "la cafetería",
+    "persian": "کافه",
+    "example": "Desayuno en una cafetería del centro.",
+    "example_persian": "در یک کافه در مرکز شهر صبحانه می‌خورم."
+  },
+  {
+    "spanish": "la oficina de Correos",
+    "persian": "اداره پست",
+    "example": "¿Dónde está la oficina de Correos?",
+    "example_persian": "اداره پست کجاست؟"
+  },
+  {
+    "spanish": "el cajero automático",
+    "persian": "خودپرداز",
+    "example": "Hay un cajero automático cerca del banco.",
+    "example_persian": "نزدیک بانک یک خودپرداز وجود دارد."
+  },
+  {
+    "spanish": "el punto de información",
+    "persian": "مرکز اطلاعات",
+    "example": "Pregunta en el punto de información.",
+    "example_persian": "از مرکز اطلاعات سؤال کن."
+  },
+  {
+    "spanish": "la oficina de turismo",
+    "persian": "دفتر گردشگری",
+    "example": "En la oficina de turismo hay mapas de la ciudad.",
+    "example_persian": "در دفتر گردشگری نقشه‌های شهر وجود دارد."
+  },
+  {
+    "spanish": "los servicios",
+    "persian": "سرویس بهداشتی",
+    "example": "¿Dónde están los servicios?",
+    "example_persian": "سرویس بهداشتی کجاست؟"
+  },
+  {
+    "spanish": "el cine",
+    "persian": "سینما",
+    "example": "Vamos al cine el sábado.",
+    "example_persian": "شنبه به سینما می‌رویم."
+  },
+  {
+    "spanish": "el hotel",
+    "persian": "هتل",
+    "example": "¿Me puede recomendar un hotel barato?",
+    "example_persian": "می‌توانید یک هتل ارزان به من معرفی کنید؟"
+  },
+  {
+    "spanish": "la parada de autobús",
+    "persian": "ایستگاه اتوبوس",
+    "example": "La parada de autobús está enfrente del parque.",
+    "example_persian": "ایستگاه اتوبوس روبروی پارک است."
+  },
+  {
+    "spanish": "la parada de taxis",
+    "persian": "ایستگاه تاکسی",
+    "example": "Hay una parada de taxis delante del centro comercial.",
+    "example_persian": "جلوی مرکز خرید یک ایستگاه تاکسی وجود دارد."
+  },
+  {
+    "spanish": "el aeropuerto",
+    "persian": "فرودگاه",
+    "example": "Voy al aeropuerto en taxi.",
+    "example_persian": "با تاکسی به فرودگاه می‌روم."
+  },
+  {
+    "spanish": "el medio de transporte",
+    "persian": "وسیلهٔ حمل‌ونقل",
+    "example": "¿Cuál es tu medio de transporte favorito?",
+    "example_persian": "وسیلهٔ حمل‌ونقل موردعلاقه‌ات چیست؟"
+  },
+  {
+    "spanish": "el autobús",
+    "persian": "اتوبوس",
+    "example": "Voy al centro en autobús.",
+    "example_persian": "با اتوبوس به مرکز شهر می‌روم."
+  },
+  {
+    "spanish": "el avión",
+    "persian": "هواپیما",
+    "example": "Mañana voy a Bogotá en avión.",
+    "example_persian": "فردا با هواپیما به بوگوتا می‌روم."
+  },
+  {
+    "spanish": "el tren",
+    "persian": "قطار",
+    "example": "Prefiero viajar en tren.",
+    "example_persian": "ترجیح می‌دهم با قطار سفر کنم."
+  },
+  {
+    "spanish": "la bicicleta",
+    "persian": "دوچرخه",
+    "example": "Voy al trabajo en bicicleta.",
+    "example_persian": "با دوچرخه به محل کار می‌روم."
+  },
+  {
+    "spanish": "la bici",
+    "persian": "دوچرخه؛ شکل کوتاه bicicleta",
+    "example": "A veces voy al parque en bici.",
+    "example_persian": "گاهی با دوچرخه به پارک می‌روم."
+  },
+  {
+    "spanish": "el metro",
+    "persian": "مترو",
+    "example": "Tomo el metro para ir al centro.",
+    "example_persian": "برای رفتن به مرکز شهر سوار مترو می‌شوم."
+  },
+  {
+    "spanish": "el taxi",
+    "persian": "تاکسی",
+    "example": "Vamos al hotel en taxi.",
+    "example_persian": "با تاکسی به هتل می‌رویم."
+  },
+  {
+    "spanish": "el coche",
+    "persian": "ماشین",
+    "example": "Vamos de vacaciones en coche.",
+    "example_persian": "با ماشین به تعطیلات می‌رویم."
+  },
+  {
+    "spanish": "el barco",
+    "persian": "کشتی",
+    "example": "Nunca voy en barco.",
+    "example_persian": "من هیچ‌وقت با کشتی سفر نمی‌کنم."
+  },
+  {
+    "spanish": "ir a pie",
+    "persian": "پیاده رفتن",
+    "example": "Voy a pie a la universidad.",
+    "example_persian": "پیاده به دانشگاه می‌روم."
+  },
+  {
+    "spanish": "la estación",
+    "persian": "ایستگاه",
+    "example": "La estación está cerca del hotel.",
+    "example_persian": "ایستگاه نزدیک هتل است."
+  },
+  {
+    "spanish": "la parada",
+    "persian": "ایستگاه، محل توقف",
+    "example": "¿Dónde está la parada del autobús?",
+    "example_persian": "ایستگاه اتوبوس کجاست؟"
+  },
+  {
+    "spanish": "la línea",
+    "persian": "خط حمل‌ونقل",
+    "example": "Toma la línea ocho.",
+    "example_persian": "سوار خط هشت شو."
+  },
+  {
+    "spanish": "la siguiente parada",
+    "persian": "ایستگاه بعدی",
+    "example": "Baja en la siguiente parada.",
+    "example_persian": "در ایستگاه بعدی پیاده شو."
+  },
+  {
+    "spanish": "el destino",
+    "persian": "مقصد",
+    "example": "Madrid es nuestro destino.",
+    "example_persian": "مادرید مقصد ماست."
+  },
+  {
+    "spanish": "el camino",
+    "persian": "مسیر، راه",
+    "example": "¿Me puede explicar el camino al museo?",
+    "example_persian": "می‌توانید مسیر موزه را برایم توضیح دهید؟"
+  },
+  {
+    "spanish": "la dirección",
+    "persian": "آدرس، جهت",
+    "example": "¿Me puede dar la dirección del hotel?",
+    "example_persian": "می‌توانید آدرس هتل را به من بدهید؟"
+  },
+  {
+    "spanish": "el plano de la ciudad",
+    "persian": "نقشهٔ شهر",
+    "example": "¿Tiene un plano de la ciudad?",
+    "example_persian": "نقشهٔ شهر را دارید؟"
+  },
+  {
+    "spanish": "el semáforo",
+    "persian": "چراغ راهنمایی",
+    "example": "Gira a la derecha en el semáforo.",
+    "example_persian": "سر چراغ راهنمایی به راست بپیچ."
+  },
+  {
+    "spanish": "la esquina",
+    "persian": "گوشهٔ خیابان، نبش",
+    "example": "La farmacia está en la esquina.",
+    "example_persian": "داروخانه در نبش خیابان است."
+  },
+  {
+    "spanish": "las escaleras",
+    "persian": "پله‌ها",
+    "example": "Baja las escaleras para llegar al metro.",
+    "example_persian": "برای رسیدن به مترو از پله‌ها پایین برو."
+  },
+  {
+    "spanish": "la cuesta",
+    "persian": "سربالایی یا سرازیری",
+    "example": "Tenemos que subir una cuesta.",
+    "example_persian": "باید از یک سربالایی بالا برویم."
+  },
+  {
+    "spanish": "la entrada",
+    "persian": "ورودی؛ بلیت ورود",
+    "example": "¿Dónde está la entrada del museo?",
+    "example_persian": "ورودی موزه کجاست؟"
+  },
+  {
+    "spanish": "la salida",
+    "persian": "خروجی",
+    "example": "La salida está a la izquierda.",
+    "example_persian": "خروجی در سمت چپ است."
+  },
+  {
+    "spanish": "a la derecha",
+    "persian": "به سمت راست؛ در سمت راست",
+    "example": "Gira a la derecha en la próxima calle.",
+    "example_persian": "در خیابان بعدی به راست بپیچ."
+  },
+  {
+    "spanish": "a la izquierda",
+    "persian": "به سمت چپ؛ در سمت چپ",
+    "example": "Gira a la izquierda después del puente.",
+    "example_persian": "بعد از پل به چپ بپیچ."
+  },
+  {
+    "spanish": "a la derecha de",
+    "persian": "در سمت راستِ",
+    "example": "El cine está a la derecha del restaurante.",
+    "example_persian": "سینما در سمت راست رستوران است."
+  },
+  {
+    "spanish": "a la izquierda de",
+    "persian": "در سمت چپِ",
+    "example": "La panadería está a la izquierda del banco.",
+    "example_persian": "نانوایی در سمت چپ بانک است."
+  },
+  {
+    "spanish": "al lado de",
+    "persian": "کنارِ",
+    "example": "La farmacia está al lado del supermercado.",
+    "example_persian": "داروخانه کنار سوپرمارکت است."
+  },
+  {
+    "spanish": "cerca de",
+    "persian": "نزدیکِ",
+    "example": "El hotel está cerca de la estación.",
+    "example_persian": "هتل نزدیک ایستگاه است."
+  },
+  {
+    "spanish": "lejos de",
+    "persian": "دور از",
+    "example": "El aeropuerto está lejos del centro.",
+    "example_persian": "فرودگاه از مرکز شهر دور است."
+  },
+  {
+    "spanish": "delante de",
+    "persian": "جلویِ",
+    "example": "Hay una parada delante del hotel.",
+    "example_persian": "جلوی هتل یک ایستگاه وجود دارد."
+  },
+  {
+    "spanish": "detrás de",
+    "persian": "پشتِ",
+    "example": "El parque está detrás de la catedral.",
+    "example_persian": "پارک پشت کلیسای جامع است."
+  },
+  {
+    "spanish": "enfrente de",
+    "persian": "روبرویِ",
+    "example": "La oficina de Correos está enfrente del banco.",
+    "example_persian": "ادارهٔ پست روبروی بانک است."
+  },
+  {
+    "spanish": "entre... y...",
+    "persian": "بینِ ... و ...",
+    "example": "La cafetería está entre la farmacia y el cine.",
+    "example_persian": "کافه بین داروخانه و سینما است."
+  },
+  {
+    "spanish": "al principio de",
+    "persian": "در ابتدایِ",
+    "example": "El museo está al principio de la calle.",
+    "example_persian": "موزه در ابتدای خیابان است."
+  },
+  {
+    "spanish": "al final de",
+    "persian": "در انتهایِ",
+    "example": "El restaurante está al final de la avenida.",
+    "example_persian": "رستوران در انتهای بلوار است."
+  },
+  {
+    "spanish": "aquí",
+    "persian": "اینجا",
+    "example": "La parada está aquí.",
+    "example_persian": "ایستگاه اینجاست."
+  },
+  {
+    "spanish": "ahí",
+    "persian": "آنجا، همان‌جا",
+    "example": "El supermercado está ahí.",
+    "example_persian": "سوپرمارکت همان‌جاست."
+  },
+  {
+    "spanish": "por aquí",
+    "persian": "در این حوالی",
+    "example": "¿Hay una farmacia por aquí?",
+    "example_persian": "در این حوالی داروخانه‌ای هست؟"
+  },
+  {
+    "spanish": "todo recto",
+    "persian": "مستقیم",
+    "example": "Sigue todo recto hasta la plaza.",
+    "example_persian": "تا میدان مستقیم برو."
+  },
+  {
+    "spanish": "seguir",
+    "persian": "ادامه دادن؛ دنبال کردن مسیر",
+    "example": "Sigue esta calle hasta el semáforo.",
+    "example_persian": "در این خیابان تا چراغ راهنمایی ادامه بده."
+  },
+  {
+    "spanish": "cruzar",
+    "persian": "از عرض چیزی عبور کردن",
+    "example": "Cruza la plaza y gira a la derecha.",
+    "example_persian": "از میدان عبور کن و به راست بپیچ."
+  },
+  {
+    "spanish": "girar",
+    "persian": "پیچیدن",
+    "example": "Gira a la izquierda después del puente.",
+    "example_persian": "بعد از پل به چپ بپیچ."
+  },
+  {
+    "spanish": "bajar",
+    "persian": "پایین آمدن؛ پیاده شدن",
+    "example": "Baja en la próxima parada.",
+    "example_persian": "در ایستگاه بعدی پیاده شو."
+  },
+  {
+    "spanish": "subir",
+    "persian": "بالا رفتن؛ سوار شدن",
+    "example": "Sube al autobús número ocho.",
+    "example_persian": "سوار اتوبوس شمارهٔ هشت شو."
+  },
+  {
+    "spanish": "tomar",
+    "persian": "گرفتن؛ سوار شدن به وسیلهٔ نقلیه",
+    "example": "Toma la línea F para ir al centro.",
+    "example_persian": "برای رفتن به مرکز شهر سوار خط F شو."
+  },
+  {
+    "spanish": "cambiar de línea",
+    "persian": "خط عوض کردن",
+    "example": "Tienes que cambiar de línea en esta estación.",
+    "example_persian": "باید در این ایستگاه خط عوض کنی."
+  },
+  {
+    "spanish": "bajar del autobús",
+    "persian": "از اتوبوس پیاده شدن",
+    "example": "Bajo del autobús delante del museo.",
+    "example_persian": "جلوی موزه از اتوبوس پیاده می‌شوم."
+  },
+  {
+    "spanish": "ir en dirección a",
+    "persian": "به سمتِ ... رفتن",
+    "example": "Toma la línea en dirección a Bicentenario.",
+    "example_persian": "سوار خطی شو که به سمت بیسنته‌ناریو می‌رود."
+  },
+  {
+    "spanish": "la primera calle a la derecha",
+    "persian": "اولین خیابان سمت راست",
+    "example": "Toma la primera calle a la derecha.",
+    "example_persian": "وارد اولین خیابان سمت راست شو."
+  },
+  {
+    "spanish": "la segunda calle a la izquierda",
+    "persian": "دومین خیابان سمت چپ",
+    "example": "Gira por la segunda calle a la izquierda.",
+    "example_persian": "از دومین خیابان سمت چپ بپیچ."
+  },
+  {
+    "spanish": "la siguiente calle",
+    "persian": "خیابان بعدی",
+    "example": "Gira a la derecha en la siguiente calle.",
+    "example_persian": "در خیابان بعدی به راست بپیچ."
+  },
+  {
+    "spanish": "tener que + infinitivo",
+    "persian": "باید کاری را انجام دادن",
+    "example": "Tengo que tomar el metro.",
+    "example_persian": "باید سوار مترو شوم."
+  },
+  {
+    "spanish": "¿Cómo puedo llegar a...?",
+    "persian": "چطور می‌توانم به ... برسم؟",
+    "example": "¿Cómo puedo llegar a la catedral?",
+    "example_persian": "چطور می‌توانم به کلیسای جامع برسم؟"
+  },
+  {
+    "spanish": "¿Está lejos?",
+    "persian": "آیا دور است؟",
+    "example": "Perdone, ¿está lejos el Museo del Oro?",
+    "example_persian": "ببخشید، موزهٔ طلا دور است؟"
+  },
+  {
+    "spanish": "¿Está cerca?",
+    "persian": "آیا نزدیک است؟",
+    "example": "¿Está cerca la estación de metro?",
+    "example_persian": "ایستگاه مترو نزدیک است؟"
+  },
+  {
+    "spanish": "¿Para ir a...?",
+    "persian": "برای رفتن به ... از کدام مسیر باید رفت؟",
+    "example": "Perdone, ¿para ir al Museo Botero?",
+    "example_persian": "ببخشید، برای رفتن به موزهٔ بوترو از کدام مسیر باید بروم؟"
+  },
+  {
+    "spanish": "No soy de aquí.",
+    "persian": "من اهل اینجا نیستم.",
+    "example": "Lo siento, no soy de aquí.",
+    "example_persian": "متأسفم، من اهل اینجا نیستم."
+  },
+  {
+    "spanish": "No tengo ni idea.",
+    "persian": "اصلاً نمی‌دانم.",
+    "example": "No tengo ni idea de dónde está la estación.",
+    "example_persian": "اصلاً نمی‌دانم ایستگاه کجاست."
+  },
+  {
+    "spanish": "pasar por",
+    "persian": "از جایی عبور کردن",
+    "example": "Para llegar al hotel, pasas por la plaza.",
+    "example_persian": "برای رسیدن به هتل از میدان عبور می‌کنی."
+  },
+  {
+    "spanish": "pasar por debajo de",
+    "persian": "از زیرِ چیزی عبور کردن",
+    "example": "Pasamos por debajo de un puente.",
+    "example_persian": "از زیر یک پل عبور می‌کنیم."
+  },
+  {
+    "spanish": "atravesar",
+    "persian": "از میان چیزی عبور کردن",
+    "example": "Tienes que atravesar el parque.",
+    "example_persian": "باید از پارک عبور کنی."
+  },
+  {
+    "spanish": "estar justo al lado",
+    "persian": "دقیقاً کنار چیزی بودن",
+    "example": "La parada está justo al lado del supermercado.",
+    "example_persian": "ایستگاه دقیقاً کنار سوپرمارکت است."
+  },
+  {
+    "spanish": "el sentido de la orientación",
+    "persian": "قدرت جهت‌یابی",
+    "example": "Tengo buen sentido de la orientación.",
+    "example_persian": "قدرت جهت‌یابی خوبی دارم."
+  },
+  {
+    "spanish": "la aplicación de mapas",
+    "persian": "اپلیکیشن نقشه",
+    "example": "Uso una aplicación de mapas para encontrar la calle.",
+    "example_persian": "برای پیدا کردن خیابان از اپلیکیشن نقشه استفاده می‌کنم."
+  },
+  {
+    "spanish": "la ciudad",
+    "persian": "شهر",
+    "example": "Sevilla es una ciudad muy bonita.",
+    "example_persian": "سویا شهر بسیار زیبایی است."
+  },
+  {
+    "spanish": "el centro histórico",
+    "persian": "مرکز تاریخی شهر",
+    "example": "Vamos a pasear por el centro histórico.",
+    "example_persian": "می‌خواهیم در مرکز تاریخی شهر قدم بزنیم."
+  },
+  {
+    "spanish": "el barrio",
+    "persian": "محله",
+    "example": "Vivo en un barrio tranquilo.",
+    "example_persian": "در محله‌ای آرام زندگی می‌کنم."
+  },
+  {
+    "spanish": "el barrio antiguo",
+    "persian": "محلهٔ قدیمی",
+    "example": "El barrio antiguo tiene muchos monumentos.",
+    "example_persian": "محلهٔ قدیمی بناهای تاریخی زیادی دارد."
+  },
+  {
+    "spanish": "la calle",
+    "persian": "خیابان",
+    "example": "El hotel está en esta calle.",
+    "example_persian": "هتل در این خیابان است."
+  },
+  {
+    "spanish": "la avenida",
+    "persian": "خیابان اصلی، بلوار",
+    "example": "La avenida es muy grande.",
+    "example_persian": "بلوار بسیار بزرگ است."
+  },
+  {
+    "spanish": "la plaza",
+    "persian": "میدان",
+    "example": "Nos vemos en la plaza.",
+    "example_persian": "در میدان همدیگر را می‌بینیم."
+  },
+  {
+    "spanish": "el puente",
+    "persian": "پل",
+    "example": "El puente está cerca del río.",
+    "example_persian": "پل نزدیک رودخانه است."
+  },
+  {
+    "spanish": "el río",
+    "persian": "رودخانه",
+    "example": "Hay muchos restaurantes junto al río.",
+    "example_persian": "کنار رودخانه رستوران‌های زیادی وجود دارد."
+  },
+  {
+    "spanish": "el parque",
+    "persian": "پارک",
+    "example": "Paseamos por el parque por la tarde.",
+    "example_persian": "بعدازظهر در پارک قدم می‌زنیم."
+  },
+  {
+    "spanish": "el centro comercial",
+    "persian": "مرکز خرید",
+    "example": "El centro comercial abre a las diez.",
+    "example_persian": "مرکز خرید ساعت ده باز می‌شود."
+  },
+  {
+    "spanish": "la tienda",
+    "persian": "مغازه",
+    "example": "Esta tienda vende recuerdos.",
+    "example_persian": "این مغازه سوغاتی می‌فروشد."
+  },
+  {
+    "spanish": "la tienda de ropa",
+    "persian": "فروشگاه لباس",
+    "example": "Compro una camiseta en la tienda de ropa.",
+    "example_persian": "از فروشگاه لباس یک تی‌شرت می‌خرم."
+  },
+  {
+    "spanish": "la tienda de regalos",
+    "persian": "فروشگاه هدایا",
+    "example": "Hay una tienda de regalos cerca del museo.",
+    "example_persian": "نزدیک موزه یک فروشگاه هدایا وجود دارد."
+  },
+  {
+    "spanish": "el supermercado",
+    "persian": "سوپرمارکت",
+    "example": "Compro fruta en el supermercado.",
+    "example_persian": "از سوپرمارکت میوه می‌خرم."
+  },
+  {
+    "spanish": "la farmacia",
+    "persian": "داروخانه",
+    "example": "¿Dónde hay una farmacia por aquí?",
+    "example_persian": "در این حوالی داروخانه کجاست؟"
+  },
+  {
+    "spanish": "la panadería",
+    "persian": "نانوایی",
+    "example": "La panadería está al lado del banco.",
+    "example_persian": "نانوایی کنار بانک است."
+  },
+  {
+    "spanish": "la frutería",
+    "persian": "میوه‌فروشی",
+    "example": "Compro manzanas en la frutería.",
+    "example_persian": "از میوه‌فروشی سیب می‌خرم."
+  },
+  {
+    "spanish": "la zapatería",
+    "persian": "کفش‌فروشی",
+    "example": "La zapatería está enfrente de la farmacia.",
+    "example_persian": "کفش‌فروشی روبه‌روی داروخانه است."
+  },
+  {
+    "spanish": "la perfumería",
+    "persian": "عطر و لوازم آرایشی‌فروشی",
+    "example": "Mi hermana compra perfume en la perfumería.",
+    "example_persian": "خواهرم از عطر‌فروشی عطر می‌خرد."
+  },
+  {
+    "spanish": "la confitería",
+    "persian": "قنادی",
+    "example": "Esta confitería prepara dulces deliciosos.",
+    "example_persian": "این قنادی شیرینی‌های خوشمزه‌ای درست می‌کند."
+  },
+  {
+    "spanish": "el restaurante",
+    "persian": "رستوران",
+    "example": "Hay un restaurante típico en esta calle.",
+    "example_persian": "در این خیابان یک رستوران محلی وجود دارد."
+  },
+  {
+    "spanish": "la cafetería",
+    "persian": "کافه",
+    "example": "Tomamos un café en la cafetería.",
+    "example_persian": "در کافه قهوه می‌نوشیم."
+  },
+  {
+    "spanish": "el cine",
+    "persian": "سینما",
+    "example": "Vamos al cine el sábado.",
+    "example_persian": "شنبه به سینما می‌رویم."
+  },
+  {
+    "spanish": "el banco",
+    "persian": "بانک",
+    "example": "Hay un banco al lado del supermercado.",
+    "example_persian": "کنار سوپرمارکت یک بانک وجود دارد."
+  },
+  {
+    "spanish": "el cajero automático",
+    "persian": "دستگاه خودپرداز",
+    "example": "Necesito dinero. ¿Dónde hay un cajero automático?",
+    "example_persian": "پول لازم دارم. خودپرداز کجاست؟"
+  },
+  {
+    "spanish": "la oficina de Correos",
+    "persian": "ادارهٔ پست",
+    "example": "Quiero comprar sellos en la oficina de Correos.",
+    "example_persian": "می‌خواهم از ادارهٔ پست تمبر بخرم."
+  },
+  {
+    "spanish": "el punto de información",
+    "persian": "باجهٔ اطلاعات",
+    "example": "Pregunta en el punto de información.",
+    "example_persian": "از باجهٔ اطلاعات سؤال کن."
+  },
+  {
+    "spanish": "los servicios",
+    "persian": "سرویس‌های بهداشتی",
+    "example": "Perdone, ¿dónde están los servicios?",
+    "example_persian": "ببخشید، سرویس‌های بهداشتی کجا هستند؟"
+  },
+  {
+    "spanish": "el monumento",
+    "persian": "بنای تاریخی، یادمان",
+    "example": "Hay muchos monumentos en el centro histórico.",
+    "example_persian": "در مرکز تاریخی شهر بناهای تاریخی زیادی وجود دارد."
+  },
+  {
+    "spanish": "la catedral",
+    "persian": "کلیسای جامع",
+    "example": "La catedral está cerca de la plaza.",
+    "example_persian": "کلیسای جامع نزدیک میدان است."
+  },
+  {
+    "spanish": "el museo",
+    "persian": "موزه",
+    "example": "El museo abre a las nueve.",
+    "example_persian": "موزه ساعت نه باز می‌شود."
+  },
+  {
+    "spanish": "el Museo del Oro",
+    "persian": "موزهٔ طلا",
+    "example": "Quiero visitar el Museo del Oro en Bogotá.",
+    "example_persian": "می‌خواهم در بوگوتا از موزهٔ طلا دیدن کنم."
+  },
+  {
+    "spanish": "el Museo Botero",
+    "persian": "موزهٔ بوترو",
+    "example": "La entrada al Museo Botero es gratuita.",
+    "example_persian": "ورود به موزهٔ بوترو رایگان است."
+  },
+  {
+    "spanish": "el museo de Bellas Artes",
+    "persian": "موزهٔ هنرهای زیبا",
+    "example": "En el museo de Bellas Artes hay cuadros famosos.",
+    "example_persian": "در موزهٔ هنرهای زیبا تابلوهای مشهوری وجود دارد."
+  },
+  {
+    "spanish": "el palacio",
+    "persian": "کاخ",
+    "example": "El Alcázar es un palacio histórico.",
+    "example_persian": "آلکاسار یک کاخ تاریخی است."
+  },
+  {
+    "spanish": "la torre",
+    "persian": "برج",
+    "example": "Desde la torre hay una vista fantástica.",
+    "example_persian": "از بالای برج منظرهٔ فوق‌العاده‌ای وجود دارد."
+  },
+  {
+    "spanish": "la iglesia",
+    "persian": "کلیسا",
+    "example": "La iglesia está al lado de la plaza.",
+    "example_persian": "کلیسا کنار میدان است."
+  },
+  {
+    "spanish": "la mezquita",
+    "persian": "مسجد",
+    "example": "La torre es de una antigua mezquita.",
+    "example_persian": "این برج متعلق به یک مسجد قدیمی است."
+  },
+  {
+    "spanish": "la tumba",
+    "persian": "آرامگاه، مقبره",
+    "example": "La tumba de Cristóbal Colón está en la catedral.",
+    "example_persian": "آرامگاه کریستف کلمب در کلیسای جامع قرار دارد."
+  },
+  {
+    "spanish": "el teatro",
+    "persian": "تئاتر",
+    "example": "Esta noche vamos al teatro.",
+    "example_persian": "امشب به تئاتر می‌رویم."
+  },
+  {
+    "spanish": "el concierto",
+    "persian": "کنسرت",
+    "example": "Hay un concierto de guitarra esta noche.",
+    "example_persian": "امشب یک کنسرت گیتار برگزار می‌شود."
+  },
+  {
+    "spanish": "la entrada",
+    "persian": "بلیت ورود",
+    "example": "¿Cuánto cuesta una entrada para el museo?",
+    "example_persian": "بلیت موزه چقدر قیمت دارد؟"
+  },
+  {
+    "spanish": "la visita guiada",
+    "persian": "بازدید همراه با راهنما",
+    "example": "¿Hay visitas guiadas en la catedral?",
+    "example_persian": "آیا در کلیسای جامع بازدید همراه با راهنما وجود دارد؟"
+  },
+  {
+    "spanish": "el cuadro",
+    "persian": "تابلو نقاشی",
+    "example": "Me gusta este cuadro de Goya.",
+    "example_persian": "این تابلوی گویا را دوست دارم."
+  },
+  {
+    "spanish": "la pintura",
+    "persian": "نقاشی",
+    "example": "El museo tiene pinturas muy bonitas.",
+    "example_persian": "موزه نقاشی‌های بسیار زیبایی دارد."
+  },
+  {
+    "spanish": "la escultura",
+    "persian": "مجسمه‌سازی؛ تندیس",
+    "example": "En el museo hay pinturas y esculturas.",
+    "example_persian": "در موزه نقاشی‌ها و مجسمه‌هایی وجود دارد."
+  },
+  {
+    "spanish": "el jardín",
+    "persian": "باغ",
+    "example": "El palacio tiene unos jardines preciosos.",
+    "example_persian": "کاخ باغ‌های بسیار زیبایی دارد."
+  },
+  {
+    "spanish": "la terraza",
+    "persian": "تراس، فضای باز رستوران",
+    "example": "Cenamos en una terraza junto al río.",
+    "example_persian": "در فضای باز رستورانی کنار رودخانه شام می‌خوریم."
+  },
+  {
+    "spanish": "el recuerdo",
+    "persian": "سوغاتی، یادگاری",
+    "example": "Compro un recuerdo para mi familia.",
+    "example_persian": "برای خانواده‌ام یک سوغاتی می‌خرم."
+  },
+  {
+    "spanish": "el producto tradicional",
+    "persian": "محصول سنتی",
+    "example": "Esta tienda vende productos tradicionales.",
+    "example_persian": "این مغازه محصولات سنتی می‌فروشد."
+  },
+  {
+    "spanish": "la cerámica",
+    "persian": "سفال و سرامیک",
+    "example": "En esta tienda venden cerámica.",
+    "example_persian": "در این مغازه سفال و سرامیک می‌فروشند."
+  },
+  {
+    "spanish": "el pintor",
+    "persian": "نقاش",
+    "example": "Goya es un pintor famoso.",
+    "example_persian": "گویا نقاش مشهوری است."
+  },
+  {
+    "spanish": "el escultor",
+    "persian": "مجسمه‌ساز",
+    "example": "Fernando Botero es un pintor y escultor colombiano.",
+    "example_persian": "فرناندو بوترو نقاش و مجسمه‌ساز کلمبیایی است."
+  },
+  {
+    "spanish": "el artista",
+    "persian": "هنرمند",
+    "example": "Hay obras de artistas colombianos en el Capitolio.",
+    "example_persian": "در کاپیتولیو آثاری از هنرمندان کلمبیایی وجود دارد."
+  },
+  {
+    "spanish": "la obra",
+    "persian": "اثر هنری",
+    "example": "Quiero ver las obras de artistas colombianos.",
+    "example_persian": "می‌خواهم آثار هنرمندان کلمبیایی را ببینم."
+  },
+  {
+    "spanish": "el espacio cultural",
+    "persian": "فضای فرهنگی",
+    "example": "El centro cultural tiene una biblioteca y una cafetería.",
+    "example_persian": "مرکز فرهنگی یک کتابخانه و یک کافه دارد."
+  },
+  {
+    "spanish": "la biblioteca",
+    "persian": "کتابخانه",
+    "example": "La biblioteca está cerca del teatro.",
+    "example_persian": "کتابخانه نزدیک تئاتر است."
+  },
+  {
+    "spanish": "la galería de arte",
+    "persian": "گالری هنری",
+    "example": "Visitamos una galería de arte en el centro.",
+    "example_persian": "از یک گالری هنری در مرکز شهر دیدن می‌کنیم."
+  },
+  {
+    "spanish": "pasear",
+    "persian": "قدم زدن، گردش کردن",
+    "example": "Me gusta pasear por el centro histórico.",
+    "example_persian": "دوست دارم در مرکز تاریخی شهر قدم بزنم."
+  },
+  {
+    "spanish": "visitar",
+    "persian": "بازدید کردن",
+    "example": "Quiero visitar la catedral de Sevilla.",
+    "example_persian": "می‌خواهم از کلیسای جامع سویا دیدن کنم."
+  },
+  {
+    "spanish": "descansar",
+    "persian": "استراحت کردن",
+    "example": "Podemos descansar en el parque.",
+    "example_persian": "می‌توانیم در پارک استراحت کنیم."
+  },
+  {
+    "spanish": "ir de compras",
+    "persian": "به خرید رفتن",
+    "example": "Por la tarde voy de compras.",
+    "example_persian": "بعدازظهر به خرید می‌روم."
+  },
+  {
+    "spanish": "hacer una pausa",
+    "persian": "کمی استراحت کردن",
+    "example": "Vamos a hacer una pausa y tomar un café.",
+    "example_persian": "بیایید کمی استراحت کنیم و قهوه بنوشیم."
+  },
+  {
+    "spanish": "recomendar",
+    "persian": "توصیه کردن، پیشنهاد دادن",
+    "example": "¿Me puede recomendar un restaurante típico?",
+    "example_persian": "می‌توانید یک رستوران محلی به من پیشنهاد دهید؟"
+  },
+  {
+    "spanish": "abrir",
+    "persian": "باز کردن؛ باز بودنِ یک مکان در ساعت مشخص",
+    "example": "¿El museo abre los lunes?",
+    "example_persian": "آیا موزه دوشنبه‌ها باز است؟"
+  },
+  {
+    "spanish": "cerrar",
+    "persian": "بستن؛ تعطیل شدن",
+    "example": "¿A qué hora cierra la tienda?",
+    "example_persian": "مغازه ساعت چند تعطیل می‌شود؟"
+  },
+  {
+    "spanish": "vender",
+    "persian": "فروختن",
+    "example": "Esta tienda vende recuerdos regionales.",
+    "example_persian": "این مغازه سوغاتی‌های محلی می‌فروشد."
+  },
+  {
+    "spanish": "costar",
+    "persian": "قیمت داشتن",
+    "example": "¿Cuánto cuesta una entrada?",
+    "example_persian": "یک بلیت چقدر قیمت دارد؟"
+  },
+  {
+    "spanish": "salir",
+    "persian": "خارج شدن؛ حرکت کردن",
+    "example": "¿De dónde sale el autobús para Triana?",
+    "example_persian": "اتوبوس تریانا از کجا حرکت می‌کند؟"
+  },
+  {
+    "spanish": "comprar",
+    "persian": "خریدن",
+    "example": "Quiero comprar sellos en Correos.",
+    "example_persian": "می‌خواهم از ادارهٔ پست تمبر بخرم."
+  },
+  {
+    "spanish": "el horario",
+    "persian": "ساعت کاری، برنامهٔ زمانی",
+    "example": "¿Cuál es el horario del museo?",
+    "example_persian": "ساعت کاری موزه چیست؟"
+  },
+  {
+    "spanish": "el lunes",
+    "persian": "دوشنبه",
+    "example": "Las tiendas abren el lunes.",
+    "example_persian": "مغازه‌ها دوشنبه باز هستند."
+  },
+  {
+    "spanish": "el martes",
+    "persian": "سه‌شنبه",
+    "example": "El martes visitamos el museo.",
+    "example_persian": "سه‌شنبه از موزه دیدن می‌کنیم."
+  },
+  {
+    "spanish": "el miércoles",
+    "persian": "چهارشنبه",
+    "example": "El miércoles voy al centro comercial.",
+    "example_persian": "چهارشنبه به مرکز خرید می‌روم."
+  },
+  {
+    "spanish": "el jueves",
+    "persian": "پنجشنبه",
+    "example": "El jueves hay un concierto.",
+    "example_persian": "پنجشنبه یک کنسرت برگزار می‌شود."
+  },
+  {
+    "spanish": "el viernes",
+    "persian": "جمعه",
+    "example": "El viernes quiero ir al teatro.",
+    "example_persian": "جمعه می‌خواهم به تئاتر بروم."
+  },
+  {
+    "spanish": "el sábado",
+    "persian": "شنبه",
+    "example": "El sábado visitamos el Museo Botero.",
+    "example_persian": "شنبه از موزهٔ بوترو دیدن می‌کنیم."
+  },
+  {
+    "spanish": "el domingo",
+    "persian": "یکشنبه",
+    "example": "El domingo paseo por el parque.",
+    "example_persian": "یکشنبه در پارک قدم می‌زنم."
+  },
+  {
+    "spanish": "el fin de semana",
+    "persian": "آخر هفته",
+    "example": "Este fin de semana voy a Sevilla.",
+    "example_persian": "این آخر هفته به سویا می‌روم."
+  },
+  {
+    "spanish": "la ciudad grande",
+    "persian": "شهر بزرگ",
+    "example": "Bogotá es una ciudad grande.",
+    "example_persian": "بوگوتا شهر بزرگی است."
+  },
+  {
+    "spanish": "el lugar",
+    "persian": "مکان، محل",
+    "example": "La plaza es un lugar ideal para empezar la visita.",
+    "example_persian": "میدان مکان ایدئالی برای شروع بازدید است."
+  },
+  {
+    "spanish": "el lugar de interés",
+    "persian": "جای دیدنی",
+    "example": "Hay muchos lugares de interés en esta ciudad.",
+    "example_persian": "در این شهر جاهای دیدنی زیادی وجود دارد."
+  },
+  {
+    "spanish": "la ciudad turística",
+    "persian": "شهر گردشگری",
+    "example": "Sevilla es una ciudad turística muy conocida.",
+    "example_persian": "سویا شهر گردشگری بسیار شناخته‌شده‌ای است."
+  },
+  {
+    "spanish": "el centro",
+    "persian": "مرکز شهر",
+    "example": "El hotel está en el centro.",
+    "example_persian": "هتل در مرکز شهر است."
+  },
+  {
+    "spanish": "típico",
+    "persian": "محلی، سنتی، شاخص",
+    "example": "Quiero probar la comida típica de Sevilla.",
+    "example_persian": "می‌خواهم غذای محلی سویا را امتحان کنم."
+  },
+  {
+    "spanish": "antiguo",
+    "persian": "قدیمی",
+    "example": "El barrio antiguo es muy bonito.",
+    "example_persian": "محلهٔ قدیمی بسیار زیباست."
+  },
+  {
+    "spanish": "famoso",
+    "persian": "مشهور",
+    "example": "El museo es famoso por sus cuadros.",
+    "example_persian": "موزه به‌خاطر تابلوهایش مشهور است."
+  },
+  {
+    "spanish": "precioso",
+    "persian": "بسیار زیبا",
+    "example": "El palacio tiene unos jardines preciosos.",
+    "example_persian": "کاخ باغ‌های بسیار زیبایی دارد."
+  },
+  {
+    "spanish": "interesante",
+    "persian": "جالب",
+    "example": "El centro histórico es muy interesante.",
+    "example_persian": "مرکز تاریخی شهر بسیار جالب است."
+  },
+  {
+    "spanish": "regional",
+    "persian": "منطقه‌ای، محلی",
+    "example": "En esta tienda venden productos regionales.",
+    "example_persian": "در این مغازه محصولات محلی می‌فروشند."
+  },
+  {
+    "spanish": "peatonal",
+    "persian": "ویژهٔ عابران پیاده",
+    "example": "La calle Sierpes es una zona peatonal.",
+    "example_persian": "خیابان سیئرپس منطقه‌ای مخصوص عابران پیاده است."
+  },
+  {
+    "spanish": "gratuito",
+    "persian": "رایگان",
+    "example": "La entrada al museo es gratuita.",
+    "example_persian": "ورود به موزه رایگان است."
+  },
+  {
+    "spanish": "dinámico",
+    "persian": "پویا، پرجنب‌وجوش",
+    "example": "Bogotá es una ciudad muy dinámica.",
+    "example_persian": "بوگوتا شهری بسیار پویا است."
+  },
+  {
+    "spanish": "hermoso",
+    "persian": "زیبا",
+    "example": "Cartagena es una ciudad hermosa.",
+    "example_persian": "کارتاخنا شهر زیبایی است."
+  },
+  {
+    "spanish": "variado",
+    "persian": "متنوع",
+    "example": "El programa del teatro es muy variado.",
+    "example_persian": "برنامهٔ تئاتر بسیار متنوع است."
+  },
+  {
+    "spanish": "el ambiente",
+    "persian": "حال‌وهوا، فضای اجتماعی",
+    "example": "Sevilla es una ciudad con mucho ambiente.",
+    "example_persian": "سویا شهری با حال‌وهوای پرجنب‌وجوش است."
+  },
+  {
+    "spanish": "la zona",
+    "persian": "منطقه",
+    "example": "Esta zona tiene muchas tiendas.",
+    "example_persian": "این منطقه مغازه‌های زیادی دارد."
+  },
+  {
+    "spanish": "la zona peatonal",
+    "persian": "منطقهٔ مخصوص عابران پیاده",
+    "example": "Vamos de compras a la zona peatonal.",
+    "example_persian": "برای خرید به منطقهٔ مخصوص عابران پیاده می‌رویم."
+  },
+  {
+    "spanish": "la información turística",
+    "persian": "اطلاعات گردشگری",
+    "example": "Necesito información turística sobre Sevilla.",
+    "example_persian": "به اطلاعات گردشگری دربارهٔ سویا نیاز دارم."
+  },
+  {
+    "spanish": "la oficina de turismo",
+    "persian": "ادارهٔ اطلاعات گردشگری",
+    "example": "¿Dónde está la oficina de turismo?",
+    "example_persian": "ادارهٔ اطلاعات گردشگری کجاست؟"
+  },
+  {
+    "spanish": "¿Me puede recomendar...?",
+    "persian": "می‌توانید ... را به من پیشنهاد دهید؟",
+    "example": "¿Me puede recomendar un hotel barato?",
+    "example_persian": "می‌توانید یک هتل ارزان به من پیشنهاد دهید؟"
+  },
+  {
+    "spanish": "¿Sabe si...?",
+    "persian": "آیا می‌دانید که ...؟",
+    "example": "¿Sabe si el museo abre los lunes?",
+    "example_persian": "آیا می‌دانید موزه دوشنبه‌ها باز است؟"
+  },
+  {
+    "spanish": "¿Dónde se pueden comprar las entradas?",
+    "persian": "بلیت‌ها را از کجا می‌توان خرید؟",
+    "example": "Perdone, ¿dónde se pueden comprar las entradas?",
+    "example_persian": "ببخشید، بلیت‌ها را از کجا می‌توان خرید؟"
+  },
+  {
+    "spanish": "¿A qué hora cierra el museo?",
+    "persian": "موزه ساعت چند تعطیل می‌شود؟",
+    "example": "Perdone, ¿a qué hora cierra el museo?",
+    "example_persian": "ببخشید، موزه ساعت چند تعطیل می‌شود؟"
+  },
+  {
+    "spanish": "¿Hay visitas guiadas?",
+    "persian": "آیا بازدید همراه با راهنما وجود دارد؟",
+    "example": "¿Hay visitas guiadas en la catedral?",
+    "example_persian": "آیا در کلیسای جامع بازدید همراه با راهنما وجود دارد؟"
+  },
+  {
+    "spanish": "¿Cuánto cuesta una entrada?",
+    "persian": "یک بلیت چقدر قیمت دارد؟",
+    "example": "¿Cuánto cuesta una entrada para el concierto?",
+    "example_persian": "بلیت کنسرت چقدر قیمت دارد؟"
+  },
+  {
+    "spanish": "¿De dónde sale el autobús?",
+    "persian": "اتوبوس از کجا حرکت می‌کند؟",
+    "example": "¿De dónde sale el autobús para el centro?",
+    "example_persian": "اتوبوس مرکز شهر از کجا حرکت می‌کند؟"
+  },
+  {
+    "spanish": "¿Tiene un plano de la ciudad?",
+    "persian": "نقشهٔ شهر را دارید؟",
+    "example": "Perdone, ¿tiene un plano de la ciudad?",
+    "example_persian": "ببخشید، نقشهٔ شهر را دارید؟"
+  },
+  {
+    "spanish": "¿Dónde hay...?",
+    "persian": "... کجا وجود دارد؟",
+    "example": "¿Dónde hay un restaurante típico por aquí?",
+    "example_persian": "در این حوالی یک رستوران محلی کجا وجود دارد؟"
+  },
+  {
+    "spanish": "España",
+    "persian": "اسپانیا",
+    "example": "Vivo en España.",
+    "example_persian": "در اسپانیا زندگی می‌کنم."
+  },
+  {
+    "spanish": "Colombia",
+    "persian": "کلمبیا",
+    "example": "Quiero viajar a Colombia.",
+    "example_persian": "می‌خواهم به کلمبیا سفر کنم."
+  },
+  {
+    "spanish": "Costa Rica",
+    "persian": "کاستاریکا",
+    "example": "Costa Rica tiene una naturaleza muy variada.",
+    "example_persian": "کاستاریکا طبیعت بسیار متنوعی دارد."
+  },
+  {
+    "spanish": "Bogotá",
+    "persian": "بوگوتا",
+    "example": "Bogotá es la capital de Colombia.",
+    "example_persian": "بوگوتا پایتخت کلمبیاست."
+  },
+  {
+    "spanish": "Sevilla",
+    "persian": "سویا",
+    "example": "Sevilla está en el sur de España.",
+    "example_persian": "سویا در جنوب اسپانیاست."
+  },
+  {
+    "spanish": "Madrid",
+    "persian": "مادرید",
+    "example": "Madrid es la capital de España.",
+    "example_persian": "مادرید پایتخت اسپانیاست."
+  },
+  {
+    "spanish": "Medellín",
+    "persian": "مدئین",
+    "example": "Medellín es una ciudad colombiana.",
+    "example_persian": "مدئین شهری در کلمبیاست."
+  },
+  {
+    "spanish": "Cartagena",
+    "persian": "کارتاخنا",
+    "example": "Cartagena es una ciudad de Colombia.",
+    "example_persian": "کارتاخنا شهری در کلمبیاست."
+  },
+  {
+    "spanish": "Barranquilla",
+    "persian": "بارانکییا",
+    "example": "Barranquilla es famosa por su carnaval.",
+    "example_persian": "بارانکییا به‌خاطر کارناوالش مشهور است."
+  },
+  {
+    "spanish": "Nicaragua",
+    "persian": "نیکاراگوئه",
+    "example": "Nicaragua está al norte de Costa Rica.",
+    "example_persian": "نیکاراگوئه در شمال کاستاریکاست."
+  },
+  {
+    "spanish": "Panamá",
+    "persian": "پاناما",
+    "example": "Panamá está al sureste de Costa Rica.",
+    "example_persian": "پاناما در جنوب شرقی کاستاریکاست."
+  },
+  {
+    "spanish": "el país",
+    "persian": "کشور",
+    "example": "Mi país tiene muchas ciudades bonitas.",
+    "example_persian": "کشور من شهرهای زیبای زیادی دارد."
+  },
+  {
+    "spanish": "la capital",
+    "persian": "پایتخت",
+    "example": "¿Cuál es la capital de Colombia?",
+    "example_persian": "پایتخت کلمبیا کدام شهر است؟"
+  },
+  {
+    "spanish": "el idioma",
+    "persian": "زبان",
+    "example": "El español es el idioma oficial de Colombia.",
+    "example_persian": "اسپانیایی زبان رسمی کلمبیاست."
+  },
+  {
+    "spanish": "la lengua",
+    "persian": "زبان",
+    "example": "En este país se hablan varias lenguas.",
+    "example_persian": "در این کشور به چند زبان صحبت می‌شود."
+  },
+  {
+    "spanish": "la cultura",
+    "persian": "فرهنگ",
+    "example": "Me interesa la cultura española.",
+    "example_persian": "به فرهنگ اسپانیا علاقه دارم."
+  },
+  {
+    "spanish": "la naturaleza",
+    "persian": "طبیعت",
+    "example": "Costa Rica tiene una naturaleza extraordinaria.",
+    "example_persian": "کاستاریکا طبیعت فوق‌العاده‌ای دارد."
+  },
+  {
+    "spanish": "la playa",
+    "persian": "ساحل",
+    "example": "En verano vamos a la playa.",
+    "example_persian": "در تابستان به ساحل می‌رویم."
+  },
+  {
+    "spanish": "la selva",
+    "persian": "جنگل انبوه استوایی",
+    "example": "La selva amazónica es muy extensa.",
+    "example_persian": "جنگل آمازون بسیار گسترده است."
+  },
+  {
+    "spanish": "el volcán",
+    "persian": "آتشفشان",
+    "example": "En Costa Rica hay volcanes.",
+    "example_persian": "در کاستاریکا آتشفشان‌هایی وجود دارد."
+  },
+  {
+    "spanish": "la montaña",
+    "persian": "کوه",
+    "example": "Los Andes son unas montañas muy conocidas.",
+    "example_persian": "آند رشته‌کوه‌های بسیار شناخته‌شده‌ای است."
+  },
+  {
+    "spanish": "la costa",
+    "persian": "ساحل، ناحیهٔ ساحلی",
+    "example": "Colombia tiene costas en dos océanos.",
+    "example_persian": "کلمبیا در دو اقیانوس ناحیهٔ ساحلی دارد."
+  },
+  {
+    "spanish": "el océano",
+    "persian": "اقیانوس",
+    "example": "El océano Pacífico está al oeste de Costa Rica.",
+    "example_persian": "اقیانوس آرام در غرب کاستاریکاست."
+  },
+  {
+    "spanish": "el mar Caribe",
+    "persian": "دریای کارائیب",
+    "example": "El mar Caribe está al este de Costa Rica.",
+    "example_persian": "دریای کارائیب در شرق کاستاریکاست."
+  },
+  {
+    "spanish": "la biodiversidad",
+    "persian": "تنوع زیستی",
+    "example": "Costa Rica tiene una gran biodiversidad.",
+    "example_persian": "کاستاریکا تنوع زیستی زیادی دارد."
+  },
+  {
+    "spanish": "el parque natural",
+    "persian": "پارک طبیعی",
+    "example": "Visitamos un parque natural durante las vacaciones.",
+    "example_persian": "در طول تعطیلات از یک پارک طبیعی دیدن می‌کنیم."
+  },
+  {
+    "spanish": "la reserva biológica",
+    "persian": "منطقهٔ حفاظت‌شدهٔ زیستی",
+    "example": "La reserva biológica protege muchas especies.",
+    "example_persian": "منطقهٔ حفاظت‌شده از گونه‌های زیادی محافظت می‌کند."
+  },
+  {
+    "spanish": "la especie",
+    "persian": "گونه",
+    "example": "En Costa Rica hay muchas especies de aves.",
+    "example_persian": "در کاستاریکا گونه‌های زیادی از پرندگان وجود دارد."
+  },
+  {
+    "spanish": "el mamífero",
+    "persian": "پستاندار",
+    "example": "El jaguar es un mamífero.",
+    "example_persian": "جگوار یک پستاندار است."
+  },
+  {
+    "spanish": "el ave",
+    "persian": "پرنده",
+    "example": "Hay muchas aves en este parque.",
+    "example_persian": "در این پارک پرندگان زیادی وجود دارند."
+  },
+  {
+    "spanish": "el pez",
+    "persian": "ماهی",
+    "example": "En el río hay muchos peces.",
+    "example_persian": "در رودخانه ماهی‌های زیادی وجود دارند."
+  },
+  {
+    "spanish": "el anfibio",
+    "persian": "دوزیست",
+    "example": "La rana es un anfibio.",
+    "example_persian": "قورباغه یک دوزیست است."
+  },
+  {
+    "spanish": "el reptil",
+    "persian": "خزنده",
+    "example": "La tortuga es un reptil.",
+    "example_persian": "لاک‌پشت یک خزنده است."
+  },
+  {
+    "spanish": "la planta",
+    "persian": "گیاه",
+    "example": "En este parque hay muchas plantas.",
+    "example_persian": "در این پارک گیاهان زیادی وجود دارند."
+  },
+  {
+    "spanish": "la orquídea",
+    "persian": "ارکیده",
+    "example": "La orquídea es una flor muy bonita.",
+    "example_persian": "ارکیده گل بسیار زیبایی است."
+  },
+  {
+    "spanish": "el carnaval",
+    "persian": "کارناوال",
+    "example": "El carnaval de Barranquilla es muy famoso.",
+    "example_persian": "کارناوال بارانکییا بسیار مشهور است."
+  },
+  {
+    "spanish": "la música",
+    "persian": "موسیقی",
+    "example": "Me gusta mucho la música colombiana.",
+    "example_persian": "موسیقی کلمبیایی را خیلی دوست دارم."
+  },
+  {
+    "spanish": "el baile",
+    "persian": "رقص",
+    "example": "En Colombia hay una gran tradición de baile.",
+    "example_persian": "در کلمبیا سنت رقص بسیار غنی‌ای وجود دارد."
+  },
+  {
+    "spanish": "la cumbia",
+    "persian": "کومبیا؛ سبک موسیقی و رقص لاتین",
+    "example": "La cumbia es un ritmo latino muy popular.",
+    "example_persian": "کومبیا یک سبک موسیقی لاتین بسیار محبوب است."
+  },
+  {
+    "spanish": "el fútbol",
+    "persian": "فوتبال",
+    "example": "En Colombia a mucha gente le gusta el fútbol.",
+    "example_persian": "در کلمبیا افراد زیادی فوتبال را دوست دارند."
+  },
+  {
+    "spanish": "la población",
+    "persian": "جمعیت",
+    "example": "La mayor parte de la población vive en ciudades.",
+    "example_persian": "بخش عمدهٔ جمعیت در شهرها زندگی می‌کنند."
+  },
+  {
+    "spanish": "la ciudad",
+    "persian": "شهر",
+    "example": "Las ciudades colombianas son muy dinámicas.",
+    "example_persian": "شهرهای کلمبیا بسیار پویا هستند."
+  },
+  {
+    "spanish": "el norte",
+    "persian": "شمال",
+    "example": "Nicaragua está al norte de Costa Rica.",
+    "example_persian": "نیکاراگوئه در شمال کاستاریکاست."
+  },
+  {
+    "spanish": "el sur",
+    "persian": "جنوب",
+    "example": "Sevilla está en el sur de España.",
+    "example_persian": "سویا در جنوب اسپانیاست."
+  },
+  {
+    "spanish": "el este",
+    "persian": "شرق",
+    "example": "El mar Caribe está al este de Costa Rica.",
+    "example_persian": "دریای کارائیب در شرق کاستاریکاست."
+  },
+  {
+    "spanish": "el oeste",
+    "persian": "غرب",
+    "example": "El océano Pacífico está al oeste de Costa Rica.",
+    "example_persian": "اقیانوس آرام در غرب کاستاریکاست."
+  },
+  {
+    "spanish": "el noreste",
+    "persian": "شمال شرقی",
+    "example": "Barcelona está en el noreste de España.",
+    "example_persian": "بارسلونا در شمال شرقی اسپانیاست."
+  },
+  {
+    "spanish": "el sureste",
+    "persian": "جنوب شرقی",
+    "example": "Panamá está al sureste de Costa Rica.",
+    "example_persian": "پاناما در جنوب شرقی کاستاریکاست."
+  },
+  {
+    "spanish": "primero",
+    "persian": "اول",
+    "example": "Primero visitamos la catedral.",
+    "example_persian": "اول از کلیسای جامع دیدن می‌کنیم."
+  },
+  {
+    "spanish": "segundo",
+    "persian": "دوم",
+    "example": "El museo está en la segunda calle.",
+    "example_persian": "موزه در دومین خیابان است."
+  },
+  {
+    "spanish": "tercero",
+    "persian": "سوم",
+    "example": "Gira por la tercera calle a la derecha.",
+    "example_persian": "از سومین خیابان سمت راست بپیچ."
+  },
+  {
+    "spanish": "cuarto",
+    "persian": "چهارم",
+    "example": "La oficina está en el cuarto piso.",
+    "example_persian": "دفتر در طبقهٔ چهارم است."
+  },
+  {
+    "spanish": "quinto",
+    "persian": "پنجم",
+    "example": "Es la quinta calle a la izquierda.",
+    "example_persian": "این پنجمین خیابان سمت چپ است."
+  },
+  {
+    "spanish": "sexto",
+    "persian": "ششم",
+    "example": "El museo está en la sexta calle.",
+    "example_persian": "موزه در خیابان ششم است."
+  },
+  {
+    "spanish": "séptimo",
+    "persian": "هفتم",
+    "example": "Vivo en el séptimo piso.",
+    "example_persian": "در طبقهٔ هفتم زندگی می‌کنم."
+  },
+  {
+    "spanish": "octavo",
+    "persian": "هشتم",
+    "example": "Toma el autobús número ocho.",
+    "example_persian": "سوار اتوبوس شمارهٔ هشت شو."
+  },
+  {
+    "spanish": "noveno",
+    "persian": "نهم",
+    "example": "La novena calle está cerca del parque.",
+    "example_persian": "خیابان نهم نزدیک پارک است."
+  },
+  {
+    "spanish": "décimo",
+    "persian": "دهم",
+    "example": "La décima calle está al final de la avenida.",
+    "example_persian": "خیابان دهم در انتهای بلوار است."
+  },
+  {
+    "spanish": "después",
+    "persian": "بعد، پس از آن",
+    "example": "Primero vamos al museo y después al teatro.",
+    "example_persian": "اول به موزه می‌رویم و بعد به تئاتر."
+  },
+  {
+    "spanish": "luego",
+    "persian": "سپس، بعد",
+    "example": "Luego cruzamos la plaza.",
+    "example_persian": "سپس از میدان عبور می‌کنیم."
+  },
+  {
+    "spanish": "al final",
+    "persian": "در پایان، در نهایت",
+    "example": "Al final giras a la izquierda.",
+    "example_persian": "در پایان به چپ می‌پیچی."
+  },
+  {
+    "spanish": "primero... después... al final...",
+    "persian": "اول... بعد... در پایان...",
+    "example": "Primero toma el autobús, después baja en el centro y al final camina hasta el museo.",
+    "example_persian": "اول سوار اتوبوس شو، بعد در مرکز شهر پیاده شو و در پایان تا موزه پیاده برو."
+  },
+  {
+    "spanish": "la próxima semana",
+    "persian": "هفتهٔ آینده",
+    "example": "La próxima semana voy a Bogotá.",
+    "example_persian": "هفتهٔ آینده به بوگوتا می‌روم."
+  },
+  {
+    "spanish": "mañana",
+    "persian": "فردا",
+    "example": "Mañana visitamos el Museo del Oro.",
+    "example_persian": "فردا از موزهٔ طلا دیدن می‌کنیم."
+  },
+  {
+    "spanish": "hoy",
+    "persian": "امروز",
+    "example": "Hoy quiero pasear por el centro.",
+    "example_persian": "امروز می‌خواهم در مرکز شهر قدم بزنم."
+  },
+  {
+    "spanish": "por la mañana",
+    "persian": "صبح، در طول صبح",
+    "example": "Por la mañana visitamos la catedral.",
+    "example_persian": "صبح از کلیسای جامع دیدن می‌کنیم."
+  },
+  {
+    "spanish": "al mediodía",
+    "persian": "ظهر، هنگام ظهر",
+    "example": "Al mediodía comemos en un restaurante.",
+    "example_persian": "ظهر در یک رستوران غذا می‌خوریم."
+  },
+  {
+    "spanish": "por la tarde",
+    "persian": "بعدازظهر",
+    "example": "Por la tarde voy de compras.",
+    "example_persian": "بعدازظهر به خرید می‌روم."
+  },
+  {
+    "spanish": "por la noche",
+    "persian": "شب، در طول شب",
+    "example": "Por la noche vamos al teatro.",
+    "example_persian": "شب به تئاتر می‌رویم."
+  },
+  {
+    "spanish": "ser",
+    "persian": "بودن؛ برای هویت، ملیت و ویژگی‌ها",
+    "example": "Soy de Irán.",
+    "example_persian": "اهل ایران هستم."
+  },
+  {
+    "spanish": "estar",
+    "persian": "بودن؛ برای مکان و وضعیت",
+    "example": "El museo está cerca de la plaza.",
+    "example_persian": "موزه نزدیک میدان است."
+  },
+  {
+    "spanish": "ir",
+    "persian": "رفتن",
+    "example": "Voy al centro en metro.",
+    "example_persian": "با مترو به مرکز شهر می‌روم."
+  },
+  {
+    "spanish": "vivir",
+    "persian": "زندگی کردن",
+    "example": "Vivo en una ciudad grande.",
+    "example_persian": "در یک شهر بزرگ زندگی می‌کنم."
+  },
+  {
+    "spanish": "tener",
+    "persian": "داشتن",
+    "example": "Tengo un plano de la ciudad.",
+    "example_persian": "یک نقشهٔ شهر دارم."
+  },
+  {
+    "spanish": "haber",
+    "persian": "وجود داشتن؛ فعل کمکی",
+    "example": "Hay muchos monumentos en Sevilla.",
+    "example_persian": "در سویا بناهای تاریخی زیادی وجود دارد."
+  },
+  {
+    "spanish": "poder",
+    "persian": "توانستن",
+    "example": "¿Puede ayudarme, por favor?",
+    "example_persian": "می‌توانید لطفاً به من کمک کنید؟"
+  },
+  {
+    "spanish": "querer",
+    "persian": "خواستن",
+    "example": "Quiero visitar el museo.",
+    "example_persian": "می‌خواهم از موزه دیدن کنم."
+  },
+  {
+    "spanish": "preferir",
+    "persian": "ترجیح دادن",
+    "example": "Prefiero ir en tren.",
+    "example_persian": "ترجیح می‌دهم با قطار بروم."
+  },
+  {
+    "spanish": "probar",
+    "persian": "امتحان کردن؛ چشیدن",
+    "example": "Quiero probar la comida típica.",
+    "example_persian": "می‌خواهم غذای محلی را امتحان کنم."
+  },
+  {
+    "spanish": "tener que",
+    "persian": "باید؛ مجبور بودن به انجام کاری",
+    "example": "Tengo que tomar el autobús.",
+    "example_persian": "باید سوار اتوبوس شوم."
+  },
+  {
+    "spanish": "pedir",
+    "persian": "درخواست کردن؛ سفارش دادن",
+    "example": "Voy a pedir un café.",
+    "example_persian": "می‌خواهم یک قهوه سفارش بدهم."
+  },
+  {
+    "spanish": "servir",
+    "persian": "سرو کردن؛ خدمت کردن",
+    "example": "En este bar sirven tapas.",
+    "example_persian": "در این بار تاپاس سرو می‌کنند."
+  },
+  {
+    "spanish": "conocer",
+    "persian": "شناختن؛ آشنا بودن با",
+    "example": "Quiero conocer el centro histórico.",
+    "example_persian": "می‌خواهم مرکز تاریخی شهر را بشناسم."
+  },
+  {
+    "spanish": "saber",
+    "persian": "دانستن؛ بلد بودن",
+    "example": "¿Sabe dónde está la farmacia?",
+    "example_persian": "می‌دانید داروخانه کجاست؟"
+  },
+  {
+    "spanish": "explicar",
+    "persian": "توضیح دادن",
+    "example": "¿Puede explicarme el camino?",
+    "example_persian": "می‌توانید مسیر را برایم توضیح دهید؟"
+  },
+  {
+    "spanish": "preguntar",
+    "persian": "پرسیدن",
+    "example": "Voy a preguntar en la oficina de turismo.",
+    "example_persian": "می‌خواهم از ادارهٔ اطلاعات گردشگری سؤال کنم."
+  },
+  {
+    "spanish": "encontrar",
+    "persian": "پیدا کردن",
+    "example": "No encuentro la estación.",
+    "example_persian": "ایستگاه را پیدا نمی‌کنم."
+  },
+  {
+    "spanish": "usar",
+    "persian": "استفاده کردن",
+    "example": "Uso el móvil para encontrar una dirección.",
+    "example_persian": "برای پیدا کردن آدرس از تلفن همراهم استفاده می‌کنم."
+  },
+  {
+    "spanish": "pasar",
+    "persian": "عبور کردن؛ گذشتن",
+    "example": "El autobús pasa por el centro.",
+    "example_persian": "اتوبوس از مرکز شهر عبور می‌کند."
+  },
+  {
+    "spanish": "tener buen sentido de la orientación",
+    "persian": "قدرت جهت‌یابی خوبی داشتن",
+    "example": "Tengo buen sentido de la orientación y encuentro la estación fácilmente.",
+    "example_persian": "قدرت جهت‌یابی خوبی دارم و ایستگاه را به‌راحتی پیدا می‌کنم."
+  },
+  {
+    "spanish": "estar orgulloso de",
+    "persian": "به چیزی افتخار کردن",
+    "example": "Estamos orgullosos de nuestra cultura.",
+    "example_persian": "به فرهنگ خود افتخار می‌کنیم."
+  },
+  {
+    "spanish": "se habla español",
+    "persian": "به زبان اسپانیایی صحبت می‌شود",
+    "example": "En España se habla español.",
+    "example_persian": "در اسپانیا به زبان اسپانیایی صحبت می‌شود."
+  },
+  {
+    "spanish": "se puede",
+    "persian": "می‌توان؛ امکان‌پذیر است",
+    "example": "En este museo se puede entrar gratis.",
+    "example_persian": "در این موزه می‌توان رایگان وارد شد."
+  },
+  {
+    "spanish": "se pueden comprar",
+    "persian": "می‌توان خرید",
+    "example": "Aquí se pueden comprar las entradas.",
+    "example_persian": "اینجا می‌توان بلیت‌ها را خرید."
+  },
+  {
+    "spanish": "lo",
+    "persian": "ضمیر مفعولی مستقیم مذکر مفرد",
+    "example": "El museo está cerca y lo veo desde aquí.",
+    "example_persian": "موزه نزدیک است و آن را از اینجا می‌بینم."
+  },
+  {
+    "spanish": "la",
+    "persian": "ضمیر مفعولی مستقیم مؤنث مفرد",
+    "example": "La catedral es bonita y la visito hoy.",
+    "example_persian": "کلیسای جامع زیباست و امروز از آن دیدن می‌کنم."
+  },
+  {
+    "spanish": "los",
+    "persian": "ضمیر مفعولی مستقیم مذکر جمع",
+    "example": "Los museos son interesantes y los visito a menudo.",
+    "example_persian": "موزه‌ها جالب هستند و اغلب از آن‌ها دیدن می‌کنم."
+  },
+  {
+    "spanish": "las",
+    "persian": "ضمیر مفعولی مستقیم مؤنث جمع",
+    "example": "Las entradas son gratuitas y las compro hoy.",
+    "example_persian": "بلیت‌ها رایگان هستند و امروز آن‌ها را می‌خرم."
+  }
+
+ {
+    "spanish": "¿Qué ciudad prefieres conocer?",
+    "persian": "ترجیح می‌دهی از کدام شهر دیدن کنی؟",
+    "example": "¿Qué ciudad prefieres conocer, Sevilla o Bogotá?",
+    "example_persian": "ترجیح می‌دهی از کدام شهر دیدن کنی، سویا یا بوگوتا؟"
+  },
+  {
+    "spanish": "¿Por qué?",
+    "persian": "چرا؟",
+    "example": "¿Por qué quieres visitar este museo?",
+    "example_persian": "چرا می‌خواهی از این موزه دیدن کنی؟"
+  },
+  {
+    "spanish": "Para mí...",
+    "persian": "از نظر من...",
+    "example": "Para mí, la catedral es el monumento más bonito.",
+    "example_persian": "از نظر من، کلیسای جامع زیباترین بنای تاریخی است."
+  },
+  {
+    "spanish": "¿Qué hay en esta ciudad?",
+    "persian": "در این شهر چه چیزهایی وجود دارد؟",
+    "example": "¿Qué hay en esta ciudad además de museos?",
+    "example_persian": "در این شهر به‌جز موزه‌ها چه چیزهایی وجود دارد؟"
+  },
+  {
+    "spanish": "¿Dónde se encuentra...?",
+    "persian": "... کجا قرار دارد؟",
+    "example": "¿Dónde se encuentra el Museo Botero?",
+    "example_persian": "موزهٔ بوترو کجا قرار دارد؟"
+  },
+  {
+    "spanish": "¿Cómo es tu ciudad?",
+    "persian": "شهر تو چگونه است؟",
+    "example": "¿Cómo es tu ciudad? ¿Es grande o pequeña?",
+    "example_persian": "شهر تو چگونه است؟ بزرگ است یا کوچک؟"
+  },
+  {
+    "spanish": "Está al lado de...",
+    "persian": "کنارِ ... قرار دارد.",
+    "example": "El restaurante está al lado de la catedral.",
+    "example_persian": "رستوران کنار کلیسای جامع قرار دارد."
+  },
+  {
+    "spanish": "Está cerca de...",
+    "persian": "نزدیکِ ... قرار دارد.",
+    "example": "La estación está cerca del centro.",
+    "example_persian": "ایستگاه نزدیک مرکز شهر قرار دارد."
+  },
+  {
+    "spanish": "Hay muchos...",
+    "persian": "چیزهای زیادی وجود دارد.",
+    "example": "Hay muchos bares en este barrio.",
+    "example_persian": "در این محله بارهای زیادی وجود دارد."
+  },
+  {
+    "spanish": "Se puede ir a pie.",
+    "persian": "می‌توان پیاده رفت.",
+    "example": "El museo está cerca; se puede ir a pie.",
+    "example_persian": "موزه نزدیک است؛ می‌توان پیاده رفت."
+  },
+  {
+    "spanish": "¿Cuánto tiempo se tarda?",
+    "persian": "چقدر طول می‌کشد؟",
+    "example": "¿Cuánto tiempo se tarda en llegar al centro?",
+    "example_persian": "رسیدن به مرکز شهر چقدر طول می‌کشد؟"
+  },
+  {
+    "spanish": "Está a cinco minutos.",
+    "persian": "پنج دقیقه فاصله دارد.",
+    "example": "La farmacia está a cinco minutos de aquí.",
+    "example_persian": "داروخانه از اینجا پنج دقیقه فاصله دارد."
+  },
+  {
+    "spanish": "Muchas gracias por la información.",
+    "persian": "از اطلاعاتتان بسیار ممنونم.",
+    "example": "Muchas gracias por la información y por su ayuda.",
+    "example_persian": "از اطلاعات و کمکتان بسیار ممنونم."
+  },
+  {
+    "spanish": "De nada.",
+    "persian": "خواهش می‌کنم.",
+    "example": "Muchas gracias. —De nada.",
+    "example_persian": "خیلی ممنون. —خواهش می‌کنم."
+  },
+  {
+    "spanish": "Perdone, una pregunta.",
+    "persian": "ببخشید، یک سؤال دارم.",
+    "example": "Perdone, una pregunta: ¿dónde está el museo?",
+    "example_persian": "ببخشید، یک سؤال دارم: موزه کجاست؟"
+  },
+  {
+    "spanish": "No lo sé.",
+    "persian": "نمی‌دانم.",
+    "example": "Lo siento, no lo sé.",
+    "example_persian": "متأسفم، نمی‌دانم."
+  },
+  {
+    "spanish": "Exactamente.",
+    "persian": "دقیقاً",
+    "example": "¿La primera calle a la izquierda? —Exactamente.",
+    "example_persian": "اولین خیابان سمت چپ؟ —دقیقاً."
+  },
+  {
+    "spanish": "¿Vale?",
+    "persian": "باشه؟، موافقی؟",
+    "example": "Nos vemos mañana a las nueve, ¿vale?",
+    "example_persian": "فردا ساعت نه همدیگر را می‌بینیم، باشه؟"
+  },
+  {
+    "spanish": "de vacaciones",
+    "persian": "در تعطیلات",
+    "example": "Este verano voy a Colombia de vacaciones.",
+    "example_persian": "تابستان امسال برای تعطیلات به کلمبیا می‌روم."
+  },
+  {
+    "spanish": "de excursión",
+    "persian": "به گردش یا سفر تفریحی",
+    "example": "El domingo vamos de excursión.",
+    "example_persian": "یکشنبه به گردش می‌رویم."
+  },
+  {
+    "spanish": "al trabajo",
+    "persian": "به محل کار",
+    "example": "Voy al trabajo en metro.",
+    "example_persian": "با مترو به محل کار می‌روم."
+  },
+  {
+    "spanish": "al aeropuerto",
+    "persian": "به فرودگاه",
+    "example": "Voy al aeropuerto en taxi.",
+    "example_persian": "با تاکسی به فرودگاه می‌روم."
+  },
+  {
+    "spanish": "a visitar a mi familia",
+    "persian": "برای دیدن خانواده‌ام",
+    "example": "Voy a Colombia a visitar a mi familia.",
+    "example_persian": "برای دیدن خانواده‌ام به کلمبیا می‌روم."
+  },
+  {
+    "spanish": "el transporte público",
+    "persian": "حمل‌ونقل عمومی",
+    "example": "Uso el transporte público todos los días.",
+    "example_persian": "هر روز از حمل‌ونقل عمومی استفاده می‌کنم."
+  },
+  {
+    "spanish": "la aplicación de mapas",
+    "persian": "اپلیکیشن نقشه",
+    "example": "Uso una aplicación de mapas para llegar al museo.",
+    "example_persian": "برای رسیدن به موزه از اپلیکیشن نقشه استفاده می‌کنم."
   }
 ]
