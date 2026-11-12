@@ -6814,5 +6814,101 @@
     "persian": "اپلیکیشن نقشه",
     "example": "Uso una aplicación de mapas para llegar al museo.",
     "example_persian": "برای رسیدن به موزه از اپلیکیشن نقشه استفاده می‌کنم."
+  },
+  {
+    "spanish": "la ruta",
+    "persian": "مسیر؛ جاده",
+    "example": "La ruta es muy larga.",
+    "example_persian": "این مسیر خیلی طولانی است."
+  },
+  {
+    "spanish": "buenos días",
+    "persian": "صبح بخیر",
+    "example": "Buenos días, ¿cómo estás?",
+    "example_persian": "صبح بخیر، حالت چطور است؟"
+  },
+  {
+    "spanish": "buenas noches",
+    "persian": "شب بخیر",
+    "example": "Buenas noches, hasta mañana.",
+    "example_persian": "شب بخیر، تا فردا."
+  },
+  {
+    "spanish": "hasta luego",
+    "persian": "فعلاً؛ تا بعد",
+    "example": "Hasta luego, nos vemos mañana.",
+    "example_persian": "فعلاً، فردا می‌بینمت."
+  },
+  {
+    "spanish": "hasta pronto",
+    "persian": "به‌زودی می‌بینمت",
+    "example": "Hasta pronto, Ana.",
+    "example_persian": "به‌زودی می‌بینمت، آنا."
+  },
+  {
+    "spanish": "hasta mañana",
+    "persian": "تا فردا",
+    "example": "Adiós, hasta mañana.",
+    "example_persian": "خداحافظ، تا فردا."
+  },
+  {
+    "spanish": "¿Qué significa?",
+    "persian": "چه معنی‌ای می‌دهد؟",
+    "example": "¿Qué significa esta palabra?",
+    "example_persian": "این کلمه چه معنی‌ای می‌دهد؟"
+  },
+  {
+    "spanish": "el señor",
+    "persian": "آقا؛ جناب",
+    "example": "El señor vive aquí.",
+    "example_persian": "این آقا اینجا زندگی می‌کند."
+  },
+  {
+    "spanish": "la región",
+    "persian": "منطقه؛ ناحیه",
+    "example": "Esta región es muy bonita.",
+    "example_persian": "این منطقه خیلی زیباست."
+  },
+  {
+    "spanish": "el pronombre personal",
+    "persian": "ضمیر شخصی",
+    "example": "«Yo» es un pronombre personal.",
+    "example_persian": "«Yo» یک ضمیر شخصی است."
+  },
+  {
+    "spanish": "el evento",
+    "persian": "رویداد؛ مراسم",
+    "example": "El evento empieza a las diez.",
+    "example_persian": "رویداد ساعت ده شروع می‌شود."
+  },
+  {
+    "spanish": "anunciar",
+    "persian": "اعلام کردن؛ آگهی کردن",
+    "example": "La escuela anuncia un curso nuevo.",
+    "example_persian": "مدرسه یک دورهٔ جدید اعلام می‌کند."
+  },
+  {
+    "spanish": "internacional",
+    "persian": "بین‌المللی",
+    "example": "Es una empresa internacional.",
+    "example_persian": "این یک شرکت بین‌المللی است."
+  },
+  {
+    "spanish": "el cambio",
+    "persian": "تغییر",
+    "example": "Necesito un cambio.",
+    "example_persian": "من به یک تغییر نیاز دارم."
+  },
+  {
+    "spanish": "el mundo del trabajo",
+    "persian": "دنیای کار",
+    "example": "El mundo del trabajo cambia mucho.",
+    "example_persian": "دنیای کار خیلی تغییر می‌کند."
+  },
+  {
+    "spanish": "la profesión",
+    "persian": "حرفه؛ شغل",
+    "example": "¿Cuál es tu profesión?",
+    "example_persian": "شغل تو چیست؟"
   }
 ]
