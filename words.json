@@ -7174,5 +7174,323 @@
     "persian": "معنی: اظهارنظر کردن؛ توضیح دادن\n\nصرف در زمان حال:\nYo: comento — من نظر می‌دهم دربارهٔ متن.\nTú: comentas — تو نظر می‌دهی دربارهٔ متن.\nÉl / Ella / Usted: comenta — او نظر می‌دهد دربارهٔ متن.\nNosotros/as: comentamos — ما نظر می‌دهیم دربارهٔ متن.\nVosotros/as: comentáis — شما نظر می‌دهید دربارهٔ متن.\nEllos / Ellas / Ustedes: comentan — آن‌ها نظر می‌دهند دربارهٔ متن.\n\nصرف در گذشتهٔ کامل (Pretérito Perfecto Compuesto):\nYo: he comentado — من نظر داده‌ام دربارهٔ متن.\nTú: has comentado — تو نظر داده‌ای دربارهٔ متن.\nÉl / Ella / Usted: ha comentado — او نظر داده است دربارهٔ متن.\nNosotros/as: hemos comentado — ما نظر داده‌ایم دربارهٔ متن.\nVosotros/as: habéis comentado — شما نظر داده‌اید دربارهٔ متن.\nEllos / Ellas / Ustedes: han comentado — آن‌ها نظر داده‌اند دربارهٔ متن.",
     "example": "نمونه‌های زمان حال:\n1. Yo comento el texto.\n2. Tú comentas el texto.\n3. Él comenta el texto.\n4. Nosotros comentamos el texto.\n5. Vosotros comentáis el texto.\n6. Ellos comentan el texto.\n\nنمونه‌های گذشتهٔ کامل:\n1. Yo he comentado el texto.\n2. Tú has comentado el texto.\n3. Él ha comentado el texto.\n4. Nosotros hemos comentado el texto.\n5. Vosotros habéis comentado el texto.\n6. Ellos han comentado el texto.",
     "example_persian": "ترجمهٔ مثال‌های زمان حال:\n1. من نظر می‌دهم دربارهٔ متن.\n2. تو نظر می‌دهی دربارهٔ متن.\n3. او نظر می‌دهد دربارهٔ متن.\n4. ما نظر می‌دهیم دربارهٔ متن.\n5. شما نظر می‌دهید دربارهٔ متن.\n6. آن‌ها نظر می‌دهند دربارهٔ متن.\n\nترجمهٔ مثال‌های گذشتهٔ کامل:\n1. من نظر داده‌ام دربارهٔ متن.\n2. تو نظر داده‌ای دربارهٔ متن.\n3. او نظر داده است دربارهٔ متن.\n4. ما نظر داده‌ایم دربارهٔ متن.\n5. شما نظر داده‌اید دربارهٔ متن.\n6. آن‌ها نظر داده‌اند دربارهٔ متن."
+  },
+  {
+    "spanish": "el enfermero / la enfermera",
+    "persian": "پرستار",
+    "example": "La enfermera trabaja en un hospital.",
+    "example_persian": "پرستار در بیمارستان کار می‌کند."
+  },
+  {
+    "spanish": "el médico / la médica",
+    "persian": "پزشک",
+    "example": "El médico trabaja en una clínica.",
+    "example_persian": "پزشک در یک درمانگاه کار می‌کند."
+  },
+  {
+    "spanish": "el profesor / la profesora",
+    "persian": "معلم؛ استاد",
+    "example": "Mi profesora enseña español.",
+    "example_persian": "معلم من اسپانیایی تدریس می‌کند."
+  },
+  {
+    "spanish": "el informático / la informática",
+    "persian": "متخصص فناوری اطلاعات",
+    "example": "El informático trabaja en una empresa.",
+    "example_persian": "متخصص فناوری اطلاعات در یک شرکت کار می‌کند."
+  },
+  {
+    "spanish": "el arquitecto / la arquitecta",
+    "persian": "معمار",
+    "example": "La arquitecta diseña edificios.",
+    "example_persian": "معمار ساختمان‌ها را طراحی می‌کند."
+  },
+  {
+    "spanish": "el veterinario / la veterinaria",
+    "persian": "دامپزشک",
+    "example": "El veterinario trabaja con animales.",
+    "example_persian": "دامپزشک با حیوانات کار می‌کند."
+  },
+  {
+    "spanish": "el dentista",
+    "persian": "دندان‌پزشک",
+    "example": "Voy al dentista.",
+    "example_persian": "به دندان‌پزشک می‌روم."
+  },
+  {
+    "spanish": "el policía / la policía",
+    "persian": "پلیس",
+    "example": "La policía trabaja en la ciudad.",
+    "example_persian": "پلیس در شهر کار می‌کند."
+  },
+  {
+    "spanish": "el representante",
+    "persian": "نماینده",
+    "example": "El representante habla con los clientes.",
+    "example_persian": "نماینده با مشتری‌ها صحبت می‌کند."
+  },
+  {
+    "spanish": "el taller",
+    "persian": "کارگاه؛ تعمیرگاه",
+    "example": "Trabajo en un taller.",
+    "example_persian": "در یک کارگاه کار می‌کنم."
+  },
+  {
+    "spanish": "la escuela",
+    "persian": "مدرسه",
+    "example": "Los niños están en la escuela.",
+    "example_persian": "بچه‌ها در مدرسه هستند."
+  },
+  {
+    "spanish": "el estudio",
+    "persian": "دفتر کار؛ استودیو",
+    "example": "Tiene un estudio pequeño.",
+    "example_persian": "او یک دفتر کوچک دارد."
+  },
+  {
+    "spanish": "el despacho",
+    "persian": "دفتر کار",
+    "example": "Mi padre trabaja en un despacho.",
+    "example_persian": "پدرم در یک دفتر کار می‌کند."
+  },
+  {
+    "spanish": "el teléfono móvil",
+    "persian": "تلفن همراه",
+    "example": "Este es mi teléfono móvil.",
+    "example_persian": "این تلفن همراه من است."
+  },
+  {
+    "spanish": "el lugar de nacimiento",
+    "persian": "محل تولد",
+    "example": "Mi lugar de nacimiento es Lima.",
+    "example_persian": "محل تولدم لیماست."
+  },
+  {
+    "spanish": "el lugar de residencia",
+    "persian": "محل سکونت",
+    "example": "Madrid es mi lugar de residencia.",
+    "example_persian": "محل سکونتم مادرید است."
+  },
+  {
+    "spanish": "el hermano / la hermana",
+    "persian": "برادر / خواهر",
+    "example": "Tengo un hermano y una hermana.",
+    "example_persian": "یک برادر و یک خواهر دارم."
+  },
+  {
+    "spanish": "el hijo / la hija",
+    "persian": "پسر / دختر",
+    "example": "Tienen dos hijos.",
+    "example_persian": "آن‌ها دو فرزند دارند."
+  },
+  {
+    "spanish": "el abuelo / la abuela",
+    "persian": "پدربزرگ / مادربزرگ",
+    "example": "Mi abuela vive en México.",
+    "example_persian": "مادربزرگم در مکزیک زندگی می‌کند."
+  },
+  {
+    "spanish": "el nieto / la nieta",
+    "persian": "نوه",
+    "example": "Su nieta tiene diez años.",
+    "example_persian": "نوهٔ او ده سال دارد."
+  },
+  {
+    "spanish": "el sobrino / la sobrina",
+    "persian": "برادرزاده / خواهرزاده",
+    "example": "Mi sobrino estudia español.",
+    "example_persian": "برادرزاده‌ام اسپانیایی می‌خواند."
+  },
+  {
+    "spanish": "el tío / la tía",
+    "persian": "عمو، دایی، عمه، خاله",
+    "example": "Mi tía vive en Sevilla.",
+    "example_persian": "عمه‌ام در سویا زندگی می‌کند."
+  },
+  {
+    "spanish": "el primo / la prima",
+    "persian": "پسرعمو/دخترعمو و دیگر نسبت‌های هم‌نسل",
+    "example": "Mi prima es médica.",
+    "example_persian": "دخترعمویم پزشک است."
+  },
+  {
+    "spanish": "el esposo / la esposa",
+    "persian": "شوهر / همسر",
+    "example": "Su esposo es actor.",
+    "example_persian": "همسرش بازیگر است."
+  },
+  {
+    "spanish": "atractivo/a",
+    "persian": "جذاب",
+    "example": "Es una persona atractiva.",
+    "example_persian": "او فرد جذابی است."
+  },
+  {
+    "spanish": "original",
+    "persian": "اصیل؛ خلاقانه",
+    "example": "Tiene una idea original.",
+    "example_persian": "او ایده‌ای خلاقانه دارد."
+  },
+  {
+    "spanish": "la película",
+    "persian": "فیلم",
+    "example": "Me gusta esta película.",
+    "example_persian": "این فیلم را دوست دارم."
+  },
+  {
+    "spanish": "la familia",
+    "persian": "خانواده",
+    "example": "Mi familia vive en Irán.",
+    "example_persian": "خانواده‌ام در ایران زندگی می‌کند."
+  },
+  {
+    "spanish": "enero",
+    "persian": "ژانویه",
+    "example": "Mi curso empieza en enero.",
+    "example_persian": "دوره‌ام در ژانویه شروع می‌شود."
+  },
+  {
+    "spanish": "febrero",
+    "persian": "فوریه",
+    "example": "Febrero tiene veintiocho días.",
+    "example_persian": "فوریه بیست‌وهشت روز دارد."
+  },
+  {
+    "spanish": "marzo",
+    "persian": "مارس",
+    "example": "En marzo empieza la primavera.",
+    "example_persian": "بهار در مارس شروع می‌شود."
+  },
+  {
+    "spanish": "abril",
+    "persian": "آوریل",
+    "example": "Mi cumpleaños no es en abril.",
+    "example_persian": "تولدم در آوریل نیست."
+  },
+  {
+    "spanish": "mayo",
+    "persian": "مه",
+    "example": "En mayo hace buen tiempo.",
+    "example_persian": "در ماه مه هوا خوب است."
+  },
+  {
+    "spanish": "junio",
+    "persian": "ژوئن",
+    "example": "El curso termina en junio.",
+    "example_persian": "دوره در ژوئن تمام می‌شود."
+  },
+  {
+    "spanish": "julio",
+    "persian": "ژوئیه",
+    "example": "En julio hace mucho calor.",
+    "example_persian": "در ژوئیه هوا خیلی گرم است."
+  },
+  {
+    "spanish": "agosto",
+    "persian": "اوت",
+    "example": "En agosto muchas personas están de vacaciones.",
+    "example_persian": "در اوت افراد زیادی در تعطیلات هستند."
+  },
+  {
+    "spanish": "septiembre",
+    "persian": "سپتامبر",
+    "example": "La escuela empieza en septiembre.",
+    "example_persian": "مدرسه در سپتامبر شروع می‌شود."
+  },
+  {
+    "spanish": "octubre",
+    "persian": "اکتبر",
+    "example": "Octubre es un mes de otoño.",
+    "example_persian": "اکتبر ماهی از فصل پاییز است."
+  },
+  {
+    "spanish": "noviembre",
+    "persian": "نوامبر",
+    "example": "En noviembre hace frío.",
+    "example_persian": "در نوامبر هوا سرد است."
+  },
+  {
+    "spanish": "diciembre",
+    "persian": "دسامبر",
+    "example": "Diciembre es el último mes del año.",
+    "example_persian": "دسامبر آخرین ماه سال است."
+  },
+  {
+    "spanish": "la empresa familiar",
+    "persian": "شرکت خانوادگی",
+    "example": "Es una empresa familiar de cinco generaciones.",
+    "example_persian": "این یک شرکت خانوادگی با پنج نسل سابقه است."
+  },
+  {
+    "spanish": "el cacao",
+    "persian": "کاکائو",
+    "example": "El chocolate se hace con cacao.",
+    "example_persian": "شکلات با کاکائو تهیه می‌شود."
+  },
+  {
+    "spanish": "el sector",
+    "persian": "بخش؛ حوزهٔ اقتصادی",
+    "example": "Trabaja en el sector musical.",
+    "example_persian": "او در حوزهٔ موسیقی کار می‌کند."
+  },
+  {
+    "spanish": "la lengua indígena",
+    "persian": "زبان بومی",
+    "example": "El náhuatl es una lengua indígena.",
+    "example_persian": "ناهواتل یک زبان بومی است."
+  },
+  {
+    "spanish": "el aguacate",
+    "persian": "آووکادو",
+    "example": "El guacamole lleva aguacate.",
+    "example_persian": "گواکاموله آووکادو دارد."
+  },
+  {
+    "spanish": "el patrimonio",
+    "persian": "میراث",
+    "example": "El centro histórico es Patrimonio de la Humanidad.",
+    "example_persian": "مرکز تاریخی میراث جهانی است."
+  },
+  {
+    "spanish": "el lago",
+    "persian": "دریاچه",
+    "example": "El lago está al norte.",
+    "example_persian": "دریاچه در شمال قرار دارد."
+  },
+  {
+    "spanish": "el templo",
+    "persian": "معبد",
+    "example": "El templo está en la zona arqueológica.",
+    "example_persian": "معبد در محوطهٔ باستان‌شناسی قرار دارد."
+  },
+  {
+    "spanish": "la artesanía",
+    "persian": "صنایع دستی",
+    "example": "Guatemala es conocida por su artesanía.",
+    "example_persian": "گواتمالا به صنایع دستی‌اش معروف است."
+  },
+  {
+    "spanish": "la frontera",
+    "persian": "مرز",
+    "example": "Guatemala limita con México.",
+    "example_persian": "گواتمالا با مکزیک هم‌مرز است."
+  },
+  {
+    "spanish": "la religión",
+    "persian": "دین؛ مذهب",
+    "example": "La religión forma parte de la cultura.",
+    "example_persian": "دین بخشی از فرهنگ است."
+  },
+  {
+    "spanish": "el mercado",
+    "persian": "بازار",
+    "example": "Venden productos en el mercado.",
+    "example_persian": "آن‌ها در بازار محصولات می‌فروشند."
+  },
+  {
+    "spanish": "RESOLVER — حل کردن\n\nPresente:\nYo: resuelvo\nTú: resuelves\nÉl / Ella / Usted: resuelve\nNosotros/as: resolvemos\nVosotros/as: resolvéis\nEllos / Ellas / Ustedes: resuelven\n\nPretérito Perfecto Compuesto:\nYo: he resuelto\nTú: has resuelto\nÉl / Ella / Usted: ha resuelto\nNosotros/as: hemos resuelto\nVosotros/as: habéis resuelto\nEllos / Ellas / Ustedes: han resuelto",
+    "persian": "معنی: حل کردن\n\nصرف در زمان حال:\nYo: resuelvo\nTú: resuelves\nÉl / Ella / Usted: resuelve\nNosotros/as: resolvemos\nVosotros/as: resolvéis\nEllos / Ellas / Ustedes: resuelven\n\nصرف در گذشتهٔ کامل:\nYo: he resuelto\nTú: has resuelto\nÉl / Ella / Usted: ha resuelto\nNosotros/as: hemos resuelto\nVosotros/as: habéis resuelto\nEllos / Ellas / Ustedes: han resuelto",
+    "example": "نمونه‌های زمان حال:\n1. Yo resuelvo el problema.\n2. Tú resuelves la pregunta.\n3. Ella resuelve el ejercicio.\n4. Nosotros resolvemos el problema juntos.\n5. Vosotros resolvéis las dudas.\n6. Ellos resuelven el conflicto.\n\nنمونه‌های گذشتهٔ کامل:\n1. He resuelto\n2. Has resuelto\n3. Ha resuelto\n4. Hemos resuelto\n5. Habéis resuelto\n6. Han resuelto",
+    "example_persian": "ترجمهٔ مثال‌های زمان حال:\n1. من مشکل را حل می‌کنم.\n2. تو سؤال را حل می‌کنی.\n3. او تمرین را حل می‌کند.\n4. ما مشکل را با هم حل می‌کنیم.\n5. شما ابهام‌ها را برطرف می‌کنید.\n6. آن‌ها اختلاف را حل می‌کنند.\n\nترجمهٔ مثال‌های گذشتهٔ کامل:\n1. من حل کردن کرده‌ام.\n2. تو حل کردن کرده‌ام.\n3. او حل کردن کرده است.\n4. ما حل کردن کرده‌ام.\n5. شما حل کردن کرده‌اید.\n6. آن‌ها حل کردن کرده‌اند."
   }
 ]
